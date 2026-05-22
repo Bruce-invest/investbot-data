@@ -1,0 +1,18 @@
+# Ping Current -- 2026-05-22 -- Anchor: intraday -- Updated: 14:38
+
+| Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
+|---|---|---|---|---|---|---|---|
+| GE | 300.51 | 32.6 | -64.4 | bearish | 302.28 | 300.51 | ACTION |
+| MU | 778.59 | 76.2 | -55.2 | overbought | 779.39 | 767.45 | ACTION |
+| SPY | 746.30 | 71.5 | -0.3 | overbought |  |  | -- |
+| XLB | 50.25 |  | -45.3 |  |  |  | -- |
+| XLC | 116.46 |  | -5.9 |  |  |  | -- |
+| XLE | 59.17 | 38.9 | -7.4 | bearish |  |  | -- |
+| XLF | 52.01 | 85.3 | -0.0 | overbought |  |  | -- |
+| XLI | 171.62 |  | -5.8 |  |  |  | -- |
+| XLK | 179.77 | 36.8 | -5.4 | bearish |  |  | -- |
+| XLP | 84.93 |  | 72.5 |  |  |  | -- |
+| XLRE | 44.51 | 47.0 | 686.1 | neutral | 44.64 | 44.45 | -- |
+| XLU | 45.14 | 68.6 | -0.0 | bullish |  |  | -- |
+| XLV | 148.90 | 100.0 | -17.2 | overbought |  |  | -- |
+| XLY | 119.14 |  | -5.0 |  |  |  | -- |
