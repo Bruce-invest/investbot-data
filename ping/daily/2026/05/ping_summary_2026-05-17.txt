@@ -1,0 +1,7 @@
+# Ping Session Summary -- 2026-05-17
+
+| Ticker | Type | Bars | Decisions | GO | Conditional | Null | First Bar | Last Bar |
+|---|---|---|---|---|---|---|---|---|
+| AAPL | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
+| COST | candidate | 1 | 0 | 0 | 0 | 1 | 15:59:00 | 15:59:00 |
+| CSCO | candidate | 1 | 0 | 1 | 0 | 0 | 15:59:00 | 15:59:00 |
