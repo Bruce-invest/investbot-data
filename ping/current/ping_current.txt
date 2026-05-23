@@ -1,4 +1,4 @@
-# Ping Current -- 2026-05-23 -- Anchor: intraday -- Updated: 12:55
+# Ping Current -- 2026-05-23 -- Anchor: post_market -- Updated: 16:15
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
