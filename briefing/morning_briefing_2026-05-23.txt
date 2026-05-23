@@ -1,4 +1,4 @@
-# Morning Briefing — 2026-05-23 — INTRADAY — 10:55
+# Morning Briefing — 2026-05-23 — INTRADAY — 11:55
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
@@ -39,12 +39,13 @@
 | Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | GE | CONDITIONAL | $302.79 | — | RANGING | $295.98 | $305.66 | 0.704 | 50% | MONITOR | $295.43 | no | — | — | — | — |
-| AAPL | CONDITIONAL | $308.82 | — | RANGING | $301.76 | $312.44 | 0.661 | 50% | MONITOR | $301.21 | no | — | — | — | — |
+| AAPL | CONDITIONAL | $308.88 | — | RANGING | $301.76 | $312.44 | 0.667 | 50% | MONITOR | $301.21 | no | — | — | — | — |
 
 ## Ping Summary
 | Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
 |---|---|---|---|---|---|---|---|---|
 | 15:59 | GE | $302.79 | 67.5 | Bullish | 56.3 | $302.91 | $301.17 | 1 |
+| 15:59 | AAPL | $308.88 | 55.0 | Neutral | 140.2 | $309.40 | $307.97 | — |
 
 ## Trade Log
 _No trades recorded_
