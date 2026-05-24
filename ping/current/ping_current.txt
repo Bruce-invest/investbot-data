@@ -1,3 +1,5 @@
-# Ping Current -- 2026-05-24 -- Anchor: market_open -- Updated: 10:16
+# Ping Current -- 2026-05-24 -- Anchor: intraday -- Updated: 10:55
 
-_No intraday data available_
+| Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
+|---|---|---|---|---|---|---|---|
+| GE | 302.79 | 67.5 | 56.3 | bullish | 302.91 | 301.17 | ACTION |
