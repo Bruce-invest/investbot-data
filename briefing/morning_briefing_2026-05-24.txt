@@ -1,4 +1,4 @@
-# Morning Briefing — 2026-05-24 — INTRADAY — 12:55
+# Morning Briefing — 2026-05-24 — POST-MARKET — 16:15
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
@@ -35,11 +35,8 @@
 | 14 | GEV | XLI | 0.47 | 0.000 | Bearish | Neutral | 84.4 | 67.4 | 50.9 | 51.1 | 47.0 | no-go |
 | 15 | BA | XLI | 0.47 | 0.000 | Bearish | Confirming | 53.8 | 49.5 | 44.5 | 47.3 | 49.1 | no-go |
 
-## Candidates — INTRADAY — variant: lever1_reweighted
-| Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| GE | CONDITIONAL | $302.79 | — | RANGING | $295.98 | $305.66 | 0.704 | 50% | MONITOR | $295.43 | no | — | — | — | — |
-| AAPL | CONDITIONAL | $308.88 | — | RANGING | $301.76 | $312.44 | 0.667 | 50% | MONITOR | $301.21 | no | — | — | — | — |
+## Candidates — POST-MARKET — variant: lever1_reweighted
+_No candidates_
 
 ## Ping Summary
 | Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
@@ -49,3 +46,9 @@
 
 ## Trade Log
 _No trades recorded_
+
+## Session Range
+| Ticker | Session High | Session Low | Range | Open | Close | Day Move | Day Move% |
+|---|---|---|---|---|---|---|---|
+| AAPL | $309.40 | $307.97 | $1.43 | $309.27 | $308.88 | $-0.39 | -0% |
+| GE | $302.91 | $301.17 | $1.74 | $302.77 | $302.79 | $0.02 | 0% |
