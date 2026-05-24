@@ -1,14 +1,49 @@
-# Morning Briefing — 2026-05-24 — PRE-MARKET — 08:55
+# Morning Briefing — 2026-05-24 — MARKET OPEN — 10:16
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
-_No data_
+| ETF | Sector | Score | RSI | Coil | RelStr | Classification | Pattern |
+|---|---|---|---|---|---|---|---|
+| XLI | Industrials | 0.70 | 0.10 | 1.00 | 0.17 | Leading | full_coil |
+| XLB | Materials | 0.54 | 0.10 | 0.75 | 0.17 | Supporting | strong_coil |
+| XLV | Health Care | 0.50 | 0.50 | 0.50 | 0.50 | Supporting | partial_coil |
+| XLRE | Real Estate | 0.48 | 0.30 | 0.50 | 0.50 | Supporting | partial_coil |
+| XLP | Consumer Staples | 0.43 | 0.27 | 0.50 | 0.33 | Supporting | partial_coil |
+| XLC | Communication Services | 0.33 | 0.00 | 0.50 | 0.00 | Neutral | partial_coil |
+| XLK | Technology | 0.23 | 1.00 | 0.00 | 0.50 | Neutral | no_coil |
+| XLY | Consumer Discretionary | 0.17 | 0.50 | 0.00 | 0.50 | Lagging | no_coil |
+| XLF | Financials | 0.11 | 0.27 | 0.00 | 0.33 | Lagging | no_coil |
+| XLU | Utilities | 0.11 | 0.27 | 0.00 | 0.33 | Lagging | no_coil |
+| XLE | Energy | 0.05 | 0.10 | 0.00 | 0.17 | Lagging | no_coil |
 
 ## RSI Shortlist
-_No data_
+| Rank | Ticker | ETF | ETF Score | RSI Score | Macro | Intraday | Month | Week | Day | Hour | 30min | Gate |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | LIN | XLB | 0.54 | 0.134 | Bullish | Counter | 63.8 | 64.2 | 60.4 | 63.2 | 58.8 | no-go |
+| 2 | LLY | XLV | 0.50 | 0.147 | Bullish | Counter | 62.8 | 60.6 | 68.4 | 71.1 | 67.9 | no-go |
+| 3 | JNJ | XLV | 0.50 | 0.096 | Bullish | Counter | 70.0 | 58.9 | 58.1 | 68.7 | 65.3 | no-go |
+| 4 | WMT | XLP | 0.43 | 0.000 | Bearish | Confirming | 67.2 | 48.8 | 34.3 | 26.6 | 34.1 | no-go |
+| 5 | GE | XLI | 0.70 | 0.409 | Bullish | Confirming | 66.2 | 51.5 | 55.5 | 63.9 | 59.8 | CONDITIONAL |
+| 6 | NEM | XLB | 0.54 | 0.000 | Bearish | Counter | 66.7 | 50.6 | 43.8 | 46.7 | 46.8 | no-go |
+| 7 | CAT | XLI | 0.70 | 0.029 | Bearish | Counter | 81.3 | 74.9 | 55.5 | 52.7 | 50.9 | no-go |
+| 8 | COST | XLP | 0.43 | 0.109 | Bearish | Neutral | 63.4 | 58.9 | 50.2 | 30.9 | 31.6 | no-go |
+| 9 | ABBV | XLV | 0.50 | 0.102 | Bullish | Counter | 56.8 | 50.9 | 60.8 | 55.0 | 49.7 | no-go |
+| 10 | RTX | XLI | 0.70 | 0.059 | Bullish | Counter | 63.8 | 44.8 | 44.8 | 59.7 | 60.3 | no-go |
+| 11 | PG | XLP | 0.43 | 0.223 | Bullish | Confirming | 44.5 | 43.8 | 49.5 | 64.2 | 64.9 | no-go |
+| 12 | FCX | XLB | 0.54 | 0.045 | Bearish | Counter | 62.8 | 55.3 | 49.7 | 52.4 | 51.9 | no-go |
+| 13 | GEV | XLI | 0.70 | 0.000 | Bearish | Neutral | 84.4 | 67.4 | 50.9 | 51.1 | 47.0 | no-go |
+| 14 | KO | XLP | 0.43 | 0.163 | Bullish | Counter | 64.2 | 66.2 | 66.1 | 52.6 | 53.0 | no-go |
+| 15 | SHW | XLB | 0.54 | 0.075 | Mixed | Confirming | 45.4 | 41.2 | 43.8 | 57.7 | 56.7 | no-go |
+| 16 | MRK | XLV | 0.50 | 0.349 | Bullish | Neutral | 61.7 | 63.7 | 67.3 | 82.4 | 79.5 | no-go |
+| 17 | PM | XLP | 0.43 | 0.114 | Bullish | Counter | 64.9 | 64.4 | 67.5 | 49.1 | 49.2 | no-go |
+| 18 | CRH | XLB | 0.54 | 0.000 | Bearish | Counter | 50.7 | 38.1 | 33.7 | 44.3 | 47.8 | no-go |
+| 19 | BA | XLI | 0.70 | 0.000 | Bearish | Confirming | 53.8 | 49.5 | 44.5 | 47.3 | 49.1 | no-go |
+| 20 | UNH | XLV | 0.50 | 0.333 | Bullish | Confirming | 49.5 | 65.3 | 67.4 | 54.4 | 57.5 | no-go |
 
-## Candidates — PRE-MARKET — variant: lever1_reweighted
-_No candidates_
+## Candidates — MARKET OPEN — variant: lever1_reweighted
+| Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| GE | CONDITIONAL | $302.84 | — | RANGING | $295.98 | $305.66 | 0.708 | 50% | MONITOR | $291.12 | no | — | — | — | — |
 
 ## Ping Summary
 _No ping data_
