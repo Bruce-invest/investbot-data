@@ -1,0 +1,30 @@
+# Morning Briefing — 2026-05-25 — PRE-MARKET — 08:56
+**Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
+
+## ETF Tone
+_No data_
+
+## RSI Shortlist
+_No data_
+
+## Candidates — PRE-MARKET — variant: lever1_reweighted
+_No candidates_
+
+## Ping Summary
+| Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
+|---|---|---|---|---|---|---|---|---|
+| 19:51 | XLI | $171.76 | 50.8 | Neutral | 208.0 | $173.00 | $171.08 | — |
+| 19:52 | XLRE | $44.07 | 27.4 | Oversold | 0.0 | $44.63 | $43.99 | — |
+| 19:53 | XLV | $149.08 | 45.3 | Neutral | 264.5 | $150.21 | $149.00 | — |
+| 19:53 | XLC | $115.39 | 46.1 | Neutral | -86.6 | $115.58 | $115.23 | — |
+| 19:55 | XLY | $118.73 | 33.5 | Bearish | 51.0 | $119.44 | $118.73 | — |
+| 19:58 | XLP | $84.78 | 50.2 | Neutral | -81.6 | $84.97 | $84.44 | — |
+| 19:58 | XLB | $50.29 | 57.3 | Neutral | -9.9 | $50.36 | $50.03 | — |
+| 19:59 | XLU | $45.45 | 56.4 | Neutral | 37.8 | $45.45 | $43.74 | — |
+| 19:59 | XLK | $180.02 | 48.7 | Neutral | 159.7 | $180.85 | $179.92 | — |
+| 19:59 | XLF | $51.92 | 47.7 | Neutral | -70.3 | $52.00 | $51.92 | — |
+| 19:59 | XLE | $59.92 | 73.6 | Overbought | 1433.5 | $60.30 | $59.12 | — |
+| 19:59 | SPY | $743.74 | 24.6 | Oversold | -40.3 | $744.69 | $743.73 | — |
+
+## Trade Log
+_No trades recorded_
