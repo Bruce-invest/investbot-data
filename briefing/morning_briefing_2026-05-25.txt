@@ -1,4 +1,4 @@
-# Morning Briefing — 2026-05-25 — INTRADAY — 11:55
+# Morning Briefing — 2026-05-25 — POST-MARKET — 16:15
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
@@ -35,11 +35,8 @@
 | 14 | GEV | XLI | 0.47 | 0.000 | Bearish | Neutral | 84.4 | 67.4 | 50.9 | 51.1 | 47.0 | no-go |
 | 15 | BA | XLI | 0.47 | 0.000 | Bearish | Confirming | 53.8 | 49.5 | 44.5 | 47.3 | 49.1 | no-go |
 
-## Candidates — INTRADAY — variant: lever1_reweighted
-| Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| GE | CONDITIONAL | $302.79 | — | RANGING | $295.98 | $305.66 | 0.704 | 50% | MONITOR | $295.43 | no | — | — | — | — |
-| AAPL | CONDITIONAL | $308.88 | — | RANGING | $301.76 | $312.44 | 0.667 | 50% | MONITOR | $301.21 | no | — | — | — | — |
+## Candidates — POST-MARKET — variant: lever1_reweighted
+_No candidates_
 
 ## Ping Summary
 | Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
@@ -61,3 +58,21 @@
 
 ## Trade Log
 _No trades recorded_
+
+## Session Range
+| Ticker | Session High | Session Low | Range | Open | Close | Day Move | Day Move% |
+|---|---|---|---|---|---|---|---|
+| AAPL | $309.40 | $307.97 | $1.43 | $309.27 | $308.88 | $-0.39 | -0% |
+| GE | $302.91 | $301.17 | $1.74 | $302.77 | $302.79 | $0.02 | 0% |
+| SPY | $744.69 | $743.73 | $0.96 | $744.69 | $743.74 | $-0.95 | -0% |
+| XLB | $50.36 | $50.03 | $0.33 | $50.34 | $50.29 | $-0.04 | -0% |
+| XLC | $115.58 | $115.23 | $0.34 | $115.48 | $115.39 | $-0.09 | -0% |
+| XLE | $60.30 | $59.12 | $1.18 | $59.65 | $59.92 | $0.27 | 0% |
+| XLF | $52.00 | $51.92 | $0.08 | $51.94 | $51.92 | $-0.02 | -0% |
+| XLI | $173.00 | $171.08 | $1.92 | $171.72 | $171.76 | $0.04 | 0% |
+| XLK | $180.85 | $179.92 | $0.93 | $180.85 | $180.02 | $-0.83 | -0% |
+| XLP | $84.97 | $84.44 | $0.53 | $84.78 | $84.78 | $0.01 | 0% |
+| XLRE | $44.63 | $43.99 | $0.65 | $44.59 | $44.07 | $-0.53 | -1% |
+| XLU | $45.45 | $43.74 | $1.71 | $45.35 | $45.45 | $0.10 | 0% |
+| XLV | $150.21 | $149.00 | $1.21 | $149.58 | $149.08 | $-0.50 | -0% |
+| XLY | $119.44 | $118.73 | $0.71 | $119.15 | $118.73 | $-0.42 | -0% |
