@@ -1,7 +1,8 @@
-# Ping Current -- 2026-05-25 -- Anchor: market_open -- Updated: 10:15
+# Ping Current -- 2026-05-25 -- Anchor: intraday -- Updated: 10:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| GE | 302.79 | 67.5 | 56.3 | bullish | 302.91 | 301.17 | ACTION |
 | SPY | 743.74 | 24.6 | -40.3 | oversold | 744.43 | 743.73 | -- |
 | XLB | 50.29 | 57.3 | -9.9 | neutral | 50.31 | 50.03 | -- |
 | XLC | 115.39 | 46.1 | -86.6 | neutral | 115.58 | 115.30 | -- |
