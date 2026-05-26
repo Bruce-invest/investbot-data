@@ -1,8 +1,8 @@
-# Ping Current -- 2026-05-26 -- Anchor: intraday -- Updated: 10:56
+# Ping Current -- 2026-05-26 -- Anchor: intraday -- Updated: 11:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| AAPL | 311.11 |  |  |  | 311.82 | 309.35 | -- |
+| AAPL | 310.17 | 25.5 | -59.0 | oversold | 311.76 | 310.17 | -- |
 | GE | 311.00 | 55.4 | -26.5 | neutral | 311.44 | 309.69 | -- |
 | SPY | 751.04 | 72.8 | -1.8 | overbought |  |  | -- |
 | XLB | 50.58 | 49.6 | -24.2 | neutral | 50.79 | 50.07 | -- |
