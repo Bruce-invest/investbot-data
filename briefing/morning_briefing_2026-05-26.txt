@@ -1,65 +1,73 @@
-# Morning Briefing — 2026-05-26 — PRE-MARKET — 08:56
+# Morning Briefing — 2026-05-26 — MARKET OPEN — 10:16
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
 | ETF | Sector | Score | RSI | Coil | RelStr | Classification | Pattern |
 |---|---|---|---|---|---|---|---|
 | XLI | Industrials | 0.70 | 0.10 | 1.00 | 0.17 | Leading | full_coil |
-| XLV | Health Care | 0.44 | 0.50 | 0.50 | 0.26 | Supporting | partial_coil |
-| XLK | Technology | 0.23 | 1.00 | 0.00 | 0.54 | Neutral | no_coil |
-| XLP | Consumer Staples | 0.21 | 0.27 | 0.15 | 0.33 | Neutral | minimal |
+| XLB | Materials | 0.54 | 0.10 | 0.75 | 0.17 | Supporting | strong_coil |
+| XLV | Health Care | 0.50 | 0.50 | 0.50 | 0.50 | Supporting | partial_coil |
+| XLRE | Real Estate | 0.48 | 0.30 | 0.50 | 0.50 | Supporting | partial_coil |
+| XLP | Consumer Staples | 0.43 | 0.27 | 0.50 | 0.33 | Supporting | partial_coil |
+| XLC | Communication Services | 0.33 | 0.00 | 0.50 | 0.00 | Neutral | partial_coil |
+| XLK | Technology | 0.23 | 1.00 | 0.00 | 0.50 | Neutral | no_coil |
 | XLY | Consumer Discretionary | 0.17 | 0.50 | 0.00 | 0.50 | Lagging | no_coil |
-| XLU | Utilities | 0.15 | 0.27 | 0.00 | 0.48 | Lagging | no_coil |
-| XLF | Financials | 0.11 | 0.27 | 0.00 | 0.34 | Lagging | no_coil |
-| XLE | Energy | 0.09 | 0.10 | 0.00 | 0.30 | Lagging | no_coil |
+| XLF | Financials | 0.11 | 0.27 | 0.00 | 0.33 | Lagging | no_coil |
+| XLU | Utilities | 0.11 | 0.27 | 0.00 | 0.33 | Lagging | no_coil |
+| XLE | Energy | 0.05 | 0.10 | 0.00 | 0.17 | Lagging | no_coil |
 
 ## RSI Shortlist
 | Rank | Ticker | ETF | ETF Score | RSI Score | Macro | Intraday | Month | Week | Day | Hour | 30min | Gate |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | LLY | XLV | 0.44 | 0.147 | Bullish | Counter | 62.8 | 60.6 | 68.4 | 71.1 | 67.9 | no-go |
-| 2 | GE | XLI | 0.70 | 0.409 | Bullish | Confirming | 66.2 | 51.5 | 55.5 | 63.9 | 59.8 | CONDITIONAL |
-| 3 | JNJ | XLV | 0.44 | 0.096 | Bullish | Counter | 70.0 | 58.9 | 58.1 | 68.7 | 65.3 | no-go |
-| 4 | CAT | XLI | 0.70 | 0.029 | Bearish | Counter | 81.3 | 74.9 | 55.5 | 52.7 | 50.9 | no-go |
-| 5 | RTX | XLI | 0.70 | 0.059 | Bullish | Counter | 63.8 | 44.8 | 44.8 | 59.7 | 60.3 | no-go |
-| 6 | ABBV | XLV | 0.44 | 0.102 | Bullish | Counter | 56.8 | 50.9 | 60.8 | 55.0 | 49.7 | no-go |
-| 7 | GEV | XLI | 0.70 | 0.000 | Bearish | Neutral | 84.4 | 67.4 | 50.9 | 51.1 | 47.0 | no-go |
-| 8 | MRK | XLV | 0.44 | 0.349 | Bullish | Neutral | 61.7 | 63.7 | 67.3 | 82.4 | 79.5 | no-go |
-| 9 | BA | XLI | 0.70 | 0.000 | Bearish | Confirming | 53.8 | 49.5 | 44.5 | 47.3 | 49.1 | no-go |
-| 10 | DE | XLI | 0.70 | 0.000 | Bearish | Counter | 55.7 | 45.4 | 32.5 | 39.2 | 43.1 | no-go |
-| 11 | UNP | XLI | 0.70 | 0.034 | Bearish | Counter | 58.6 | 61.7 | 53.1 | 40.2 | 41.9 | no-go |
-| 12 | UBER | XLI | 0.70 | 0.000 | Bearish | Counter | 47.9 | 41.6 | 40.0 | 34.1 | 34.7 | no-go |
-| 13 | UNH | XLV | 0.44 | 0.333 | Bullish | Confirming | 49.5 | 65.3 | 67.4 | 54.4 | 57.5 | no-go |
-| 14 | HON | XLI | 0.70 | 0.101 | Bullish | Counter | 55.0 | 54.6 | 61.5 | 74.2 | 65.7 | no-go |
-| 15 | ETN | XLI | 0.70 | 0.035 | Bearish | Counter | 58.3 | 55.5 | 47.5 | 58.8 | 61.5 | no-go |
+| 1 | LIN | XLB | 0.54 | 0.134 | Bullish | Counter | 63.8 | 64.2 | 60.4 | 63.2 | 58.8 | no-go |
+| 2 | LLY | XLV | 0.50 | 0.147 | Bullish | Counter | 62.8 | 60.6 | 68.4 | 71.1 | 67.9 | no-go |
+| 3 | JNJ | XLV | 0.50 | 0.096 | Bullish | Counter | 70.0 | 58.9 | 58.1 | 68.7 | 65.3 | no-go |
+| 4 | WMT | XLP | 0.43 | 0.000 | Bearish | Confirming | 67.2 | 48.8 | 34.3 | 26.6 | 34.1 | no-go |
+| 5 | GE | XLI | 0.70 | 0.409 | Bullish | Confirming | 66.2 | 51.5 | 55.5 | 63.9 | 59.8 | CONDITIONAL |
+| 6 | NEM | XLB | 0.54 | 0.000 | Bearish | Counter | 66.7 | 50.6 | 43.8 | 46.7 | 46.8 | no-go |
+| 7 | CAT | XLI | 0.70 | 0.029 | Bearish | Counter | 81.3 | 74.9 | 55.5 | 52.7 | 50.9 | no-go |
+| 8 | COST | XLP | 0.43 | 0.109 | Bearish | Neutral | 63.4 | 58.9 | 50.2 | 30.9 | 31.6 | no-go |
+| 9 | ABBV | XLV | 0.50 | 0.102 | Bullish | Counter | 56.8 | 50.9 | 60.8 | 55.0 | 49.7 | no-go |
+| 10 | RTX | XLI | 0.70 | 0.059 | Bullish | Counter | 63.8 | 44.8 | 44.8 | 59.7 | 60.3 | no-go |
+| 11 | PG | XLP | 0.43 | 0.223 | Bullish | Confirming | 44.5 | 43.8 | 49.5 | 64.2 | 64.9 | no-go |
+| 12 | FCX | XLB | 0.54 | 0.045 | Bearish | Counter | 62.8 | 55.3 | 49.7 | 52.4 | 51.9 | no-go |
+| 13 | GEV | XLI | 0.70 | 0.000 | Bearish | Neutral | 84.4 | 67.4 | 50.9 | 51.1 | 47.0 | no-go |
+| 14 | KO | XLP | 0.43 | 0.163 | Bullish | Counter | 64.2 | 66.2 | 66.1 | 52.6 | 53.0 | no-go |
+| 15 | SHW | XLB | 0.54 | 0.075 | Mixed | Confirming | 45.4 | 41.2 | 43.8 | 57.7 | 56.7 | no-go |
+| 16 | MRK | XLV | 0.50 | 0.349 | Bullish | Neutral | 61.7 | 63.7 | 67.3 | 82.4 | 79.5 | no-go |
+| 17 | PM | XLP | 0.43 | 0.114 | Bullish | Counter | 64.9 | 64.4 | 67.5 | 49.1 | 49.2 | no-go |
+| 18 | CRH | XLB | 0.54 | 0.000 | Bearish | Counter | 50.7 | 38.1 | 33.7 | 44.3 | 47.8 | no-go |
+| 19 | BA | XLI | 0.70 | 0.000 | Bearish | Confirming | 53.8 | 49.5 | 44.5 | 47.3 | 49.1 | no-go |
+| 20 | UNH | XLV | 0.50 | 0.333 | Bullish | Confirming | 49.5 | 65.3 | 67.4 | 54.4 | 57.5 | no-go |
 
-## Candidates — PRE-MARKET — variant: lever1_reweighted
+## Candidates — MARKET OPEN — variant: lever1_reweighted
 | Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| GE | CONDITIONAL | $302.84 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| GE | CONDITIONAL | $310.26 | — | UNKNOWN | $301.15 | $305.47 | 2.110 | 28% | MONITOR | $292.44 | no | — | — | — | — |
 
 ## Ping Summary
 | Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
 |---|---|---|---|---|---|---|---|---|
-| 08:46 | XLI | $173.50 | 51.8 | Neutral | -86.6 | $174.65 | $171.08 | — |
-| 08:46 | SPY | $751.14 | 54.4 | Neutral | -49.4 | $751.63 | $749.66 | — |
-| 08:47 | XLV | $149.89 | 40.7 | Neutral | 81.9 | $151.00 | $149.00 | — |
-| 08:47 | XLP | $84.80 | 36.1 | Bearish | 650.3 | $85.06 | $84.11 | — |
-| 08:47 | XLK | $180.39 | 10.1 | Oversold | -24.9 | $183.60 | $180.39 | — |
-| 08:47 | XLE | $59.49 | 90.4 | Overbought | -58.6 | $59.49 | $58.71 | — |
-| 08:47 | XLY | $119.83 | 47.8 | Neutral | -86.6 | $120.20 | $118.73 | — |
-| 08:47 | XLU | $45.56 | 51.3 | Neutral | -55.0 | $45.72 | $45.15 | — |
-| 08:47 | SPY | $751.12 | 54.3 | Neutral | -59.4 | $751.63 | $749.66 | — |
-| 08:47 | XLV | $150.30 | 55.2 | Neutral | 33.7 | $151.00 | $149.00 | — |
-| 08:47 | XLP | $84.81 | 48.3 | Neutral | 516.3 | $85.06 | $84.11 | — |
-| 08:47 | XLF | $52.12 | 49.2 | Neutral | -47.4 | $52.19 | $51.92 | — |
-| 08:47 | XLU | $45.53 | 43.9 | Neutral | -77.2 | $45.72 | $45.15 | — |
-| 08:48 | XLE | $58.81 | 48.5 | Neutral | -58.3 | $59.49 | $58.71 | — |
-| 08:48 | XLY | $119.81 | 48.8 | Neutral | 2111.4 | $120.20 | $118.73 | — |
-| 08:48 | XLU | $45.53 | 44.1 | Neutral | 239.4 | $45.72 | $45.15 | — |
-| 08:48 | SPY | $751.03 | 48.7 | Neutral | 821.6 | $751.63 | $749.66 | — |
-| 08:48 | XLY | $119.83 | 49.8 | Neutral | 1977.8 | $120.20 | $118.73 | — |
-| 08:48 | XLI | $173.49 | 57.3 | Neutral | -56.1 | $174.65 | $171.08 | — |
-| 08:49 | SPY | $751.04 | 51.6 | Neutral | 650.4 | $751.63 | $749.66 | — |
+| 09:56 | GE | $309.40 | 51.9 | Neutral | -67.2 | $311.11 | $307.08 | 6 |
+| 09:57 | GE | $309.86 | 55.4 | Neutral | -71.5 | $311.11 | $307.08 | 6 |
+| 09:58 | GE | $309.44 | 51.7 | Neutral | -73.9 | $311.11 | $307.08 | 6 |
+| 09:59 | GE | $309.44 | 52.0 | Neutral | -56.0 | $311.11 | $307.08 | 6 |
+| 10:00 | GE | $310.59 | 60.8 | Bullish | -61.1 | $311.11 | $307.08 | 6 |
+| 10:01 | GE | $309.22 | 47.5 | Neutral | -65.1 | $311.11 | $307.08 | 6 |
+| 10:02 | GE | $309.81 | 47.1 | Neutral | -68.4 | $311.11 | $307.08 | 6 |
+| 10:03 | GE | $309.85 | 51.1 | Neutral | -75.6 | $311.11 | $307.08 | 6 |
+| 10:04 | GE | $310.26 | 63.9 | Bullish | -25.3 | $311.11 | $307.08 | 6 |
+| 10:05 | GE | $309.37 | 51.6 | Neutral | -36.8 | $311.11 | $307.08 | 6 |
+| 10:06 | GE | $310.10 | 54.9 | Neutral | -44.8 | $311.11 | $307.08 | 6 |
+| 10:07 | GE | $309.98 | 53.2 | Neutral | -54.1 | $311.11 | $307.08 | 6 |
+| 10:08 | GE | $309.90 | 52.9 | Neutral | -57.4 | $311.11 | $307.08 | 6 |
+| 10:09 | GE | $309.69 | 48.0 | Neutral | 0.8 | $311.11 | $307.08 | 6 |
+| 10:10 | GE | $310.24 | 52.5 | Neutral | -40.9 | $311.11 | $307.08 | 6 |
+| 10:11 | GE | $310.15 | 49.7 | Neutral | -50.0 | $311.11 | $307.08 | 6 |
+| 10:12 | GE | $310.21 | 52.0 | Neutral | -59.2 | $311.11 | $307.08 | 6 |
+| 10:13 | GE | $310.07 | 51.4 | Neutral | -63.9 | $311.11 | $307.08 | 6 |
+| 10:14 | GE | $310.16 | 50.5 | Neutral | -45.5 | $311.11 | $307.08 | 6 |
+| 10:15 | GE | $310.26 | 54.2 | Neutral | -55.2 | $311.11 | $307.08 | 6 |
 
 ## Trade Log
 _No trades recorded_
