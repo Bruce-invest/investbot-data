@@ -1,11 +1,11 @@
-# Ping Current -- 2026-05-27 -- Anchor: intraday -- Updated: 12:56
+# Ping Current -- 2026-05-27 -- Anchor: post_market -- Updated: 16:15
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
 | AMAT | 444.45 | 48.1 | -50.1 | neutral | 448.00 | 441.12 | -- |
 | AMD | 493.52 | 51.3 | -50.3 | neutral | 497.97 | 486.66 | -- |
-| FCX | 63.86 | 48.9 | -30.8 | neutral | 64.06 | 63.69 | -- |
-| GE | 317.14 | 57.3 | -69.1 | neutral | 317.99 | 316.14 | ACTION |
+| FCX | 63.40 | 52.0 | -58.5 | neutral | 63.55 | 63.21 | -- |
+| GE | 317.71 | 54.2 | -64.5 | neutral | 318.14 | 316.87 | -- |
 | LRCX | 315.58 | 44.1 | -47.8 | neutral | 318.96 | 314.28 | -- |
 | SPY | 752.07 | 69.0 | 0.0 | bullish |  |  | -- |
 | XLB | 51.10 | 47.7 | -85.6 | neutral | 51.51 | 50.70 | -- |
