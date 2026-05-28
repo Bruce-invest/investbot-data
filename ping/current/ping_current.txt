@@ -1,4 +1,4 @@
-# Ping Current -- 2026-05-28 -- Anchor: intraday -- Updated: 12:56
+# Ping Current -- 2026-05-28 -- Anchor: post_market -- Updated: 16:15
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
@@ -7,7 +7,7 @@
 | MAR | 386.18 | 47.2 | -57.2 | neutral | 386.86 | 385.54 | -- |
 | MU | 934.84 | 54.8 | -45.4 | neutral | 940.33 | 924.31 | -- |
 | SPY | 750.59 | 36.5 | -0.0 | bearish |  |  | -- |
-| TSLA | 441.12 |  |  |  | 443.14 | 436.67 | -- |
+| TSLA | 442.28 | 53.9 | -55.4 | neutral | 442.72 | 441.56 | -- |
 | XLB | 51.18 | 48.2 | 0.0 | neutral | 51.46 | 51.06 | -- |
 | XLC | 116.25 | 45.7 | 0.0 | neutral | 117.06 | 115.94 | -- |
 | XLE | 57.44 | 88.0 | 4.4 | overbought |  |  | -- |
