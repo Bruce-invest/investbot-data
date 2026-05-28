@@ -1,11 +1,13 @@
-# Ping Current -- 2026-05-28 -- Anchor: market_open -- Updated: 10:16
+# Ping Current -- 2026-05-28 -- Anchor: intraday -- Updated: 10:57
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| AMZN | 268.87 | 58.4 | 0.7 | neutral | 269.95 | 267.44 | ACTION |
-| MAR | 385.62 | 53.0 | -35.0 | neutral | 388.37 | 382.90 | -- |
+| AAPL | 311.79 | 57.0 | -43.6 | neutral | 311.83 | 311.05 | ACTION |
+| AMZN | 270.20 | 52.9 | -41.8 | neutral | 270.54 | 269.00 | -- |
+| MAR | 386.18 | 47.2 | -57.2 | neutral | 386.86 | 385.54 | -- |
+| MU | 934.84 | 54.8 | -45.4 | neutral | 940.33 | 924.31 | -- |
 | SPY | 750.59 | 36.5 | -0.0 | bearish |  |  | -- |
-| TSLA | 440.40 | 61.1 | 26.5 | bullish | 442.20 | 436.36 | ACTION |
+| TSLA | 442.57 | 68.0 | -38.3 | bullish | 442.57 | 439.75 | ACTION |
 | XLB | 51.18 | 48.2 | 0.0 | neutral | 51.46 | 51.06 | -- |
 | XLC | 116.25 | 45.7 | 0.0 | neutral | 117.06 | 115.94 | -- |
 | XLE | 57.44 | 88.0 | 4.4 | overbought |  |  | -- |
