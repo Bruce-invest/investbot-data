@@ -1,0 +1,82 @@
+# Morning Briefing — 2026-05-28 — MARKET OPEN — 10:16
+**Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
+
+## ETF Tone
+| ETF | Sector | Score | RSI | Coil | RelStr | Classification | Pattern |
+|---|---|---|---|---|---|---|---|
+| XLY | Consumer Discretionary | 0.58 | 0.60 | 0.50 | 0.80 | Supporting | partial_coil |
+| XLK | Technology | 0.52 | 0.67 | 0.50 | 0.50 | Supporting | partial_coil |
+| XLV | Health Care | 0.48 | 0.27 | 0.50 | 0.50 | Supporting | partial_coil |
+| XLP | Consumer Staples | 0.42 | 0.10 | 0.50 | 0.33 | Supporting | partial_coil |
+| XLC | Communication Services | 0.38 | 0.30 | 0.15 | 1.00 | Neutral | minimal |
+| XLF | Financials | 0.37 | 0.00 | 0.50 | 0.17 | Neutral | partial_coil |
+| XLE | Energy | 0.20 | 0.00 | 0.25 | 0.17 | Neutral | weak_coil |
+| XLB | Materials | 0.15 | 0.27 | 0.00 | 0.50 | Lagging | no_coil |
+| XLRE | Real Estate | 0.12 | 0.00 | 0.00 | 0.50 | Lagging | no_coil |
+| XLI | Industrials | 0.09 | 0.10 | 0.00 | 0.33 | Lagging | no_coil |
+| XLU | Utilities | 0.04 | 0.00 | 0.00 | 0.17 | Lagging | no_coil |
+
+## RSI Shortlist
+| Rank | Ticker | ETF | ETF Score | RSI Score | Macro | Intraday | Month | Week | Day | Hour | 30min | Gate |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | AMZN | XLY | 0.58 | 0.525 | Bullish | Confirming | 66.0 | 66.3 | 62.7 | 65.8 | 66.8 | CONDITIONAL |
+| 2 | TSLA | XLY | 0.58 | 0.351 | Bullish | Confirming | 60.7 | 58.5 | 62.8 | 67.4 | 60.7 | CONDITIONAL |
+| 3 | NVDA | XLK | 0.52 | 0.121 | Bearish | Neutral | 71.1 | 60.1 | 50.9 | 41.8 | 46.7 | no-go |
+| 4 | LLY | XLV | 0.48 | 0.140 | Bullish | Counter | 63.5 | 62.0 | 70.7 | 63.9 | 58.5 | no-go |
+| 5 | AAPL | XLK | 0.52 | 0.567 | Bullish | Confirming | 71.1 | 72.5 | 78.5 | 60.9 | 54.7 | CONDITIONAL |
+| 6 | WMT | XLP | 0.42 | 0.000 | Bearish | Counter | 65.6 | 46.9 | 32.2 | 27.7 | 38.5 | no-go |
+| 7 | JNJ | XLV | 0.48 | 0.035 | Mixed | Counter | 69.2 | 56.2 | 52.4 | 49.2 | 46.1 | no-go |
+| 8 | MSFT | XLK | 0.52 | 0.037 | Bearish | Counter | 48.4 | 45.5 | 49.2 | 40.3 | 44.1 | no-go |
+| 9 | COST | XLP | 0.42 | 0.000 | Bearish | Counter | 61.1 | 53.5 | 44.1 | 30.5 | 35.7 | no-go |
+| 10 | ABBV | XLV | 0.48 | 0.163 | Bullish | Confirming | 56.7 | 50.6 | 59.0 | 55.3 | 56.6 | no-go |
+| 11 | HD | XLY | 0.58 | 0.201 | Bullish | Confirming | 41.5 | 40.4 | 49.7 | 67.0 | 64.2 | no-go |
+| 12 | AVGO | XLK | 0.52 | 0.053 | Mixed | Counter | 73.1 | 65.3 | 56.3 | 53.4 | 52.4 | no-go |
+| 13 | UNH | XLV | 0.48 | 0.253 | Bullish | Confirming | 49.0 | 63.7 | 60.8 | 52.1 | 57.1 | no-go |
+| 14 | PG | XLP | 0.42 | 0.063 | Bullish | Counter | 45.9 | 48.1 | 56.5 | 69.0 | 68.3 | no-go |
+| 15 | KO | XLP | 0.42 | 0.098 | Bullish | Counter | 64.3 | 66.5 | 63.6 | 53.2 | 51.7 | no-go |
+| 16 | MRK | XLV | 0.48 | 0.076 | Bullish | Counter | 60.7 | 60.6 | 61.1 | 54.8 | 45.9 | no-go |
+| 17 | TJX | XLY | 0.58 | 0.000 | Bearish | Confirming | 71.3 | 54.0 | 54.1 | 47.7 | 39.6 | no-go |
+| 18 | MCD | XLY | 0.58 | 0.022 | Bearish | Counter | 45.1 | 35.0 | 41.2 | 48.8 | 47.5 | no-go |
+| 19 | PM | XLP | 0.42 | 0.046 | Mixed | Counter | 63.1 | 58.4 | 55.2 | 34.2 | 41.7 | no-go |
+| 20 | MU | XLK | 0.52 | 0.733 | Bullish | Confirming | 89.0 | 86.6 | 76.2 | 77.1 | 69.7 | GO |
+| — | BKNG | — | — | 0.007 | Mixed | Counter | 22.3 | 14.5 | 15.1 | 70.3 | 62.9 | no-go |
+| — | LOW | — | — | 0.023 | Bullish | Counter | 43.9 | 38.0 | 38.5 | 53.0 | 54.1 | no-go |
+| — | SBUX | — | — | 0.110 | Bearish | Confirming | 55.2 | 56.6 | 46.4 | 44.7 | 51.6 | no-go |
+| — | ORLY | — | — | 0.000 | Bearish | Confirming | 51.4 | 43.0 | 39.8 | 42.3 | 46.6 | no-go |
+| — | MAR | — | — | 0.405 | Bullish | Neutral | 75.6 | 68.2 | 70.2 | 81.6 | 78.9 | CONDITIONAL |
+
+## Candidates — MARKET OPEN — variant: lever1_reweighted
+| Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| MU | GO | $925.50 | — | UNKNOWN | $902.60 | $923.17 | 1.113 | 50% | MONITOR | $861.76 | no | — | — | — | — |
+| AAPL | CONDITIONAL | $312.19 | — | RANGING | $309.13 | $312.15 | 1.013 | 50% | MONITOR | $307.53 | no | — | — | — | — |
+| AMZN | CONDITIONAL | $268.87 | — | UNKNOWN | $267.38 | $274.25 | 0.217 | 34% | MONITOR | $253.67 | no | — | — | — | — |
+| TSLA | CONDITIONAL | $440.40 | — | UNKNOWN | $436.77 | $445.26 | 0.428 | 49% | MONITOR | $419.80 | no | — | — | — | — |
+| MAR | CONDITIONAL | $385.62 | — | UNKNOWN | $379.02 | $388.83 | 0.673 | 34% | MONITOR | $364.30 | YES | — | — | — | — |
+
+## Ping Summary
+| Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
+|---|---|---|---|---|---|---|---|---|
+| 10:08 | AMZN | $267.83 | 33.6 | Bearish | -32.7 | $272.02 | $267.58 | 22 |
+| 10:09 | TSLA | $437.98 | 48.1 | Neutral | -20.8 | $441.15 | $436.33 | 14 |
+| 10:09 | MAR | $384.19 | 47.1 | Neutral | -21.1 | $386.04 | $381.62 | 13 |
+| 10:09 | AMZN | $267.80 | 36.5 | Bearish | -41.1 | $272.02 | $267.58 | 22 |
+| 10:10 | MAR | $384.32 | 49.8 | Neutral | -10.9 | $386.04 | $381.62 | 13 |
+| 10:10 | AMZN | $267.46 | 30.7 | Bearish | -47.9 | $272.02 | $267.46 | 22 |
+| 10:11 | TSLA | $437.20 | 41.9 | Neutral | -25.1 | $441.15 | $436.33 | 14 |
+| 10:11 | AMZN | $267.52 | 31.4 | Bearish | -58.4 | $272.02 | $267.46 | 22 |
+| 10:12 | TSLA | $437.86 | 50.9 | Neutral | -41.3 | $441.15 | $436.33 | 14 |
+| 10:12 | MAR | $383.93 | 44.2 | Neutral | -29.9 | $386.04 | $381.62 | 13 |
+| 10:12 | AMZN | $268.62 | 55.1 | Neutral | -68.7 | $272.02 | $267.46 | 22 |
+| 10:13 | TSLA | $441.00 | 67.1 | Bullish | -19.7 | $441.15 | $436.33 | 14 |
+| 10:13 | AMZN | $269.39 | 64.3 | Bullish | 55.6 | $272.02 | $267.46 | 22 |
+| 10:14 | MAR | $388.37 | 74.6 | Overbought | 12.2 | $388.37 | $381.62 | 13 |
+| 10:14 | AMZN | $268.95 | 57.0 | Neutral | 30.5 | $272.02 | $267.46 | 22 |
+| 10:15 | TSLA | $441.61 | 68.7 | Bullish | -17.6 | $442.20 | $436.33 | 14 |
+| 10:15 | MAR | $386.89 | 62.6 | Bullish | -20.5 | $388.37 | $381.62 | 13 |
+| 10:15 | AMZN | $268.87 | 58.4 | Neutral | 0.7 | $272.02 | $267.46 | 22 |
+| 10:16 | TSLA | $440.40 | 61.1 | Bullish | 26.5 | $442.20 | $436.33 | 14 |
+| 10:16 | MAR | $385.62 | 53.0 | Neutral | -35.0 | $388.37 | $381.62 | 13 |
+
+## Trade Log
+_No trades recorded_
