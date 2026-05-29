@@ -1,4 +1,4 @@
-# Ping Current -- 2026-05-29 -- Anchor: intraday -- Updated: 10:56
+# Ping Current -- 2026-05-29 -- Anchor: intraday -- Updated: 11:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
@@ -6,7 +6,7 @@
 | AMD | 514.79 | 61.4 | -24.3 | bullish | 515.33 | 507.57 | ACTION |
 | AMZN | 271.50 | 55.4 | -9.1 | neutral | 272.18 | 270.61 | -- |
 | AVGO | 437.31 | 47.3 | -33.9 | neutral | 439.88 | 434.58 | -- |
-| GILD | 135.96 |  |  |  | 137.20 | 135.60 | -- |
+| GILD | 135.08 | 46.5 | -75.9 | neutral | 135.46 | 134.17 | -- |
 | MU | 967.74 | 58.6 | -35.2 | neutral | 972.44 | 954.00 | ACTION |
 | SPY | 755.64 | 42.7 | 0.0 | neutral |  |  | -- |
 | XLB | 51.16 | 42.4 | -86.6 | neutral | 51.46 | 51.07 | -- |
