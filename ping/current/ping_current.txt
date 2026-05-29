@@ -1,7 +1,11 @@
-# Ping Current -- 2026-05-29 -- Anchor: pre_market -- Updated: 08:56
+# Ping Current -- 2026-05-29 -- Anchor: market_open -- Updated: 10:16
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| AAPL | 313.21 | 47.4 | -51.0 | neutral | 314.18 | 312.82 | -- |
+| AVGO | 443.45 | 39.9 | -44.2 | bearish | 448.58 | 442.93 | ACTION |
+| GILD | 135.81 | 52.5 | -40.8 | neutral | 136.16 | 135.15 | -- |
+| MU | 969.34 | 50.0 | -24.4 | neutral | 981.00 | 957.44 | -- |
 | SPY | 755.64 | 42.7 | 0.0 | neutral |  |  | -- |
 | XLB | 51.16 | 42.4 | -86.6 | neutral | 51.46 | 51.07 | -- |
 | XLC | 116.06 | 32.8 | 0.0 | bearish | 117.35 | 116.06 | -- |
