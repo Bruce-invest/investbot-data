@@ -1,4 +1,4 @@
-# Morning Briefing — 2026-05-30 — INTRADAY — 12:56
+# Morning Briefing — 2026-05-30 — POST-MARKET — 16:15
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
@@ -39,19 +39,19 @@
 | 18 | NUE | XLB | 0.43 | 0.121 | Bullish | Counter | 72.5 | 80.3 | 76.5 | 72.1 | 60.7 | no-go |
 | 19 | HD | XLY | 0.44 | 0.020 | Bearish | Counter | 41.4 | 40.1 | 48.9 | 50.1 | 41.4 | no-go |
 | 20 | PM | XLP | 0.40 | 0.041 | Bearish | Counter | 61.8 | 55.0 | 48.4 | 33.0 | 42.9 | no-go |
+| 21 | FCX | XLB | 0.43 | 0.333 | Bullish | Confirming | 65.0 | 59.0 | 57.3 | 72.5 | 71.9 | no-go |
+| 22 | CRH | XLB | 0.43 | 0.108 | Bullish | Confirming | 51.6 | 40.1 | 37.9 | 56.1 | 60.2 | no-go |
 | 23 | INTC | XLK | 0.61 | 0.075 | Bearish | Counter | 85.0 | 74.7 | 59.2 | 35.5 | 32.9 | no-go |
+| 24 | TTWO | XLC | 0.43 | 0.032 | Bearish | Counter | 54.1 | 49.1 | 44.0 | 27.1 | 32.5 | no-go |
+| 25 | DIS | XLC | 0.43 | 0.247 | Bullish | Confirming | 48.4 | 48.6 | 51.6 | 56.3 | 59.3 | no-go |
+| 26 | TJX | XLY | 0.44 | 0.000 | Bearish | Confirming | 71.3 | 54.0 | 54.1 | 47.7 | 39.6 | no-go |
+| 27 | MCD | XLY | 0.44 | 0.022 | Bearish | Counter | 45.1 | 35.0 | 41.2 | 48.8 | 47.5 | no-go |
 | 28 | CSCO | XLK | 0.61 | 0.140 | Bullish | Counter | 88.2 | 86.4 | 75.8 | 58.4 | 57.9 | no-go |
 | 29 | LRCX | XLK | 0.61 | 0.134 | Bullish | Counter | 85.5 | 74.6 | 65.9 | 54.6 | 50.0 | no-go |
 | 30 | PLTR | XLK | 0.61 | 0.141 | Bullish | Counter | 63.6 | 53.3 | 67.3 | 82.4 | 78.2 | no-go |
 
-## Candidates — INTRADAY — variant: lever1_reweighted
-| Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| MU | GO | $971.55 | — | RANGING | $929.26 | $972.40 | 0.980 | 50% | MONITOR | $928.71 | no | — | — | — | — |
-| AVGO | GO | $447.21 | — | RANGING | $421.95 | $444.28 | 1.131 | 50% | MONITOR | $421.40 | no | — | — | — | — |
-| AMD | CONDITIONAL | $516.40 | — | RANGING | $502.64 | $525.47 | 0.603 | 50% | MONITOR | $502.09 | no | — | — | — | — |
-| MSFT | CONDITIONAL | $448.64 | — | RANGING | $419.32 | $450.80 | 0.931 | 50% | MONITOR | $418.77 | no | — | — | — | — |
-| AAPL | CONDITIONAL | $312.07 | — | RANGING | $309.76 | $312.48 | 0.849 | 50% | MONITOR | $309.21 | no | — | — | — | — |
+## Candidates — POST-MARKET — variant: lever1_reweighted
+_No candidates_
 
 ## Ping Summary
 | Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
@@ -64,3 +64,12 @@
 
 ## Trade Log
 _No trades recorded_
+
+## Session Range
+| Ticker | Session High | Session Low | Range | Open | Close | Day Move | Day Move% |
+|---|---|---|---|---|---|---|---|
+| AAPL | $313.11 | $310.58 | $2.53 | $310.60 | $312.07 | $1.47 | 0% |
+| AMD | $516.80 | $504.11 | $12.69 | $504.44 | $516.40 | $11.96 | 2% |
+| AVGO | $448.88 | $435.39 | $13.49 | $435.50 | $447.21 | $11.71 | 3% |
+| MSFT | $450.33 | $441.36 | $8.97 | $441.49 | $448.64 | $7.15 | 2% |
+| MU | $972.85 | $940.51 | $32.34 | $951.06 | $971.55 | $20.49 | 2% |
