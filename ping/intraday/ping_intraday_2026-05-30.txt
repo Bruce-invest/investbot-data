@@ -1,0 +1,9 @@
+# Ping Intraday -- 2026-05-30 -- Anchor: market_open -- Updated: 07:59
+
+| Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 15:59:00 | AAPL | 312.07 | 52.8 | 133.7 | neutral | 313.11 | 311.36 |  | ACTION |  |  |  |  |  |
+| 15:59:00 | AMD | 516.40 | 83.8 | 134.0 | overbought | 516.80 | 506.34 |  |  |  |  |  |  |  |
+| 15:59:00 | AVGO | 447.21 | 74.3 | 240.8 | overbought | 448.88 | 438.29 |  | INFORMATION |  |  |  |  |  |
+| 15:59:00 | MSFT | 448.64 | 74.0 | 327.6 | overbought | 450.33 | 442.50 |  | ACTION |  |  |  |  |  |
+| 15:59:00 | MU | 971.55 | 86.9 | 27.6 | overbought | 972.85 | 943.54 |  | ACTION |  |  |  |  |  |
