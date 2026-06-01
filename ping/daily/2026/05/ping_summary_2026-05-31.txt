@@ -1,0 +1,9 @@
+# Ping Session Summary -- 2026-05-31
+
+| Ticker | Type | Bars | Decisions | GO | Conditional | Null | First Bar | Last Bar |
+|---|---|---|---|---|---|---|---|---|
+| AAPL | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
+| AMD | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
+| AVGO | candidate | 1 | 0 | 1 | 0 | 0 | 15:59:00 | 15:59:00 |
+| MSFT | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
+| MU | candidate | 1 | 0 | 1 | 0 | 0 | 15:59:00 | 15:59:00 |
