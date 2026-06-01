@@ -1,7 +1,12 @@
-# Ping Current -- 2026-06-01 -- Anchor: market_open -- Updated: 10:16
+# Ping Current -- 2026-06-01 -- Anchor: intraday -- Updated: 10:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| AAPL | 306.86 | 34.2 | -23.5 | bearish | 308.73 | 306.57 | -- |
+| AMD | 508.25 | 65.3 | 6.2 | bullish | 509.90 | 500.99 | -- |
+| AVGO | 455.94 | 53.4 | -31.0 | neutral | 460.39 | 449.88 | -- |
+| MSFT | 460.85 | 45.2 | -26.9 | neutral | 462.56 | 459.17 | -- |
+| MU | 1036.29 | 66.0 | -5.9 | bullish | 1039.36 | 1019.00 | -- |
 | SPY | 758.36 | 40.2 | 237.1 | neutral |  |  | -- |
 | XLB | 51.12 |  | 27.6 |  |  |  | -- |
 | XLC | 115.51 | 43.0 | -79.9 | neutral | 116.14 | 114.87 | -- |
