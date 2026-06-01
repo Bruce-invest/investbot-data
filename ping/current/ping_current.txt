@@ -1,9 +1,16 @@
-# Ping Current -- 2026-05-31 -- Anchor: post_market -- Updated: 16:15
+# Ping Current -- 2026-06-01 -- Anchor: pre_market -- Updated: 08:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| AAPL | 312.07 | 52.8 | 133.7 | neutral | 313.11 | 311.36 | ACTION |
-| AMD | 516.40 | 83.8 | 134.0 | overbought | 516.80 | 506.34 | -- |
-| AVGO | 447.21 | 74.3 | 240.8 | overbought | 448.88 | 438.29 | INFORMATION |
-| MSFT | 448.64 | 74.0 | 327.6 | overbought | 450.33 | 442.50 | ACTION |
-| MU | 971.55 | 86.9 | 27.6 | overbought | 972.85 | 943.54 | ACTION |
+| SPY | 758.36 | 40.2 | 237.1 | neutral |  |  | -- |
+| XLB | 51.12 |  | 27.6 |  |  |  | -- |
+| XLC | 115.51 | 43.0 | -79.9 | neutral | 116.14 | 114.87 | -- |
+| XLE | 56.53 | 24.1 | 192.0 | oversold |  |  | -- |
+| XLF | 51.34 | 37.4 | 15.3 | bearish |  |  | -- |
+| XLI | 172.46 |  | -33.9 |  |  |  | -- |
+| XLK | 193.15 | 43.0 | 11.4 | neutral |  |  | -- |
+| XLP | 82.71 | 55.4 | 159.0 | neutral |  |  | -- |
+| XLRE | 43.82 | 45.5 | -83.1 | neutral | 44.07 | 43.80 | -- |
+| XLU | 44.19 | 53.2 | 62.0 | neutral |  |  | -- |
+| XLV | 149.17 | 61.3 | -24.1 | bullish |  |  | -- |
+| XLY | 120.35 |  | -39.2 |  |  |  | -- |
