@@ -1,0 +1,24 @@
+# Ping pBC Anchor -- 2026-06-01
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 10:16 | AAPL | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | AAPL | Cycle1_LongOnly | 0.317503 | MIXED | -0.7325 | -0.030208 | -0.347711 | 40 |
+| 11:56 | AAPL | Cycle1_LongOnly | 0.016078 | MIXED | -1.1299 | 0.016078 | 0.0 | 60 |
+| 12:56 | AAPL | Cycle1_LongOnly | -0.243165 | MIXED | -1.3929 | 0.128873 | 0.372038 | 60 |
+| 10:16 | AMD | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | AMD | Cycle1_LongOnly | -17.734811 | MIXED | 0.0657 | -3.9608 | 13.774011 | 40 |
+| 11:56 | AMD | Cycle1_LongOnly | -3.878292 | MIXED | 0.4807 | -3.878292 | 0.0 | 60 |
+| 12:56 | AMD | Cycle1_LongOnly | -12.842725 | MIXED | 0.2804 | -0.761551 | 12.081174 | 60 |
+| 10:16 | AVGO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | AVGO | Cycle1_LongOnly | 0.366027 | MIXED | 1.4922 | 0.366027 | 0.0 | 40 |
+| 11:56 | AVGO | Cycle1_LongOnly | 0.993501 | POSITIVE_COMPRESSION | 1.5764 | 0.993501 | 0.0 | 60 |
+| 12:56 | AVGO | Cycle1_LongOnly | 0.0 | NEUTRAL | 1.7669 | 0.0 | 0.0 | 60 |
+| 10:16 | MSFT | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | MSFT | Cycle1_LongOnly | 0.379711 | MIXED | 1.3103 | 0.0 | -0.379711 | 40 |
+| 11:56 | MSFT | Cycle1_LongOnly | 0.525838 | POSITIVE_COMPRESSION | 1.3276 | 0.525838 | 0.0 | 60 |
+| 12:56 | MSFT | Cycle1_LongOnly | 4.703549 | MIXED | 1.3175 | 5.054108 | 0.350559 | 60 |
+| 10:16 | MU | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | MU | Cycle1_LongOnly | -56.229262 | MIXED | 2.3216 | 0.0 | 56.229262 | 40 |
+| 11:56 | MU | Cycle1_LongOnly | -14.435369 | MIXED | 2.297 | 36.866662 | 51.302031 | 60 |
+| 12:56 | MU | Cycle1_LongOnly | -46.115893 | MIXED | 2.4644 | -8.887701 | 37.228192 | 60 |
