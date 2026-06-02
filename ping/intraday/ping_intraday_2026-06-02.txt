@@ -1,4 +1,4 @@
-# Ping Intraday -- 2026-06-02 -- Anchor: market_open -- Updated: 10:14
+# Ping Intraday -- 2026-06-02 -- Anchor: market_open -- Updated: 10:17
 
 | Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -656,3 +656,13 @@
 | 10:13:00 | AVGO | 478.65 | 36.3 | -61.2 | bearish | 485.39 | 478.65 |  |  | 10.3577 | MIXED |  | 0 |  |
 | 10:13:00 | MU | 1068.89 | 73.7 | -55.1 | overbought | 1068.89 | 1031.65 |  |  | -7.9628 | MIXED |  | 0 |  |
 | 10:13:00 | NVDA | 229.93 | 60.5 | -68.0 | bullish | 232.28 | 226.21 |  | ACTION | 6.8312 | POSITIVE_COMPRESSION |  | 1 |  |
+| 10:14:00 | AVGO | 479.06 | 39.7 | -67.4 | bearish | 485.39 | 478.65 |  | ACTION | -6.1458 | MIXED |  | 0 |  |
+| 10:14:00 | MU | 1069.48 | 75.2 | -7.7 | overbought | 1072.84 | 1033.80 |  |  | -538.3898 | MIXED |  | 0 |  |
+| 10:14:00 | NVDA | 229.87 | 57.4 | -35.7 | neutral | 232.28 | 226.44 |  | ACTION | 5.0079 | MIXED |  | 0 |  |
+| 10:15:00 | AVGO | 480.13 | 45.0 | -20.8 | neutral | 485.39 | 477.75 |  |  | -32.2599 | MIXED |  | 0 |  |
+| 10:15:00 | MU | 1065.61 | 66.5 | -31.6 | bullish | 1072.84 | 1033.80 |  | INFORMATION | -656.1280 | MIXED |  | 0 |  |
+| 10:15:00 | NVDA | 229.93 | 55.3 | -44.2 | neutral | 232.28 | 227.72 |  |  | 10.0646 | POSITIVE_COMPRESSION |  | 1 |  |
+| 10:16:00 | AVGO | 479.73 | 43.2 | -33.1 | neutral | 485.39 | 477.75 |  |  | -30.0245 | MIXED | 2.2354 | 0 |  |
+| 10:16:00 | MU | 1063.72 | 63.6 | -48.2 | bullish | 1072.84 | 1036.25 |  |  | -181.9326 | MIXED | 474.1954 | 0 |  |
+| 10:16:00 | NVDA | 229.88 | 54.6 | -53.7 | neutral | 232.28 | 228.60 |  |  | 13.4945 | POSITIVE_COMPRESSION | 3.4299 | 1 |  |
+| 10:17:00 | MU | 1058.01 | 52.5 | -35.0 | neutral | 1072.84 | 1041.19 |  | ACTION |  |  |  |  |  |
