@@ -1,0 +1,21 @@
+# Ping Monthly Archive -- 2026-06
+
+| Session Date | Ticker | Type | Bars | Decisions |
+|---|---|---|---|---|
+| 2026-06-01 | AAPL | candidate | 223 | 0 |
+| 2026-06-01 | AMD | candidate | 223 | 0 |
+| 2026-06-01 | AVGO | candidate | 223 | 0 |
+| 2026-06-01 | MSFT | candidate | 223 | 0 |
+| 2026-06-01 | MU | candidate | 223 | 0 |
+| 2026-06-01 | SPY | etf | 154 | 0 |
+| 2026-06-01 | XLB | etf | 21 | 0 |
+| 2026-06-01 | XLC | etf | 14 | 0 |
+| 2026-06-01 | XLE | etf | 99 | 0 |
+| 2026-06-01 | XLF | etf | 55 | 0 |
+| 2026-06-01 | XLI | etf | 29 | 0 |
+| 2026-06-01 | XLK | etf | 88 | 0 |
+| 2026-06-01 | XLP | etf | 35 | 0 |
+| 2026-06-01 | XLRE | etf | 16 | 0 |
+| 2026-06-01 | XLU | etf | 60 | 0 |
+| 2026-06-01 | XLV | etf | 46 | 0 |
+| 2026-06-01 | XLY | etf | 25 | 0 |
