@@ -1,10 +1,10 @@
-# Ping Current -- 2026-06-02 -- Anchor: intraday -- Updated: 11:56
+# Ping Current -- 2026-06-02 -- Anchor: intraday -- Updated: 12:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| AVGO | 483.39 | 57.5 | -42.2 | neutral | 484.27 | 479.71 | ACTION |
-| MU | 1042.04 | 60.2 | -8.9 | bullish | 1044.19 | 1035.35 | ACTION |
-| NVDA | 225.32 | 44.6 | -9.1 | neutral | 226.87 | 224.72 | -- |
+| AVGO | 479.17 | 24.0 | 35.4 | oversold | 483.74 | 479.09 | -- |
+| MU | 1042.50 | 62.7 | -33.6 | bullish | 1043.65 | 1031.34 | ACTION |
+| NVDA | 225.07 | 61.6 | -20.6 | bullish | 225.57 | 224.28 | ACTION |
 | SPY | 757.11 | 60.2 | 130.7 | bullish |  |  | -- |
 | XLB | 50.87 | 51.9 | -81.3 | neutral | 51.09 | 50.72 | -- |
 | XLC | 114.96 | 48.5 | -86.6 | neutral | 115.70 | 114.82 | -- |
@@ -17,4 +17,4 @@
 | XLU | 43.21 | 55.4 | 62.3 | neutral |  |  | -- |
 | XLV | 147.68 | 33.5 | 268.4 | bearish |  |  | -- |
 | XLY | 117.60 | 65.3 | -30.7 | bullish | 118.43 | 117.51 | -- |
-| XOM | 149.64 | 77.1 | -56.0 | overbought | 149.64 | 148.84 | -- |
+| XOM | 150.03 | 39.6 | -52.0 | bearish | 150.40 | 150.03 | ACTION |
