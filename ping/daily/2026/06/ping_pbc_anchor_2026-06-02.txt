@@ -1,0 +1,22 @@
+# Ping pBC Anchor -- 2026-06-02
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 08:56 | AVGO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | AVGO | Cycle1_LongOnly | -32.259922 | MIXED | 1.2469 | -32.259922 | 0.0 | 46 |
+| 10:56 | AVGO | Cycle1_LongOnly | -10.339166 | MIXED | 1.201 | 0.0 | 10.339166 | 60 |
+| 11:56 | AVGO | Cycle1_LongOnly | 2.384608 | MIXED | 1.2307 | 0.0 | -2.384608 | 60 |
+| 12:56 | AVGO | Cycle1_LongOnly | -30.394026 | MIXED | 1.2754 | -33.430762 | -3.036736 | 60 |
+| 08:56 | MU | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | MU | Cycle1_LongOnly | -656.128002 | MIXED | 0.8098 | 48.519174 | 704.647176 | 46 |
+| 10:56 | MU | Cycle1_LongOnly | 24.651576 | EXPANDING | 0.7581 | 74.291331 | 49.639755 | 60 |
+| 11:56 | MU | Cycle1_LongOnly | -30.103025 | MIXED | 0.751 | 52.958081 | 83.061106 | 60 |
+| 12:56 | MU | Cycle1_LongOnly | 23.895199 | MIXED | 0.7538 | 0.0 | -23.895199 | 60 |
+| 08:56 | NVDA | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | NVDA | Cycle1_LongOnly | 10.064585 | POSITIVE_COMPRESSION | 1.2658 | 10.064585 | 0.0 | 46 |
+| 10:56 | NVDA | Cycle1_LongOnly | 0.562852 | MIXED | 1.2128 | -1.93154 | -2.494392 | 60 |
+| 11:56 | NVDA | Cycle1_LongOnly | -1.952356 | MIXED | 1.0301 | -1.952356 | 0.0 | 60 |
+| 12:56 | NVDA | Cycle1_LongOnly | 0.616789 | POSITIVE_COMPRESSION | 0.9526 | 0.616789 | 0.0 | 60 |
+| 10:56 | XOM | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.8059 | 0.0 | 0.0 | 58 |
+| 11:56 | XOM | Cycle1_LongOnly | -0.291327 | MIXED | 0.7859 | -0.128051 | 0.163276 | 59 |
+| 12:56 | XOM | Cycle1_LongOnly | 0.335551 | POSITIVE_COMPRESSION | 0.9531 | 0.341731 | 0.00618 | 59 |
