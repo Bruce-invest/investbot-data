@@ -1,8 +1,13 @@
-# Ping Current -- 2026-06-03 -- Anchor: market_open -- Updated: 10:15
+# Ping Current -- 2026-06-03 -- Anchor: intraday -- Updated: 10:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| AAPL | 315.90 | 57.8 | -45.7 | neutral | 316.45 | 314.19 | ACTION |
+| AAPL | 312.19 | 28.8 | -28.6 | oversold | 314.79 | 312.07 | ACTION |
+| AVGO | 488.34 |  |  |  | 495.00 | 472.64 | -- |
+| CAT | 935.00 | 70.1 | -54.8 | overbought | 935.72 | 925.03 | ACTION |
+| CSCO | 127.32 |  |  |  | 127.49 | 124.92 | -- |
+| LRCX | 342.80 |  |  |  | 343.31 | 332.13 | -- |
+| MU | 1068.11 |  |  |  | 1088.71 | 1038.50 | -- |
 | SPY | 758.15 | 31.6 | 170.8 | bearish |  |  | -- |
 | XLB | 51.31 |  | -31.8 |  |  |  | -- |
 | XLC | 113.44 |  | 9.0 |  |  |  | -- |
