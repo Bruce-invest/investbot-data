@@ -1,7 +1,8 @@
-# Ping Current -- 2026-06-03 -- Anchor: pre_market -- Updated: 08:56
+# Ping Current -- 2026-06-03 -- Anchor: market_open -- Updated: 10:15
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| AAPL | 315.90 | 57.8 | -45.7 | neutral | 316.45 | 314.19 | ACTION |
 | SPY | 758.15 | 31.6 | 170.8 | bearish |  |  | -- |
 | XLB | 51.31 |  | -31.8 |  |  |  | -- |
 | XLC | 113.44 |  | 9.0 |  |  |  | -- |
