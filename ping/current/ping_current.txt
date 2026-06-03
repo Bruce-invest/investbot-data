@@ -1,13 +1,13 @@
-# Ping Current -- 2026-06-03 -- Anchor: intraday -- Updated: 12:56
+# Ping Current -- 2026-06-03 -- Anchor: post_market -- Updated: 16:15
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| AAPL | 310.08 | 53.6 | -25.9 | neutral | 310.24 | 309.32 | -- |
-| AVGO | 485.80 | 68.0 | -26.2 | bullish | 486.05 | 482.43 | ACTION |
-| CAT | 924.27 | 44.5 | -61.2 | neutral | 926.83 | 923.31 | -- |
-| CSCO | 127.31 |  |  |  | 127.35 | 127.28 | -- |
-| LRCX | 339.86 |  |  |  | 343.00 | 339.38 | -- |
-| MU | 1061.52 | 49.1 | -25.4 | neutral | 1068.50 | 1057.16 | -- |
+| AAPL | 309.54 | 58.7 | -50.5 | neutral | 309.66 | 308.85 | ACTION |
+| AVGO | 483.75 | 42.4 | -34.0 | neutral | 484.87 | 482.00 | ACTION |
+| CAT | 924.58 | 65.4 | -21.3 | bullish | 924.70 | 922.80 | ACTION |
+| CSCO | 128.51 | 66.5 | -54.1 | bullish | 128.51 | 127.78 | -- |
+| LRCX | 341.49 | 62.4 | -59.5 | bullish | 341.49 | 338.74 | ACTION |
+| MU | 1061.53 | 48.3 | -50.9 | neutral | 1066.74 | 1057.16 | -- |
 | SPY | 758.15 | 31.6 | 170.8 | bearish |  |  | -- |
 | XLB | 51.31 |  | -31.8 |  |  |  | -- |
 | XLC | 113.44 |  | 9.0 |  |  |  | -- |
