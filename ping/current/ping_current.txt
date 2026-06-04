@@ -1,10 +1,11 @@
-# Ping Current -- 2026-06-04 -- Anchor: market_open -- Updated: 10:16
+# Ping Current -- 2026-06-04 -- Anchor: intraday -- Updated: 10:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| CAT | 910.70 |  |  |  | 913.99 | 903.00 | -- |
-| ETN | 412.43 |  |  |  | 416.72 | 411.00 | ACTION |
+| CAT | 927.22 | 67.3 | -7.6 | bullish | 927.29 | 920.61 | ACTION |
+| ETN | 412.17 | 44.9 | -17.9 | neutral | 415.48 | 410.01 | -- |
 | SPY | 752.18 | 50.7 | 125.5 | neutral |  |  | -- |
+| TJX | 158.89 |  |  |  | 160.87 | 158.62 | -- |
 | XLB | 52.06 |  | 21.8 |  |  |  | -- |
 | XLC | 112.39 | 51.5 | -85.9 | neutral | 113.00 | 110.59 | -- |
 | XLE | 58.30 | 7.0 | -9.3 | oversold |  |  | -- |
