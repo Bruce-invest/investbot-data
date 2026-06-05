@@ -1,7 +1,9 @@
-# Ping Current -- 2026-06-05 -- Anchor: pre_market -- Updated: 08:56
+# Ping Current -- 2026-06-05 -- Anchor: market_open -- Updated: 10:16
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| ABBV | 227.35 | 41.2 | -67.2 | neutral | 228.88 | 226.03 | ACTION |
+| LLY | 1149.21 | 55.0 | -62.5 | neutral | 1153.52 | 1139.22 | -- |
 | SPY | 753.47 | 34.8 | 82.3 | bearish |  |  | -- |
 | XLB | 49.04 | 53.5 | 1947.8 | neutral | 52.00 | 49.04 | -- |
 | XLC | 113.05 | 48.9 | -86.6 | neutral | 115.85 | 112.24 | -- |
