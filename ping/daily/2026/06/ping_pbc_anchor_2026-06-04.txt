@@ -1,0 +1,17 @@
+# Ping pBC Anchor -- 2026-06-04
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 08:56 | CAT | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | CAT | Cycle1_LongOnly |  |  |  |  |  | 8 |
+| 10:56 | CAT | Cycle1_LongOnly | -31.153902 | MIXED | 0.6107 | 3.294002 | 34.447904 | 40 |
+| 11:56 | CAT | Cycle1_LongOnly | -2.047896 | MIXED | 0.8685 | -2.047896 | 0.0 | 58 |
+| 12:56 | CAT | Cycle1_LongOnly | -2.450734 | MIXED | 1.0028 | -2.450734 | 0.0 | 60 |
+| 08:56 | ETN | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | ETN | Cycle1_LongOnly |  |  |  |  |  | 8 |
+| 10:56 | ETN | Cycle1_LongOnly | 1.696301 | MIXED | -0.1052 | 1.696301 | 0.0 | 40 |
+| 11:56 | ETN | Cycle1_LongOnly | 0.705961 | POSITIVE_COMPRESSION | 0.1923 | 0.278172 | -0.427789 | 58 |
+| 12:56 | ETN | Cycle1_LongOnly | 1.364834 | MIXED | 0.2841 | 0.531076 | -0.833758 | 55 |
+| 10:56 | TJX | Cycle1_LongOnly | 9.5e-05 | NEUTRAL | 0.9768 | 9.5e-05 | 0.0 | 57 |
+| 11:56 | TJX | Cycle1_LongOnly | 0.003828 | MIXED | 0.919 | 7.5e-05 | -0.003753 | 57 |
+| 12:56 | TJX | Cycle1_LongOnly | -0.009453 | NEGATIVE_COMPRESSION | 0.9044 | 0.0 | 0.009453 | 58 |
