@@ -1,4 +1,4 @@
-# Ping Intraday -- 2026-06-05 -- Anchor: market_open -- Updated: 10:14
+# Ping Intraday -- 2026-06-05 -- Anchor: market_open -- Updated: 10:17
 
 | Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -695,3 +695,10 @@
 | 10:12:00 | LLY | 1151.84 | 65.4 | -66.3 | bullish | 1153.52 | 1137.68 |  |  | -41.0953 | MIXED |  | 0 |  |
 | 10:13:00 | ABBV | 227.61 | 48.8 | -77.2 | neutral | 229.03 | 226.03 |  | INFORMATION | 6.0769 | MIXED |  | 0 |  |
 | 10:13:00 | LLY | 1152.54 | 66.2 | -71.2 | bullish | 1153.52 | 1137.68 |  | INFORMATION | -31.0555 | MIXED |  | 0 |  |
+| 10:14:00 | ABBV | 227.39 | 43.2 | -58.7 | neutral | 229.03 | 226.03 |  |  | 4.2584 | MIXED |  | 0 |  |
+| 10:14:00 | LLY | 1149.79 | 56.5 | -48.6 | neutral | 1153.52 | 1138.83 |  |  | 23.3536 | POSITIVE_COMPRESSION |  | 1 |  |
+| 10:15:00 | ABBV | 227.39 | 43.3 | -62.3 | neutral | 228.88 | 226.03 |  |  | 1.9057 | MIXED |  | 0 |  |
+| 10:15:00 | LLY | 1148.36 | 53.5 | -57.5 | neutral | 1153.52 | 1139.01 |  |  | 50.3998 | POSITIVE_COMPRESSION |  | 1 |  |
+| 10:16:00 | ABBV | 227.35 | 41.2 | -67.2 | neutral | 228.88 | 226.03 |  | ACTION | -0.7725 | MIXED |  | 0 |  |
+| 10:16:00 | LLY | 1149.21 | 55.0 | -62.5 | neutral | 1153.52 | 1139.22 |  |  | 75.4795 | POSITIVE_COMPRESSION |  | 1 |  |
+| 10:17:00 | LLY | 1149.69 | 56.4 | -50.3 | neutral | 1153.52 | 1139.41 |  | ACTION | 62.3778 | MIXED | -13.1017 | 0 |  |
