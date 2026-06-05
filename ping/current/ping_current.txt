@@ -1,11 +1,11 @@
-# Ping Current -- 2026-06-05 -- Anchor: intraday -- Updated: 12:56
+# Ping Current -- 2026-06-05 -- Anchor: post_market -- Updated: 16:15
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| ABBV | 229.84 | 39.2 | -45.3 | bearish | 230.47 | 229.77 | ACTION |
-| AMT | 194.51 |  |  |  | 194.52 | 193.59 | -- |
-| EQIX | 1088.19 | 59.2 | -81.3 | neutral | 1088.87 | 1085.08 | ACTION |
-| LLY | 1149.83 | 31.4 | -67.7 | bearish | 1157.29 | 1149.10 | ACTION |
+| ABBV | 229.07 | 42.8 | -57.2 | neutral | 229.56 | 229.00 | ACTION |
+| AMT | 194.62 | 70.9 | -75.9 | overbought | 194.62 | 193.71 | ACTION |
+| EQIX | 1090.03 | 65.7 | -73.1 | bullish | 1090.03 | 1084.42 | -- |
+| LLY | 1147.97 | 57.3 | -64.9 | neutral | 1149.00 | 1145.00 | ACTION |
 | SPY | 753.47 | 34.8 | 82.3 | bearish |  |  | -- |
 | XLB | 49.04 | 53.5 | 1947.8 | neutral | 52.00 | 49.04 | -- |
 | XLC | 113.05 | 48.9 | -86.6 | neutral | 115.85 | 112.24 | -- |
