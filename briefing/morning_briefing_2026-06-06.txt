@@ -1,4 +1,4 @@
-# Morning Briefing — 2026-06-06 — INTRADAY — 10:56
+# Morning Briefing — 2026-06-06 — INTRADAY — 11:56
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
@@ -50,13 +50,18 @@
 ## Candidates — INTRADAY — variant: lever1_reweighted
 | Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| MS | CONDITIONAL | $211.93 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| C | CONDITIONAL | $132.47 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| WFC | CONDITIONAL | $81.94 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| JPM | CONDITIONAL | $312.37 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| MS | CONDITIONAL | $212.04 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| C | CONDITIONAL | $132.48 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| WFC | CONDITIONAL | $81.97 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| JPM | CONDITIONAL | $312.49 | — | — | — | — | — | — | — | — | — | — | — | — | — |
 
 ## Ping Summary
-_No ping data_
+| Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
+|---|---|---|---|---|---|---|---|---|
+| 15:59 | WFC | $81.97 | 48.1 | Neutral | 24.4 | $82.16 | $81.73 | — |
+| 15:59 | MS | $212.04 | 51.9 | Neutral | 29.4 | $212.53 | $211.28 | — |
+| 15:59 | JPM | $312.49 | 54.8 | Neutral | 42.5 | $313.13 | $311.20 | — |
+| 15:59 | C | $132.48 | 61.3 | Bullish | 20.2 | $132.77 | $131.38 | 1 |
 
 ## Trade Log
 _No trades recorded_
