@@ -1,0 +1,5 @@
+# Ping Intraday -- 2026-06-06 -- Anchor: intraday_10:54 -- Updated: 10:56
+
+| Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 15:59:00 | MS | 212.04 | 51.9 | 29.4 | neutral | 212.53 | 211.36 |  |  |  |  |  |  |  |
