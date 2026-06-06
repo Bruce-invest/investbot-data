@@ -1,20 +1,3 @@
-# Ping Current -- 2026-06-05 -- Anchor: post_market -- Updated: 16:15
+# Ping Current -- 2026-06-06 -- Anchor: pre_market -- Updated: 08:55
 
-| Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
-|---|---|---|---|---|---|---|---|
-| ABBV | 229.07 | 42.8 | -57.2 | neutral | 229.56 | 229.00 | ACTION |
-| AMT | 194.62 | 70.9 | -75.9 | overbought | 194.62 | 193.71 | ACTION |
-| EQIX | 1090.03 | 65.7 | -73.1 | bullish | 1090.03 | 1084.42 | -- |
-| LLY | 1147.97 | 57.3 | -64.9 | neutral | 1149.00 | 1145.00 | ACTION |
-| SPY | 753.47 | 34.8 | 82.3 | bearish |  |  | -- |
-| XLB | 49.04 | 53.5 | 1947.8 | neutral | 52.00 | 49.04 | -- |
-| XLC | 113.05 | 48.9 | -86.6 | neutral | 115.85 | 112.24 | -- |
-| XLE | 58.86 | 79.6 | -57.5 | overbought |  |  | -- |
-| XLF | 52.33 | 42.7 | -45.4 | neutral |  |  | -- |
-| XLI | 175.98 |  | -5.5 |  |  |  | -- |
-| XLK | 190.17 | 32.1 | -78.0 | bearish |  |  | -- |
-| XLP | 82.24 | 51.0 | 92.3 | neutral |  |  | -- |
-| XLRE | 44.41 |  | -4.6 |  |  |  | -- |
-| XLU | 44.06 | 65.7 | 211.1 | bullish |  |  | -- |
-| XLV | 153.35 | 75.1 | -83.1 | overbought |  |  | -- |
-| XLY | 117.48 |  | -82.0 |  |  |  | -- |
+_No intraday data available_
