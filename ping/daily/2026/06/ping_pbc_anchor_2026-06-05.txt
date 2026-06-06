@@ -1,0 +1,18 @@
+# Ping pBC Anchor -- 2026-06-05
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 08:56 | ABBV | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | ABBV | Cycle1_LongOnly | -0.259329 | MIXED | 1.5323 | -0.259329 | 0.0 | 60 |
+| 12:56 | ABBV | Cycle1_LongOnly | -0.324695 | MIXED | 1.6537 | -0.428353 | -0.103658 | 57 |
+| 10:56 | AMT | Cycle1_LongOnly | 0.0 | NEUTRAL | 1.5089 | 0.0 | 0.0 | 58 |
+| 11:56 | AMT | Cycle1_LongOnly | 0.358321 | POSITIVE_COMPRESSION | 1.1891 | 0.358321 | 0.0 | 46 |
+| 12:56 | AMT | Cycle1_LongOnly | -0.67757 | MIXED | 1.1845 | -0.283357 | 0.394213 | 59 |
+| 10:56 | EQIX | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.5307 | 0.0 | 0.0 | 43 |
+| 11:56 | EQIX | Cycle1_LongOnly | 1.923249 | MIXED | 0.5224 | 7.052221 | 5.128972 | 31 |
+| 12:56 | EQIX | Cycle1_LongOnly | -6.816358 | MIXED | 0.5597 | -6.816358 | 0.0 | 32 |
+| 08:56 | LLY | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | LLY | Cycle1_LongOnly | 75.479492 | POSITIVE_COMPRESSION | 0.9262 | 75.479492 | 0.0 | 47 |
+| 10:56 | LLY | Cycle1_LongOnly | -75.046395 | MIXED | 1.0393 | -40.304395 | 34.742 | 60 |
+| 11:56 | LLY | Cycle1_LongOnly | 21.366119 | POSITIVE_COMPRESSION | 1.1064 | 21.366119 | 0.0 | 59 |
+| 12:56 | LLY | Cycle1_LongOnly | 7.931391 | MIXED | 1.0172 | 7.931391 | 0.0 | 59 |
