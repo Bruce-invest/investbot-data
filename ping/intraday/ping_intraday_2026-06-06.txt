@@ -1,5 +1,8 @@
-# Ping Intraday -- 2026-06-06 -- Anchor: intraday_10:54 -- Updated: 10:56
+# Ping Intraday -- 2026-06-06 -- Anchor: intraday_11:54 -- Updated: 11:54
 
 | Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 15:59:00 | C | 132.48 | 61.3 | 20.2 | bullish | 132.77 | 131.56 |  | ACTION |  |  |  |  |  |
+| 15:59:00 | JPM | 312.49 | 54.8 | 42.5 | neutral | 313.13 | 311.43 |  |  |  |  |  |  |  |
 | 15:59:00 | MS | 212.04 | 51.9 | 29.4 | neutral | 212.53 | 211.36 |  |  |  |  |  |  |  |
+| 15:59:00 | WFC | 81.97 | 48.1 | 24.4 | neutral | 82.16 | 81.78 |  |  |  |  |  |  |  |
