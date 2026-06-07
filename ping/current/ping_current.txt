@@ -1,3 +1,8 @@
-# Ping Current -- 2026-06-07 -- Anchor: intraday -- Updated: 10:56
+# Ping Current -- 2026-06-07 -- Anchor: intraday -- Updated: 11:55
 
-_No intraday data available_
+| Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
+|---|---|---|---|---|---|---|---|
+| C | 132.48 | 61.3 | 20.2 | bullish | 132.77 | 131.56 | ACTION |
+| JPM | 312.49 | 54.8 | 42.5 | neutral | 313.13 | 311.43 | -- |
+| MS | 212.04 | 51.9 | 29.4 | neutral | 212.53 | 211.36 | -- |
+| WFC | 81.97 | 48.1 | 24.4 | neutral | 82.16 | 81.78 | -- |
