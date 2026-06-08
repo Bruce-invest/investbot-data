@@ -88,3 +88,7 @@
 | 2026-06-06 | JPM | candidate | 1 | 0 |
 | 2026-06-06 | MS | candidate | 1 | 0 |
 | 2026-06-06 | WFC | candidate | 1 | 0 |
+| 2026-06-07 | C | candidate | 1 | 0 |
+| 2026-06-07 | JPM | candidate | 1 | 0 |
+| 2026-06-07 | MS | candidate | 1 | 0 |
+| 2026-06-07 | WFC | candidate | 1 | 0 |
