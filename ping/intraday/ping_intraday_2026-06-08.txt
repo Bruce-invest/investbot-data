@@ -1,4 +1,4 @@
-# Ping Intraday -- 2026-06-08 -- Anchor: market_open -- Updated: 10:14
+# Ping Intraday -- 2026-06-08 -- Anchor: market_open -- Updated: 10:17
 
 | Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -820,3 +820,6 @@
 | 10:11:00 | JPM | 313.29 | 58.2 | -68.7 | neutral | 314.18 | 311.39 |  | ACTION | -0.5872 | MIXED |  | 0 |  |
 | 10:12:00 | JPM | 313.00 | 51.0 | -72.6 | neutral | 314.16 | 311.39 |  |  | 0.0861 | MIXED |  | 0 |  |
 | 10:13:00 | JPM | 313.05 | 50.0 | -51.7 | neutral | 314.16 | 311.39 |  |  | 0.4434 | MIXED |  | 0 |  |
+| 10:14:00 | JPM | 312.83 | 45.6 | -56.5 | neutral | 314.16 | 311.39 |  |  | 0.3689 | MIXED |  | 0 |  |
+| 10:15:00 | JPM | 313.02 | 48.0 | -62.7 | neutral | 314.16 | 311.39 |  |  | 0.0828 | MIXED |  | 0 |  |
+| 10:16:00 | JPM | 312.89 | 47.2 | -45.3 | neutral | 313.61 | 311.39 |  | INFORMATION | 0.6571 | MIXED | 0.5744 | 0 |  |
