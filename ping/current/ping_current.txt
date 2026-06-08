@@ -1,12 +1,12 @@
-# Ping Current -- 2026-06-08 -- Anchor: intraday -- Updated: 12:56
+# Ping Current -- 2026-06-08 -- Anchor: post_market -- Updated: 16:15
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| C | 134.66 | 48.6 | -69.2 | neutral | 134.88 | 134.15 | -- |
-| JPM | 312.47 |  |  |  | 314.65 | 311.54 | -- |
-| MS | 215.18 | 46.0 | -28.6 | neutral | 215.65 | 214.93 | -- |
+| C | 134.02 | 41.9 | -26.6 | neutral | 134.32 | 133.90 | ACTION |
+| JPM | 312.09 | 47.8 | -13.1 | neutral | 312.38 | 311.48 | -- |
+| MS | 213.69 | 35.3 | -46.4 | bearish | 214.29 | 213.64 | -- |
 | SPY | 743.67 | 82.6 | 500.0 | overbought |  |  | -- |
-| WFC | 81.62 | 37.4 | -38.3 | bearish | 81.79 | 81.58 | ACTION |
+| WFC | 81.30 | 48.9 | -40.6 | neutral | 81.37 | 81.19 | -- |
 | XLB | 50.90 |  | 3.3 |  |  |  | -- |
 | XLC | 111.71 |  | 155.1 |  |  |  | -- |
 | XLE | 58.11 | 23.1 | 28.4 | oversold |  |  | -- |
