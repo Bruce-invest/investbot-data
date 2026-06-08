@@ -1,0 +1,8 @@
+# Ping Session Summary -- 2026-06-07
+
+| Ticker | Type | Bars | Decisions | GO | Conditional | Null | First Bar | Last Bar |
+|---|---|---|---|---|---|---|---|---|
+| C | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
+| JPM | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
+| MS | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
+| WFC | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
