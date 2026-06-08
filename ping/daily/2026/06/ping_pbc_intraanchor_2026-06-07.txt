@@ -1,0 +1,8 @@
+# Ping pBC Intraanchor -- 2026-06-07
+
+| bar_time | ticker | strategy_id | current_pbc | current_pbc_state | pbc_delta | rlo_slope_5min | rhi_slope_5min | compression_confirmed | price_roc | projected_exit | projection_confidence | projection_bars | trajectory_quality |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-06-05 15:59:00 | C | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-05 15:59:00 | JPM | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-05 15:59:00 | MS | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-05 15:59:00 | WFC | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
