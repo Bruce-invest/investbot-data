@@ -1,8 +1,13 @@
-# Ping Current -- 2026-06-09 -- Anchor: market_open -- Updated: 10:16
+# Ping Current -- 2026-06-09 -- Anchor: intraday -- Updated: 10:57
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| ARM | 326.00 | 36.7 | -41.0 | bearish | 336.82 | 323.77 | -- |
+| BKR | 63.61 | 41.3 | -36.9 | neutral | 64.12 | 63.41 | ACTION |
+| CAT | 912.67 |  |  |  | 925.42 | 905.74 | -- |
+| MPC | 259.49 | 32.5 | -69.8 | bearish | 261.68 | 259.24 | ACTION |
 | SPY | 742.69 | 23.2 | 231.5 | oversold |  |  | -- |
+| VLO | 250.57 | 38.4 | -46.2 | bearish | 252.12 | 250.25 | ACTION |
 | XLB | 50.21 | 52.5 | -61.2 | neutral | 50.81 | 49.47 | -- |
 | XLC | 111.15 |  | 8.9 |  |  |  | -- |
 | XLE | 58.05 | 55.0 | 290.9 | neutral |  |  | -- |
@@ -14,3 +19,4 @@
 | XLU | 43.60 | 52.5 | -41.1 | neutral |  |  | -- |
 | XLV | 153.07 | 44.0 | -42.3 | neutral |  |  | -- |
 | XLY | 116.08 |  | -49.3 |  |  |  | -- |
+| XOM | 148.20 | 43.4 | -31.4 | neutral | 148.90 | 147.97 | -- |
