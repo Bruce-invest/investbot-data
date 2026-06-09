@@ -1,0 +1,18 @@
+# Ping pBC Anchor -- 2026-06-08
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 10:56 | C | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.5293 | 0.0 | 0.0 | 58 |
+| 11:56 | C | Cycle1_LongOnly | -0.021786 | MIXED | 0.6752 | 0.0 | 0.021786 | 53 |
+| 12:56 | C | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.7123 | 0.0 | 0.0 | 55 |
+| 08:56 | JPM | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | JPM | Cycle1_LongOnly | 0.082756 | MIXED | 1.13 | 0.0 | -0.082756 | 46 |
+| 10:56 | JPM | Cycle1_LongOnly | -0.340307 | MIXED | 0.7683 | 0.165999 | 0.506306 | 52 |
+| 11:56 | JPM | Cycle1_LongOnly | 0.032027 | MIXED | 1.0192 | 0.0 | -0.032027 | 56 |
+| 12:56 | JPM | Cycle1_LongOnly | 0.025874 | MIXED | 0.8639 | 0.001236 | -0.024638 | 60 |
+| 10:56 | MS | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.4273 | 0.0 | 0.0 | 58 |
+| 11:56 | MS | Cycle1_LongOnly | -1.106351 | MIXED | 0.443 | -0.011097 | 1.095254 | 43 |
+| 12:56 | MS | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.4628 | 0.0 | 0.0 | 42 |
+| 10:56 | WFC | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.626 | 0.0 | 0.0 | 58 |
+| 11:56 | WFC | Cycle1_LongOnly | 0.010361 | MIXED | 0.6652 | 0.007449 | -0.002912 | 59 |
+| 12:56 | WFC | Cycle1_LongOnly | -0.001302 | MIXED | 0.3353 | -0.002061 | -0.000759 | 56 |
