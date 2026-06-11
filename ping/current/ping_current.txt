@@ -1,13 +1,27 @@
-# Ping Current -- 2026-06-11 -- Anchor: market_open -- Updated: 10:16
+# Ping Current -- 2026-06-11 -- Anchor: intraday -- Updated: 10:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| ARM | 328.28 | 43.6 | -33.1 | neutral | 334.22 | 325.39 | ACTION |
-| AVGO | 375.86 | 30.3 | -27.2 | bearish | 380.95 | 375.56 | ACTION |
-| GOOGL | 348.74 | 45.0 | -34.6 | neutral | 351.59 | 347.76 | -- |
+| AAPL | 290.19 | 41.8 | -63.7 | neutral | 291.13 | 289.88 | ACTION |
+| ADBE | 220.73 | 21.9 | -60.0 | oversold | 223.97 | 220.73 | -- |
+| AMZN | 236.05 | 32.0 | -61.0 | bearish | 237.65 | 236.05 | ACTION |
+| ANET | 151.17 | 38.0 | -62.6 | bearish | 152.75 | 151.17 | ACTION |
+| ARM | 322.38 | 36.8 | -20.6 | bearish | 330.00 | 322.12 | -- |
+| AVGO | 374.59 | 32.9 | -36.1 | bearish | 378.72 | 374.44 | ACTION |
+| GOOGL | 347.01 | 40.0 | -16.9 | bearish | 349.30 | 346.38 | ACTION |
+| IBM | 270.69 | 35.9 | -64.6 | bearish | 273.50 | 270.69 | -- |
+| LRCX | 342.00 | 30.7 | -63.8 | bearish | 349.49 | 341.82 | ACTION |
+| MDLZ | 64.04 |  |  |  | 64.31 | 64.02 | -- |
+| META | 558.68 | 38.1 | -63.1 | bearish | 563.93 | 558.68 | ACTION |
+| MSFT | 387.12 | 28.1 | -54.3 | oversold | 391.35 | 387.12 | ACTION |
+| MU | 904.05 | 36.8 | -61.4 | bearish | 920.70 | 904.05 | -- |
+| NVDA | 200.55 | 26.0 | -66.2 | oversold | 203.00 | 200.55 | -- |
+| PLTR | 128.12 | 30.7 | -61.4 | bearish | 130.30 | 128.12 | ACTION |
+| SMCI | 29.09 | 39.2 | -57.5 | bearish | 29.54 | 29.09 | ACTION |
 | SPY | 728.96 | 21.6 | 35.4 | oversold |  |  | -- |
-| TSM | 417.09 | 43.0 | -42.8 | neutral | 422.24 | 415.75 | ACTION |
-| WMT | 121.36 | 70.1 | -27.9 | overbought | 121.40 | 120.09 | ACTION |
+| TSLA | 384.57 | 35.5 | -63.4 | bearish | 388.95 | 384.57 | -- |
+| TSM | 412.22 | 25.5 | -15.7 | oversold | 418.34 | 412.15 | -- |
+| WMT | 120.78 | 38.0 | -21.0 | bearish | 121.26 | 120.76 | ACTION |
 | XLB | 50.04 |  | -30.9 |  |  |  | -- |
 | XLC | 111.26 | 57.1 | -86.6 | neutral | 111.43 | 110.14 | -- |
 | XLE | 58.68 | 86.7 | 7.6 | overbought |  |  | -- |
