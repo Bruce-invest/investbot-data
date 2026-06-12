@@ -1,7 +1,9 @@
-# Ping Current -- 2026-06-12 -- Anchor: pre_market -- Updated: 08:57
+# Ping Current -- 2026-06-12 -- Anchor: market_open -- Updated: 10:17
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| GE | 332.04 | 55.4 | -52.7 | neutral | 333.16 | 328.47 | -- |
+| NUE | 267.12 | 58.9 | -30.3 | neutral | 268.17 | 264.42 | ACTION |
 | SPY | 739.65 | 38.0 | 158.1 | bearish |  |  | -- |
 | XLB | 51.24 |  | -6.1 |  |  |  | -- |
 | XLC | 112.87 | 48.4 | 0.0 | neutral | 113.61 | 111.52 | -- |
