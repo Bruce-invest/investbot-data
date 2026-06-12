@@ -1,10 +1,29 @@
-# Ping Current -- 2026-06-12 -- Anchor: market_open -- Updated: 10:17
+# Ping Current -- 2026-06-12 -- Anchor: intraday -- Updated: 10:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| GE | 332.04 | 55.4 | -52.7 | neutral | 333.16 | 328.47 | -- |
-| NUE | 267.12 | 58.9 | -30.3 | neutral | 268.17 | 264.42 | ACTION |
+| AAPL | 291.27 | 51.0 | -45.6 | neutral | 292.33 | 290.01 | -- |
+| ADBE | 203.48 | 58.4 | -44.8 | neutral | 205.65 | 201.05 | ACTION |
+| AMZN | 236.35 | 50.7 | -48.1 | neutral | 237.30 | 234.93 | -- |
+| ANET | 163.54 | 52.2 | -26.9 | neutral | 164.45 | 162.18 | -- |
+| ARM | 375.70 | 66.6 | -19.2 | bullish | 376.18 | 366.76 | ACTION |
+| AVGO | 380.69 | 59.3 | -45.8 | neutral | 381.50 | 377.00 | ACTION |
+| GE | 332.63 | 57.4 | -28.5 | neutral | 333.20 | 330.44 | ACTION |
+| GOOGL | 362.25 | 56.2 | -49.3 | neutral | 363.16 | 359.41 | -- |
+| IBM | 272.83 | 61.1 | 34.8 | bullish | 273.18 | 270.80 | ACTION |
+| LRCX | 366.73 | 65.6 | 0.1 | bullish | 368.00 | 360.75 | -- |
+| MAR | 400.50 | 65.4 | -50.5 | bullish | 400.50 | 397.33 | -- |
+| META | 568.41 | 64.4 | -25.4 | bullish | 568.96 | 563.12 | INFORMATION |
+| MSFT | 387.33 | 70.2 | -45.5 | overbought | 387.36 | 383.89 | ACTION |
+| MU | 991.91 | 56.1 | -61.1 | neutral | 996.09 | 975.91 | -- |
+| NUE | 267.99 | 67.3 | 25.8 | bullish | 268.17 | 266.24 | ACTION |
+| NVDA | 205.45 | 55.6 | -46.3 | neutral | 206.26 | 203.95 | -- |
+| PLTR | 129.19 | 62.1 | -39.4 | bullish | 129.28 | 127.93 | ACTION |
+| SMCI | 31.36 | 61.7 | -20.4 | bullish | 31.57 | 30.61 | ACTION |
 | SPY | 739.65 | 38.0 | 158.1 | bearish |  |  | -- |
+| TJX | 168.20 | 69.6 | -22.9 | bullish | 168.20 | 167.11 | ACTION |
+| TSLA | 397.06 | 59.0 | -43.3 | neutral | 397.95 | 391.90 | ACTION |
+| TSM | 423.22 | 55.2 | -11.2 | neutral | 424.62 | 419.00 | -- |
 | XLB | 51.24 |  | -6.1 |  |  |  | -- |
 | XLC | 112.87 | 48.4 | 0.0 | neutral | 113.61 | 111.52 | -- |
 | XLE | 56.82 | 71.6 | 196.5 | overbought |  |  | -- |
