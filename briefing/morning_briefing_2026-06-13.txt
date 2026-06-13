@@ -1,0 +1,23 @@
+# Morning Briefing — 2026-06-13 — PRE-MARKET — 08:58
+**Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
+
+## ETF Tone
+_No data_
+
+## RSI Shortlist
+_No data_
+
+## Candidates — PRE-MARKET — variant: lever1_reweighted
+_No candidates_
+
+## Ping Summary
+_No ping data_
+
+## Trade Log
+_No trades recorded_
+
+## IS_001 — AI Infrastructure
+**Gate:** IS_INACTIVE  |  **XLK:** Unavailable  |  **Anchor:** PRE-MARKET
+**Compression:** 0  |  **Momentum:** 0  |  **High-Conviction:** 0
+
+_IS gate inactive — XLK unavailable. No IS candidates._
