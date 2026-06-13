@@ -1,4 +1,4 @@
-# Morning Briefing — 2026-06-13 — INTRADAY — 12:56
+# Morning Briefing — 2026-06-13 — POST-MARKET — 16:15
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
@@ -40,12 +40,8 @@
 | 19 | AEP | XLU | 0.55 | 0.191 | Bullish | Neutral | 62.2 | 52.9 | 50.4 | 56.1 | 55.8 | no-go |
 | 20 | DLR | XLRE | 0.48 | 0.094 | Bearish | Confirming | 57.4 | 52.1 | 44.1 | 54.7 | 59.3 | no-go |
 
-## Candidates — INTRADAY — variant: lever1_reweighted
-| Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| PLD | CONDITIONAL | $148.72 | — | RANGING | $145.93 | $150.09 | 0.672 | 50% | MONITOR | $145.38 | no | — | — | — | — |
-| WMT | CONDITIONAL | $121.02 | — | RANGING | $119.63 | $121.44 | 0.768 | 50% | MONITOR | $119.08 | no | — | — | — | — |
-| KO | CONDITIONAL | $82.61 | — | RANGING | $81.71 | $83.88 | 0.412 | 50% | MONITOR | $81.16 | no | — | — | — | — |
+## Candidates — POST-MARKET — variant: lever1_reweighted
+_No candidates_
 
 ## Ping Summary
 | Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
@@ -74,8 +70,14 @@
 ## Trade Log
 _No trades recorded_
 
-## IS_001 — AI Infrastructure
-**Gate:** IS_INACTIVE  |  **XLK:** Lagging  |  **Anchor:** INTRADAY
-**Compression:** 0  |  **Momentum:** 0  |  **High-Conviction:** 0
-
-_IS gate inactive — XLK lagging. No IS candidates._
+## Session Range
+| Ticker | Session High | Session Low | Range | Open | Close | Day Move | Day Move% |
+|---|---|---|---|---|---|---|---|
+| ARM | $385.73 | $378.62 | $7.12 | $383.25 | $380.47 | $-2.77 | -1% |
+| AVGO | $382.37 | $380.06 | $2.31 | $381.19 | $381.86 | $0.67 | 0% |
+| GOOGL | $361.36 | $358.43 | $2.92 | $360.92 | $359.67 | $-1.25 | -0% |
+| KO | $82.69 | $82.36 | $0.34 | $82.53 | $82.61 | $0.07 | 0% |
+| NUE | $266.36 | $264.59 | $1.77 | $265.61 | $266.34 | $0.73 | 0% |
+| PLD | $148.76 | $147.85 | $0.91 | $148.47 | $148.72 | $0.25 | 0% |
+| TSM | $424.88 | $422.00 | $2.88 | $424.09 | $423.78 | $-0.31 | -0% |
+| WMT | $121.06 | $120.55 | $0.51 | $120.80 | $121.02 | $0.22 | 0% |
