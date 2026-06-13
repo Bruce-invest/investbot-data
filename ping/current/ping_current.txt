@@ -1,3 +1,22 @@
-# Ping Current -- 2026-06-13 -- Anchor: market_open -- Updated: 10:16
+# Ping Current -- 2026-06-13 -- Anchor: intraday -- Updated: 10:56
 
-_No intraday data available_
+| Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
+|---|---|---|---|---|---|---|---|
+| AAPL | 291.08 | 56.7 | 82.4 | neutral | 291.64 | 290.19 | -- |
+| ADBE | 204.01 | 41.0 | -4.2 | neutral | 205.65 | 203.91 | -- |
+| AMZN | 238.53 | 69.3 | 17.8 | bullish | 238.60 | 237.31 | -- |
+| ANET | 163.23 | 43.0 | -7.2 | neutral | 164.07 | 163.05 | -- |
+| ARM | 380.47 | 39.3 | 13.6 | bearish | 385.73 | 378.62 | ACTION |
+| AVGO | 381.86 | 60.0 | -0.9 | neutral | 382.37 | 380.06 | ACTION |
+| GOOGL | 359.67 | 51.7 | 36.2 | neutral | 360.60 | 358.43 | -- |
+| IBM | 272.26 | 46.9 | 192.4 | neutral | 273.43 | 271.39 | -- |
+| LRCX | 366.69 | 33.0 | -1.1 | bearish | 370.97 | 366.65 | -- |
+| META | 566.70 | 55.2 | 35.8 | neutral | 567.87 | 563.00 | -- |
+| MSFT | 390.67 | 63.7 | 38.2 | bullish | 390.94 | 389.03 | -- |
+| MU | 980.71 | 36.1 | 30.6 | bearish | 992.60 | 980.71 | -- |
+| NUE | 266.34 | 68.8 | 128.5 | bullish | 266.36 | 264.59 | ACTION |
+| NVDA | 205.13 | 65.3 | 10.4 | bullish | 205.28 | 203.91 | -- |
+| PLTR | 127.98 | 44.1 | 26.4 | neutral | 128.39 | 127.87 | -- |
+| SMCI | 30.46 | 51.9 | -25.6 | neutral | 30.68 | 30.25 | -- |
+| TSLA | 406.44 | 69.6 | -1.1 | bullish | 406.68 | 401.66 | -- |
+| TSM | 423.78 | 61.2 | 10.3 | bullish | 424.12 | 422.00 | ACTION |
