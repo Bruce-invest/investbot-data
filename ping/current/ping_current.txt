@@ -1,3 +1,3 @@
-# Ping Current -- 2026-06-13 -- Anchor: pre_market -- Updated: 08:58
+# Ping Current -- 2026-06-13 -- Anchor: market_open -- Updated: 10:16
 
 _No intraday data available_
