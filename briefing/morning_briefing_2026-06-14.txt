@@ -1,4 +1,4 @@
-# Morning Briefing — 2026-06-14 — INTRADAY — 10:56
+# Morning Briefing — 2026-06-14 — INTRADAY — 11:56
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
@@ -43,25 +43,25 @@
 ## Candidates — INTRADAY — variant: lever1_reweighted
 | Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| PLD | CONDITIONAL | $148.74 | — | RANGING | $145.93 | $150.09 | 0.675 | 50% | MONITOR | $145.38 | no | — | — | — | — |
-| WMT | CONDITIONAL | $121.04 | — | RANGING | $119.63 | $121.44 | 0.779 | 50% | MONITOR | $119.08 | no | — | — | — | — |
-| KO | CONDITIONAL | $82.62 | — | RANGING | $81.71 | $83.88 | 0.419 | 50% | MONITOR | $81.16 | no | — | — | — | — |
+| PLD | CONDITIONAL | $148.72 | — | RANGING | $145.93 | $150.09 | 0.672 | 50% | MONITOR | $145.38 | no | — | — | — | — |
+| WMT | CONDITIONAL | $121.02 | — | RANGING | $119.63 | $121.44 | 0.768 | 50% | MONITOR | $119.08 | no | — | — | — | — |
+| KO | CONDITIONAL | $82.61 | — | RANGING | $81.71 | $83.88 | 0.412 | 50% | MONITOR | $81.16 | no | — | — | — | — |
 
 ## Ping Summary
 | Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
 |---|---|---|---|---|---|---|---|---|
-| 15:58 | ADBE | $204.44 | 45.1 | Neutral | 1.4 | $205.65 | $201.70 | — |
-| 15:58 | AAPL | $291.13 | 58.4 | Neutral | 103.3 | $291.64 | $290.19 | — |
 | 15:59 | TSM | $423.78 | 61.2 | Bullish | 10.3 | $424.88 | $422.00 | 1 |
 | 15:59 | TSLA | $406.44 | 69.6 | Bullish | -1.1 | $406.68 | $401.20 | — |
 | 15:59 | SMCI | $30.46 | 51.9 | Neutral | -25.6 | $30.68 | $30.10 | — |
 | 15:59 | PLTR | $127.98 | 44.1 | Neutral | 26.4 | $128.39 | $127.70 | — |
+| 15:59 | PLD | $148.72 | 75.9 | Overbought | 64.1 | $148.76 | $147.85 | — |
 | 15:59 | NVDA | $205.13 | 65.3 | Bullish | 10.4 | $205.28 | $203.91 | — |
 | 15:59 | NUE | $266.34 | 68.8 | Bullish | 128.5 | $266.36 | $264.59 | 1 |
 | 15:59 | MU | $980.71 | 36.1 | Bearish | 30.6 | $995.30 | $980.71 | — |
 | 15:59 | MSFT | $390.67 | 63.7 | Bullish | 38.2 | $390.94 | $388.01 | — |
 | 15:59 | META | $566.70 | 55.2 | Neutral | 35.8 | $567.87 | $563.00 | — |
 | 15:59 | LRCX | $366.69 | 33.0 | Bearish | -1.1 | $372.00 | $366.65 | — |
+| 15:59 | KO | $82.61 | 53.2 | Neutral | 39.4 | $82.69 | $82.36 | — |
 | 15:59 | IBM | $272.26 | 46.9 | Neutral | 192.4 | $273.43 | $271.00 | — |
 | 15:59 | GOOGL | $359.67 | 51.7 | Neutral | 36.2 | $361.36 | $358.43 | — |
 | 15:59 | AVGO | $381.86 | 60.0 | Neutral | -0.9 | $382.37 | $380.06 | 1 |
