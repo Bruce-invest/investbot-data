@@ -1,0 +1,12 @@
+# Ping pBC Intraanchor -- 2026-06-13
+
+| bar_time | ticker | strategy_id | current_pbc | current_pbc_state | pbc_delta | rlo_slope_5min | rhi_slope_5min | compression_confirmed | price_roc | projected_exit | projection_confidence | projection_bars | trajectory_quality |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-06-12 15:59:00 | ARM | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-12 15:59:00 | AVGO | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-12 15:59:00 | GOOGL | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-12 15:59:00 | KO | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-12 15:59:00 | NUE | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-12 15:59:00 | PLD | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-12 15:59:00 | TSM | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-12 15:59:00 | WMT | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
