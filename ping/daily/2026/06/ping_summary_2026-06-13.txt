@@ -1,0 +1,12 @@
+# Ping Session Summary -- 2026-06-13
+
+| Ticker | Type | Bars | Decisions | GO | Conditional | Null | First Bar | Last Bar |
+|---|---|---|---|---|---|---|---|---|
+| ARM | candidate | 1 | 0 | 0 | 0 | 1 | 15:59:00 | 15:59:00 |
+| AVGO | candidate | 1 | 0 | 0 | 0 | 1 | 15:59:00 | 15:59:00 |
+| GOOGL | candidate | 1 | 0 | 0 | 0 | 1 | 15:59:00 | 15:59:00 |
+| KO | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
+| NUE | candidate | 1 | 0 | 0 | 0 | 1 | 15:59:00 | 15:59:00 |
+| PLD | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
+| TSM | candidate | 1 | 0 | 0 | 0 | 1 | 15:59:00 | 15:59:00 |
+| WMT | candidate | 1 | 0 | 0 | 1 | 0 | 15:59:00 | 15:59:00 |
