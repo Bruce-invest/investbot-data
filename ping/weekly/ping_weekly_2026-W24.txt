@@ -138,3 +138,11 @@
 | 2026-06-12 | XLU | etf | 41 | 0 |
 | 2026-06-12 | XLV | etf | 35 | 0 |
 | 2026-06-12 | XLY | etf | 25 | 0 |
+| 2026-06-13 | ARM | candidate | 1 | 0 |
+| 2026-06-13 | AVGO | candidate | 1 | 0 |
+| 2026-06-13 | GOOGL | candidate | 1 | 0 |
+| 2026-06-13 | KO | candidate | 1 | 0 |
+| 2026-06-13 | NUE | candidate | 1 | 0 |
+| 2026-06-13 | PLD | candidate | 1 | 0 |
+| 2026-06-13 | TSM | candidate | 1 | 0 |
+| 2026-06-13 | WMT | candidate | 1 | 0 |
