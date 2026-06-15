@@ -236,3 +236,11 @@
 | 2026-06-13 | PLD | candidate | 1 | 0 |
 | 2026-06-13 | TSM | candidate | 1 | 0 |
 | 2026-06-13 | WMT | candidate | 1 | 0 |
+| 2026-06-14 | ARM | candidate | 1 | 0 |
+| 2026-06-14 | AVGO | candidate | 1 | 0 |
+| 2026-06-14 | GOOGL | candidate | 1 | 0 |
+| 2026-06-14 | KO | candidate | 1 | 0 |
+| 2026-06-14 | NUE | candidate | 1 | 0 |
+| 2026-06-14 | PLD | candidate | 1 | 0 |
+| 2026-06-14 | TSM | candidate | 1 | 0 |
+| 2026-06-14 | WMT | candidate | 1 | 0 |
