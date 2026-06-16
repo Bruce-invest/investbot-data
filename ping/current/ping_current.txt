@@ -1,12 +1,14 @@
-# Ping Current -- 2026-06-16 -- Anchor: market_open -- Updated: 10:16
+# Ping Current -- 2026-06-16 -- Anchor: intraday -- Updated: 10:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| AMD | 536.46 | 34.8 | 2.5 | bearish | 542.53 | 536.46 | -- |
+| AMD | 522.92 | 30.9 | -10.8 | bearish | 532.43 | 522.92 | ACTION |
+| APD | 279.86 | 47.0 | -20.3 | neutral | 280.88 | 279.05 | -- |
 | ARM | 416.49 | 47.1 | 18.5 | neutral | 423.60 | 413.26 | -- |
-| CAT | 958.23 | 64.7 | 8.6 | bullish | 958.23 | 949.82 | -- |
-| LRCX | 391.42 | 58.7 | -10.5 | neutral | 392.91 | 385.33 | ACTION |
-| MU | 1087.72 | 39.0 | 0.9 | bearish | 1100.55 | 1084.39 | ACTION |
+| CAT | 949.16 | 37.3 | 0.3 | bearish | 956.01 | 945.91 | ACTION |
+| FCX | 70.17 | 42.5 | -30.7 | neutral | 70.62 | 69.69 | ACTION |
+| LRCX | 385.87 |  |  |  | 391.71 | 382.49 | -- |
+| MU | 1060.69 | 30.6 | -11.2 | bearish | 1081.54 | 1057.74 | ACTION |
 | SPY | 754.21 | 54.3 | 13.7 | neutral |  |  | -- |
 | XLB | 52.59 | 52.0 | 25.3 | neutral | 53.00 | 52.31 | -- |
 | XLC | 112.10 | 42.2 | -83.4 | neutral | 112.60 | 112.10 | -- |
