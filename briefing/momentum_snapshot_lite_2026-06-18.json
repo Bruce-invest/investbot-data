@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-06-18",
-  "generated_at": "2026-06-18T00:15:06",
+  "generated_at": "2026-06-18T09:42:24",
   "schema_version": "1.0",
   "description": "Key momentum signals \u00e2\u20ac\u201d 5-session history. Full snapshot at momentum_snapshot_2026-06-18.json",
   "fields": [
@@ -50,37 +50,37 @@
           "signal_date": "2026-06-15",
           "price_close": 7626.5,
           "flag3_composite": 0,
-          "dir100_close": 0,
-          "spread_delta_high": -449.125,
-          "spread_delta_low": -529.915,
-          "spread_delta_close": -489.265,
-          "spread_delta_composite": -489.435,
-          "exhaustion_flag": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 180.4625,
+          "spread_delta_low": 168.7225,
+          "spread_delta_close": 184.8325,
+          "spread_delta_composite": 178.0058,
+          "exhaustion_flag": 0,
           "compression_flag": 0
         },
         {
           "signal_date": "2026-06-16",
-          "price_close": 69.79,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "spread_delta_high": 70.3695,
-          "spread_delta_low": 70.0444,
-          "spread_delta_close": 69.7796,
-          "spread_delta_composite": 70.0645,
-          "exhaustion_flag": 0,
-          "compression_flag": 1
+          "price_close": 7587.25,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": -18.18,
+          "spread_delta_low": 29.83,
+          "spread_delta_close": -45.175,
+          "spread_delta_composite": -11.175,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
         },
         {
           "signal_date": "2026-06-17",
-          "price_close": 69.05,
+          "price_close": 7492.75,
           "flag3_composite": 3,
-          "dir100_close": 0,
-          "spread_delta_high": 68.7464,
-          "spread_delta_low": 68.1683,
-          "spread_delta_close": 68.5245,
-          "spread_delta_composite": 68.4797,
+          "dir100_close": 1,
+          "spread_delta_high": -30.2375,
+          "spread_delta_low": -110.7275,
+          "spread_delta_close": -99.4725,
+          "spread_delta_composite": -80.1458,
           "exhaustion_flag": 0,
-          "compression_flag": 1
+          "compression_flag": 0
         }
       ]
     },
@@ -90,42 +90,6 @@
       "type": "futures",
       "parent_id": null,
       "signals": [
-        {
-          "signal_date": "2026-06-08",
-          "price_close": 29454.75,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "spread_delta_high": -715.975,
-          "spread_delta_low": 10.81,
-          "spread_delta_close": 392.7625,
-          "spread_delta_composite": -104.1342,
-          "exhaustion_flag": 0,
-          "compression_flag": 1
-        },
-        {
-          "signal_date": "2026-06-09",
-          "price_close": 29117.0,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "spread_delta_high": 66.025,
-          "spread_delta_low": -622.57,
-          "spread_delta_close": -372.61,
-          "spread_delta_composite": -309.7183,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-06-10",
-          "price_close": 28554.0,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "spread_delta_high": -631.2225,
-          "spread_delta_low": 152.785,
-          "spread_delta_close": -591.4825,
-          "spread_delta_composite": -356.64,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
         {
           "signal_date": "2026-06-11",
           "price_close": 29464.75,
@@ -147,6 +111,42 @@
           "spread_delta_low": 925.0175,
           "spread_delta_close": 154.0375,
           "spread_delta_composite": 418.0133,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-15",
+          "price_close": 30864.25,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 1104.5,
+          "spread_delta_low": 911.455,
+          "spread_delta_close": 1150.4325,
+          "spread_delta_composite": 1055.4625,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-16",
+          "price_close": 30313.75,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 10.2575,
+          "spread_delta_low": 35.48,
+          "spread_delta_close": -594.94,
+          "spread_delta_composite": -183.0675,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-17",
+          "price_close": 29998.75,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -436.2725,
+          "spread_delta_low": -390.9625,
+          "spread_delta_close": -355.49,
+          "spread_delta_composite": -394.2417,
           "exhaustion_flag": 0,
           "compression_flag": 0
         }
@@ -227,42 +227,6 @@
       "parent_id": null,
       "signals": [
         {
-          "signal_date": "2026-06-08",
-          "price_close": 4363.4,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "spread_delta_high": -128.535,
-          "spread_delta_low": -40.763,
-          "spread_delta_close": 0.457,
-          "spread_delta_composite": -56.2803,
-          "exhaustion_flag": 0,
-          "compression_flag": 1
-        },
-        {
-          "signal_date": "2026-06-09",
-          "price_close": 4286.4,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "spread_delta_high": 13.719,
-          "spread_delta_low": -29.756,
-          "spread_delta_close": -73.507,
-          "spread_delta_composite": -29.848,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-06-10",
-          "price_close": 4133.3,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "spread_delta_high": -103.939,
-          "spread_delta_low": -164.861,
-          "spread_delta_close": -148.196,
-          "spread_delta_composite": -138.9987,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
           "signal_date": "2026-06-11",
           "price_close": 4114.0,
           "flag3_composite": 3,
@@ -285,6 +249,42 @@
           "spread_delta_composite": 104.663,
           "exhaustion_flag": 0,
           "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-15",
+          "price_close": 4351.6,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 129.753,
+          "spread_delta_low": 98.094,
+          "spread_delta_close": 118.716,
+          "spread_delta_composite": 115.521,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-16",
+          "price_close": 4354.4,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": -8.265,
+          "spread_delta_low": 48.817,
+          "spread_delta_close": 9.447,
+          "spread_delta_composite": 16.6663,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-17",
+          "price_close": 4381.4,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": 34.035,
+          "spread_delta_low": -81.605,
+          "spread_delta_close": 34.04,
+          "spread_delta_composite": -4.51,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
         }
       ]
     },
@@ -294,42 +294,6 @@
       "type": "futures",
       "parent_id": null,
       "signals": [
-        {
-          "signal_date": "2026-06-08",
-          "price_close": 68.585,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "spread_delta_high": -5.0838,
-          "spread_delta_low": -1.2245,
-          "spread_delta_close": -0.3405,
-          "spread_delta_composite": -2.2163,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-06-09",
-          "price_close": 65.24,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "spread_delta_high": 0.3288,
-          "spread_delta_low": -1.6221,
-          "spread_delta_close": -3.0835,
-          "spread_delta_composite": -1.4589,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-06-10",
-          "price_close": 64.74,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "spread_delta_high": -3.0119,
-          "spread_delta_low": -0.808,
-          "spread_delta_close": -0.2239,
-          "spread_delta_composite": -1.3479,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
         {
           "signal_date": "2026-06-11",
           "price_close": 64.001,
@@ -353,6 +317,42 @@
           "spread_delta_composite": 3.3048,
           "exhaustion_flag": 0,
           "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-15",
+          "price_close": 70.18,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 3.2083,
+          "spread_delta_low": 2.9862,
+          "spread_delta_close": 2.4426,
+          "spread_delta_composite": 2.879,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-16",
+          "price_close": 70.013,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 0.1762,
+          "spread_delta_low": 0.6028,
+          "spread_delta_close": 0.1086,
+          "spread_delta_composite": 0.2959,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-17",
+          "price_close": 70.767,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": 0.6708,
+          "spread_delta_low": -1.9443,
+          "spread_delta_close": 1.0717,
+          "spread_delta_composite": -0.0673,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
         }
       ]
     },
@@ -362,42 +362,6 @@
       "type": "futures",
       "parent_id": null,
       "signals": [
-        {
-          "signal_date": "2026-06-08",
-          "price_close": 100.024,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "spread_delta_high": 0.0959,
-          "spread_delta_low": 0.6666,
-          "spread_delta_close": -0.0352,
-          "spread_delta_composite": 0.2424,
-          "exhaustion_flag": 1,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-06-09",
-          "price_close": 99.636,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "spread_delta_high": -0.395,
-          "spread_delta_low": -0.406,
-          "spread_delta_close": -0.3924,
-          "spread_delta_composite": -0.3978,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-06-10",
-          "price_close": 99.683,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "spread_delta_high": -0.014,
-          "spread_delta_low": 0.0308,
-          "spread_delta_close": 0.0346,
-          "spread_delta_composite": 0.0171,
-          "exhaustion_flag": 0,
-          "compression_flag": 1
-        },
         {
           "signal_date": "2026-06-11",
           "price_close": 99.596,
@@ -419,6 +383,42 @@
           "spread_delta_low": 0.0448,
           "spread_delta_close": -0.1225,
           "spread_delta_composite": -0.1697,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-15",
+          "price_close": 99.376,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.1892,
+          "spread_delta_low": -0.2663,
+          "spread_delta_close": -0.1351,
+          "spread_delta_composite": -0.1969,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-16",
+          "price_close": 99.279,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": 0.0537,
+          "spread_delta_low": 0.0468,
+          "spread_delta_close": -0.1236,
+          "spread_delta_composite": -0.0077,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-17",
+          "price_close": 99.866,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.775,
+          "spread_delta_low": 0.0087,
+          "spread_delta_close": 0.5465,
+          "spread_delta_composite": 0.4434,
           "exhaustion_flag": 0,
           "compression_flag": 0
         }
@@ -1397,42 +1397,6 @@
       "parent_id": "XLK",
       "signals": [
         {
-          "signal_date": "2026-06-08",
-          "price_close": 346.39,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "spread_delta_high": -11.916,
-          "spread_delta_low": -0.876,
-          "spread_delta_close": 1.0745,
-          "spread_delta_composite": -3.9058,
-          "exhaustion_flag": 0,
-          "compression_flag": 1
-        },
-        {
-          "signal_date": "2026-06-09",
-          "price_close": 324.86,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "spread_delta_high": -4.3358,
-          "spread_delta_low": -42.5897,
-          "spread_delta_close": -23.7287,
-          "spread_delta_composite": -23.5514,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-06-10",
-          "price_close": 307.43,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "spread_delta_high": -32.7072,
-          "spread_delta_low": 3.7384,
-          "spread_delta_close": -19.4532,
-          "spread_delta_composite": -16.1407,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
           "signal_date": "2026-06-11",
           "price_close": 342.23,
           "flag3_composite": 1,
@@ -1453,6 +1417,42 @@
           "spread_delta_low": 37.4007,
           "spread_delta_close": 35.8436,
           "spread_delta_composite": 37.2046,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-15",
+          "price_close": 412.55,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-16",
+          "price_close": 396.34,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 9.3753,
+          "spread_delta_low": 23.8577,
+          "spread_delta_close": -18.9814,
+          "spread_delta_composite": 4.7505,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-17",
+          "price_close": 418.88,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
           "exhaustion_flag": 0,
           "compression_flag": 0
         }
@@ -2281,42 +2281,6 @@
       "parent_id": "XLK",
       "signals": [
         {
-          "signal_date": "2026-06-08",
-          "price_close": 425.8028,
-          "flag3_composite": 2,
-          "dir100_close": 1,
-          "spread_delta_high": -1.0535,
-          "spread_delta_low": 8.8096,
-          "spread_delta_close": 10.6569,
-          "spread_delta_composite": 6.1377,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-06-09",
-          "price_close": 426.9202,
-          "flag3_composite": 1,
-          "dir100_close": 1,
-          "spread_delta_high": 3.2671,
-          "spread_delta_low": -17.7777,
-          "spread_delta_close": 0.1193,
-          "spread_delta_composite": -4.7971,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-06-10",
-          "price_close": 407.795,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "spread_delta_high": -12.5523,
-          "spread_delta_low": 1.4966,
-          "spread_delta_close": -19.7868,
-          "spread_delta_composite": -10.2808,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
           "signal_date": "2026-06-11",
           "price_close": 421.07,
           "flag3_composite": 1,
@@ -2337,6 +2301,42 @@
           "spread_delta_low": 7.4469,
           "spread_delta_close": 1.8923,
           "spread_delta_composite": 4.3938,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-15",
+          "price_close": 441.4,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 14.5506,
+          "spread_delta_low": 13.6561,
+          "spread_delta_close": 16.3172,
+          "spread_delta_composite": 14.8413,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-16",
+          "price_close": 425.83,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": -3.3028,
+          "spread_delta_low": -7.7116,
+          "spread_delta_close": -16.5546,
+          "spread_delta_composite": -9.1897,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-17",
+          "price_close": 432.15,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 1.1165,
+          "spread_delta_low": 5.4373,
+          "spread_delta_close": 5.3472,
+          "spread_delta_composite": 3.967,
           "exhaustion_flag": 0,
           "compression_flag": 0
         }
