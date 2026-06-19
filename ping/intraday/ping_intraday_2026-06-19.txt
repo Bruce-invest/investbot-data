@@ -1,7 +1,12 @@
-# Ping Intraday -- 2026-06-19 -- Anchor: pre_market -- Updated: 09:30
+# Ping Intraday -- 2026-06-19 -- Anchor: market_open -- Updated: 10:15
 
 | Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 15:59:00 | ARM | 439.75 | 57.5 | 129.9 | neutral | 443.50 | 432.70 |  | ACTION |  |  |  |  |  |
+| 15:59:00 | AVGO | 410.79 | 49.9 | 124.5 | neutral | 412.70 | 408.75 |  |  |  |  |  |  |  |
+| 15:59:00 | GE | 357.67 | 40.0 | 107.0 | neutral | 359.41 | 357.19 |  | ACTION |  |  |  |  |  |
+| 15:59:00 | GEV | 1109.65 | 53.6 | 21.2 | neutral | 1114.80 | 1101.24 |  |  |  |  |  |  |  |
+| 15:59:00 | TSM | 462.22 | 47.7 | 123.9 | neutral | 465.22 | 460.06 |  |  |  |  |  |  |  |
 | 19:36:00 | XLRE | 43.90 | 50.6 | -86.6 | neutral | 44.26 | 43.79 | pre_market |  |  |  |  |  |  |
 | 19:49:00 | XLC | 109.70 | 50.2 |  | neutral | 110.38 | 108.58 | pre_market |  |  |  |  |  |  |
 | 19:51:00 | XLB | 51.80 | 46.1 |  | neutral | 52.30 | 51.61 | pre_market |  |  |  |  |  |  |
