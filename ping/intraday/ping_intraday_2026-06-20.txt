@@ -1,3 +1,9 @@
-# Ping Intraday -- 2026-06-20 -- Anchor: pre_market -- Updated: 09:30
+# Ping Intraday -- 2026-06-20 -- Anchor: market_open -- Updated: 10:15
 
-_No intraday data available_
+| Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 15:59:00 | ARM | 439.75 | 57.5 | 129.9 | neutral | 443.50 | 432.70 |  | ACTION |  |  |  |  |  |
+| 15:59:00 | AVGO | 410.79 | 49.9 | 124.5 | neutral | 412.70 | 408.75 |  |  |  |  |  |  |  |
+| 15:59:00 | GE | 357.67 | 40.0 | 107.0 | neutral | 359.41 | 357.19 |  | ACTION |  |  |  |  |  |
+| 15:59:00 | GEV | 1109.65 | 53.6 | 21.2 | neutral | 1114.80 | 1101.24 |  |  |  |  |  |  |  |
+| 15:59:00 | TSM | 462.22 | 47.7 | 123.9 | neutral | 465.22 | 460.06 |  |  |  |  |  |  |  |
