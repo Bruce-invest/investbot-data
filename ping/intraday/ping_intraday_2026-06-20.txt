@@ -1,4 +1,4 @@
-# Ping Intraday -- 2026-06-20 -- Anchor: market_open -- Updated: 10:15
+# Ping Intraday -- 2026-06-20 -- Anchor: market_open -- Updated: 10:17
 
 | Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
