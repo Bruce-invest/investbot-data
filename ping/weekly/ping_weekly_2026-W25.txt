@@ -152,3 +152,8 @@
 | 2026-06-19 | XLU | etf | 1 | 0 |
 | 2026-06-19 | XLV | etf | 1 | 0 |
 | 2026-06-19 | XLY | etf | 1 | 0 |
+| 2026-06-20 | ARM | candidate | 1 | 0 |
+| 2026-06-20 | AVGO | candidate | 1 | 0 |
+| 2026-06-20 | GE | candidate | 1 | 0 |
+| 2026-06-20 | GEV | candidate | 1 | 0 |
+| 2026-06-20 | TSM | candidate | 1 | 0 |
