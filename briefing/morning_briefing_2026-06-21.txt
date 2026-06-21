@@ -1,4 +1,4 @@
-# Morning Briefing — 2026-06-21 — PRE-MARKET — 08:56
+# Morning Briefing — 2026-06-21 — MARKET OPEN — 10:16
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
@@ -45,37 +45,43 @@
 | 55 | DE | XLI | 0.81 | 0.210 | Bullish | Neutral | 61.3 | 56.8 | 58.1 | 52.4 | 46.4 | no-go |
 | 58 | HON | XLI | 0.81 | 0.111 | Bearish | Confirming | 54.5 | 53.4 | 55.9 | 53.4 | 47.8 | no-go |
 
-## Candidates — PRE-MARKET — variant: lever1_reweighted
+## Candidates — MARKET OPEN — variant: lever1_reweighted
 | Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| GEV | CONDITIONAL | $1,109.73 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| GE | CONDITIONAL | $357.64 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| ARM | CONDITIONAL | $439.46 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| TSM | CONDITIONAL | $462.12 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| AVGO | CONDITIONAL | $411.35 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| GOOGL | CONDITIONAL | $368.03 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| IBM | CONDITIONAL | $249.10 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| META | CONDITIONAL | $577.22 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| ADBE | CONDITIONAL | $195.16 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| PLTR | CONDITIONAL | $128.47 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| SMCI | CONDITIONAL | $30.66 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| MSFT | CONDITIONAL | $379.40 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| MU | CONDITIONAL | $1,133.99 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| ANET | CONDITIONAL | $169.67 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| AMZN | CONDITIONAL | $244.39 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| NVDA | CONDITIONAL | $210.69 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| AAPL | CONDITIONAL | $298.01 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| LRCX | CONDITIONAL | $389.04 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| TSLA | CONDITIONAL | $400.49 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| GEV | CONDITIONAL | $1,109.65 | — | RANGING | $1,013.09 | $1,135.24 | 0.791 | 50% | MONITOR | $984.21 | YES | — | — | — | — |
+| GE | CONDITIONAL | $357.67 | — | UNKNOWN | $359.55 | $360.70 | -1.644 | 50% | MONITOR | $357.12 | no | — | — | — | — |
+| ARM | CONDITIONAL | $439.75 | — | RANGING | $423.51 | $443.03 | 0.832 | 50% | MONITOR | $413.88 | no | — | — | — | — |
+| TSM | CONDITIONAL | $462.22 | — | RANGING | $425.00 | $475.79 | 0.733 | 50% | MONITOR | $412.95 | YES | — | — | — | — |
+| AVGO | CONDITIONAL | $410.79 | — | RANGING | $392.15 | $413.70 | 0.865 | 50% | MONITOR | $381.56 | no | — | — | — | — |
+| GOOGL | CONDITIONAL | $368.03 | — | RANGING | $362.18 | $368.81 | 0.883 | 50% | MONITOR | $358.79 | no | — | — | — | — |
+| IBM | CONDITIONAL | $249.10 | — | RANGING | $240.76 | $272.77 | 0.261 | 50% | MONITOR | $233.18 | YES | — | — | — | — |
+| META | CONDITIONAL | $577.22 | — | RANGING | $569.36 | $581.22 | 0.663 | 50% | MONITOR | $563.40 | no | — | — | — | — |
+| ADBE | CONDITIONAL | $195.16 | — | RANGING | $190.93 | $204.09 | 0.321 | 50% | MONITOR | $184.48 | no | — | — | — | — |
+| PLTR | CONDITIONAL | $128.47 | — | RANGING | $124.42 | $136.75 | 0.329 | 50% | MONITOR | $121.41 | YES | — | — | — | — |
+| SMCI | CONDITIONAL | $30.66 | — | RANGING | $28.22 | $31.12 | 0.840 | 50% | MONITOR | $27.46 | YES | — | — | — | — |
+| MSFT | CONDITIONAL | $379.40 | — | RANGING | $374.46 | $386.08 | 0.425 | 50% | MONITOR | $368.64 | no | — | — | — | — |
+| MU | CONDITIONAL | $1,133.99 | — | RANGING | $1,032.40 | $1,167.88 | 0.750 | 50% | MONITOR | $968.73 | no | — | — | — | — |
+| ANET | CONDITIONAL | $169.67 | — | RANGING | $167.36 | $170.04 | 0.863 | 50% | MONITOR | $165.94 | no | — | — | — | — |
+| AMZN | CONDITIONAL | $244.39 | — | RANGING | $237.05 | $245.32 | 0.888 | 50% | MONITOR | $232.89 | no | — | — | — | — |
+| NVDA | CONDITIONAL | $210.69 | — | RANGING | $205.06 | $211.29 | 0.904 | 50% | MONITOR | $201.90 | no | — | — | — | — |
+| AAPL | CONDITIONAL | $298.01 | — | RANGING | $295.95 | $298.71 | 0.748 | 50% | MONITOR | $294.48 | no | — | — | — | — |
+| LRCX | CONDITIONAL | $389.04 | — | RANGING | $378.76 | $401.18 | 0.458 | 50% | MONITOR | $367.78 | no | — | — | — | — |
+| TSLA | CONDITIONAL | $400.49 | — | RANGING | $386.64 | $406.31 | 0.704 | 50% | MONITOR | $376.95 | no | — | — | — | — |
 
 ## Ping Summary
-_No ping data_
+| Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
+|---|---|---|---|---|---|---|---|---|
+| 15:59 | TSM | $462.22 | 47.7 | Neutral | 123.9 | $465.22 | $459.38 | — |
+| 15:59 | GEV | $1,109.65 | 53.6 | Neutral | 21.2 | $1,114.80 | $1,094.06 | — |
+| 15:59 | GE | $357.67 | 40.0 | Neutral | 107.0 | $359.41 | $357.19 | 2 |
+| 15:59 | AVGO | $410.79 | 49.9 | Neutral | 124.5 | $412.70 | $407.56 | — |
+| 15:59 | ARM | $439.75 | 57.5 | Neutral | 129.9 | $443.50 | $430.92 | 1 |
 
 ## Trade Log
 _No trades recorded_
 
 ## IS_001 — AI Infrastructure
-**Gate:** IS_ACTIVE  |  **XLK:** Leading  |  **Anchor:** PRE-MARKET
+**Gate:** IS_ACTIVE  |  **XLK:** Leading  |  **Anchor:** MARKET OPEN
 **Compression:** 5  |  **Momentum:** 4  |  **High-Conviction:** 0
 
 | Rank | Ticker | Signal | Comp Score | Hit Rate | Band Pos | Dist Exit | RHi Dir | RLo Dir | Sector CV | XLK Tone |
