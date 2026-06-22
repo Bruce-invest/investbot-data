@@ -399,3 +399,8 @@
 | 2026-06-20 | GE | candidate | 1 | 0 |
 | 2026-06-20 | GEV | candidate | 1 | 0 |
 | 2026-06-20 | TSM | candidate | 1 | 0 |
+| 2026-06-21 | ARM | candidate | 1 | 0 |
+| 2026-06-21 | AVGO | candidate | 1 | 0 |
+| 2026-06-21 | GE | candidate | 1 | 0 |
+| 2026-06-21 | GEV | candidate | 1 | 0 |
+| 2026-06-21 | TSM | candidate | 1 | 0 |
