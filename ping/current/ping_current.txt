@@ -1,8 +1,13 @@
-# Ping Current -- 2026-06-22 -- Anchor: pre_market -- Updated: 08:55
+# Ping Current -- 2026-06-22 -- Anchor: market_open -- Updated: 10:16
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| ARM | 420.85 | 49.4 | -24.7 | neutral | 428.50 | 417.67 | -- |
+| AVGO | 399.75 | 47.1 | 1.2 | neutral | 403.31 | 398.82 | -- |
+| ETN | 427.68 | 58.3 | -19.8 | neutral | 428.46 | 424.06 | ACTION |
+| GEV | 1126.00 | 53.5 | -13.1 | neutral | 1134.65 | 1117.33 | -- |
 | SPY | 747.38 | 74.6 | 13.2 | overbought |  |  | -- |
+| TSM | 468.83 | 49.8 | 2.0 | neutral | 470.92 | 467.45 | -- |
 | XLB | 51.50 | 47.0 | 64.0 | neutral | 51.80 | 51.03 | -- |
 | XLC | 108.77 | 43.6 | 362.7 | neutral | 109.84 | 108.54 | -- |
 | XLE | 53.60 | 63.4 | 0.8 | bullish |  |  | -- |
