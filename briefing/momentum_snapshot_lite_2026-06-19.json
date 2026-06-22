@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-06-19",
-  "generated_at": "2026-06-22T07:49:54",
+  "generated_at": "2026-06-22T08:58:21",
   "schema_version": "1.0",
   "description": "Key momentum signals \u00e2\u20ac\u201d 5-session history. Full snapshot at momentum_snapshot_2026-06-19.json",
   "fields": [
@@ -60,13 +60,13 @@
         },
         {
           "signal_date": "2026-06-18",
-          "price_close": 69.59,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "spread_delta_high": null,
-          "spread_delta_low": null,
-          "spread_delta_close": null,
-          "spread_delta_composite": null,
+          "price_close": 7570.75,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -34.8775,
+          "spread_delta_low": 26.245,
+          "spread_delta_close": 72.6025,
+          "spread_delta_composite": 21.3233,
           "exhaustion_flag": 0,
           "compression_flag": 0
         },
