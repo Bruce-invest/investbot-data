@@ -1,0 +1,6 @@
+# Ping pBC Intraanchor -- 2026-06-21
+
+| bar_time | ticker | strategy_id | current_pbc | current_pbc_state | pbc_delta | rlo_slope_5min | rhi_slope_5min | compression_confirmed | price_roc | projected_exit | projection_confidence | projection_bars | trajectory_quality |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-06-18 15:59:00 | GE | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
+| 2026-06-18 15:59:00 | GEV | Cycle1_LongOnly |  |  |  |  |  |  |  |  |  | 0 |  |
