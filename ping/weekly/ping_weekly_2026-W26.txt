@@ -1,0 +1,36 @@
+# Ping Weekly Archive -- 2026-W26
+
+| Session Date | Ticker | Type | Bars | Decisions |
+|---|---|---|---|---|
+| 2026-06-22 | AAPL | candidate | 221 | 0 |
+| 2026-06-22 | ADBE | candidate | 223 | 0 |
+| 2026-06-22 | AMD | candidate | 184 | 0 |
+| 2026-06-22 | AMZN | candidate | 221 | 0 |
+| 2026-06-22 | ANET | candidate | 220 | 0 |
+| 2026-06-22 | ARM | candidate | 267 | 0 |
+| 2026-06-22 | AVGO | candidate | 268 | 0 |
+| 2026-06-22 | ETN | candidate | 252 | 0 |
+| 2026-06-22 | GEV | candidate | 267 | 0 |
+| 2026-06-22 | GOOGL | candidate | 221 | 0 |
+| 2026-06-22 | IBM | candidate | 218 | 0 |
+| 2026-06-22 | LRCX | candidate | 218 | 0 |
+| 2026-06-22 | META | candidate | 222 | 0 |
+| 2026-06-22 | MSFT | candidate | 221 | 0 |
+| 2026-06-22 | MU | candidate | 222 | 0 |
+| 2026-06-22 | NVDA | candidate | 221 | 0 |
+| 2026-06-22 | PLTR | candidate | 221 | 0 |
+| 2026-06-22 | SMCI | candidate | 221 | 0 |
+| 2026-06-22 | SPY | etf | 150 | 0 |
+| 2026-06-22 | TSLA | candidate | 221 | 0 |
+| 2026-06-22 | TSM | candidate | 268 | 0 |
+| 2026-06-22 | XLB | etf | 19 | 0 |
+| 2026-06-22 | XLC | etf | 14 | 0 |
+| 2026-06-22 | XLE | etf | 80 | 0 |
+| 2026-06-22 | XLF | etf | 53 | 0 |
+| 2026-06-22 | XLI | etf | 31 | 0 |
+| 2026-06-22 | XLK | etf | 79 | 0 |
+| 2026-06-22 | XLP | etf | 33 | 0 |
+| 2026-06-22 | XLRE | etf | 19 | 0 |
+| 2026-06-22 | XLU | etf | 49 | 0 |
+| 2026-06-22 | XLV | etf | 32 | 0 |
+| 2026-06-22 | XLY | etf | 17 | 0 |
