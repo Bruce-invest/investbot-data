@@ -1,12 +1,29 @@
-# Ping Current -- 2026-06-24 -- Anchor: market_open -- Updated: 10:16
+# Ping Current -- 2026-06-24 -- Anchor: intraday -- Updated: 10:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| ABBV | 234.05 | 35.1 | -5.5 | bearish | 236.41 | 234.05 | -- |
-| AEP | 133.84 | 42.4 | -25.0 | neutral | 134.65 | 133.72 | ACTION |
-| ETR | 113.75 | 41.4 | -3.5 | neutral | 114.54 | 113.73 | ACTION |
+| AAPL | 296.90 | 66.0 | -1.7 | bullish | 297.14 | 295.19 | -- |
+| ABBV | 233.96 | 39.0 | -20.1 | bearish | 234.64 | 233.63 | ACTION |
+| ADBE | 199.07 | 62.5 | -10.3 | bullish | 199.18 | 198.01 | ACTION |
+| AEP | 133.91 | 61.8 | -41.1 | bullish | 133.91 | 133.25 | ACTION |
+| AMZN | 240.14 | 68.0 | -2.2 | bullish | 240.40 | 237.83 | ACTION |
+| ANET | 164.16 | 59.4 | -7.2 | neutral | 164.63 | 162.90 | ACTION |
+| ARM | 358.56 | 51.5 | 1.2 | neutral | 362.96 | 353.53 | ACTION |
+| AVGO | 383.28 | 48.3 | -17.3 | neutral | 384.95 | 382.31 | -- |
+| ETR | 114.09 | 58.2 | -21.6 | neutral | 114.10 | 113.47 | ACTION |
+| GOOGL | 352.51 | 62.0 | 22.4 | bullish | 353.25 | 350.00 | ACTION |
+| IBM | 262.24 | 54.2 | -18.5 | neutral | 263.43 | 261.27 | -- |
+| LRCX | 374.78 | 59.8 | -7.9 | neutral | 376.36 | 369.24 | ACTION |
+| META | 564.61 | 63.4 | -25.8 | bullish | 565.21 | 560.23 | -- |
+| MSFT | 374.63 | 61.2 | -5.8 | bullish | 374.89 | 372.71 | ACTION |
+| MU | 1041.74 | 39.2 | 0.3 | bearish | 1057.00 | 1041.74 | ACTION |
+| NVDA | 200.73 | 55.8 | -0.4 | neutral | 201.22 | 199.74 | -- |
+| PLTR | 116.29 | 51.0 | -0.2 | neutral | 116.80 | 115.53 | -- |
+| SMCI | 33.21 | 42.3 | -12.4 | neutral | 33.81 | 33.21 | ACTION |
 | SPY | 735.77 | 89.3 | -11.6 | overbought |  |  | -- |
-| UNH | 404.46 | 36.6 | -22.9 | bearish | 407.36 | 404.46 | -- |
+| TSLA | 381.90 | 51.8 | 17.5 | neutral | 383.17 | 379.72 | -- |
+| TSM | 440.74 | 51.2 | 7.4 | neutral | 442.50 | 439.36 | -- |
+| UNH | 403.24 | 58.6 | 30.5 | neutral | 404.46 | 400.27 | ACTION |
 | XLB | 51.00 | 52.2 | 152.4 | neutral | 51.68 | 50.27 | -- |
 | XLC | 107.88 |  | -34.0 |  |  |  | -- |
 | XLE | 53.84 | 10.9 | 14.5 | oversold |  |  | -- |
