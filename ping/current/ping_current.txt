@@ -1,8 +1,12 @@
-# Ping Current -- 2026-06-24 -- Anchor: pre_market -- Updated: 08:55
+# Ping Current -- 2026-06-24 -- Anchor: market_open -- Updated: 10:16
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| ABBV | 234.05 | 35.1 | -5.5 | bearish | 236.41 | 234.05 | -- |
+| AEP | 133.84 | 42.4 | -25.0 | neutral | 134.65 | 133.72 | ACTION |
+| ETR | 113.75 | 41.4 | -3.5 | neutral | 114.54 | 113.73 | ACTION |
 | SPY | 735.77 | 89.3 | -11.6 | overbought |  |  | -- |
+| UNH | 404.46 | 36.6 | -22.9 | bearish | 407.36 | 404.46 | -- |
 | XLB | 51.00 | 52.2 | 152.4 | neutral | 51.68 | 50.27 | -- |
 | XLC | 107.88 |  | -34.0 |  |  |  | -- |
 | XLE | 53.84 | 10.9 | 14.5 | oversold |  |  | -- |
