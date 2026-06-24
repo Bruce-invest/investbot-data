@@ -165,12 +165,16 @@
     "n_correct": 3,
     "n_total": 11,
     "pct_correct": 27.27,
+    "n_class_correct": 6,
+    "n_class_scored": 11,
+    "class_pct_correct": 54.55,
     "top1_correct": false,
     "top1_etf": "XLRE"
   },
   "cumulative": {
-    "sessions": 2,
-    "pct_correct": 13.64,
+    "sessions": 3,
+    "pct_correct": 18.18,
+    "class_pct_correct": 54.55,
     "top1_pct": 0.0
   },
   "intraday_tracking": {}
