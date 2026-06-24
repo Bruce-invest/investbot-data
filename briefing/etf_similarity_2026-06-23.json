@@ -1,0 +1,177 @@
+{
+  "session_date": "2026-06-23",
+  "regime_cell": "COMPRESSION_BCD",
+  "n_similar_sessions": 20,
+  "closest_matches": [
+    {
+      "date": "2012-05-30",
+      "cosine_similarity": 0.7489,
+      "es_delta_z": 0.4452
+    },
+    {
+      "date": "2014-09-08",
+      "cosine_similarity": 0.7443,
+      "es_delta_z": -2.0502
+    },
+    {
+      "date": "2017-06-20",
+      "cosine_similarity": 0.7388,
+      "es_delta_z": -0.7422
+    },
+    {
+      "date": "2011-06-15",
+      "cosine_similarity": 0.7152,
+      "es_delta_z": 0.6131
+    },
+    {
+      "date": "2019-11-29",
+      "cosine_similarity": 0.7107,
+      "es_delta_z": -2.7755
+    }
+  ],
+  "premarket_similarity_ranking": [
+    {
+      "rank": 1,
+      "etf": "XLC",
+      "predicted": "Supporting",
+      "confidence": 1.0,
+      "wr585_class": "lagging"
+    },
+    {
+      "rank": 2,
+      "etf": "XLRE",
+      "predicted": "Supporting",
+      "confidence": 1.0,
+      "wr585_class": "neutral"
+    },
+    {
+      "rank": 3,
+      "etf": "XME",
+      "predicted": "Supporting",
+      "confidence": 1.0,
+      "wr585_class": "Unknown"
+    },
+    {
+      "rank": 4,
+      "etf": "XLU",
+      "predicted": "Lagging",
+      "confidence": 0.6,
+      "wr585_class": "supporting"
+    },
+    {
+      "rank": 5,
+      "etf": "XLF",
+      "predicted": "Lagging",
+      "confidence": 0.9,
+      "wr585_class": "leading"
+    },
+    {
+      "rank": 6,
+      "etf": "XLV",
+      "predicted": "Lagging",
+      "confidence": 0.9,
+      "wr585_class": "supporting"
+    },
+    {
+      "rank": 7,
+      "etf": "XLE",
+      "predicted": "Lagging",
+      "confidence": 0.9,
+      "wr585_class": "neutral"
+    },
+    {
+      "rank": 8,
+      "etf": "XLK",
+      "predicted": "Lagging",
+      "confidence": 0.9,
+      "wr585_class": "supporting"
+    },
+    {
+      "rank": 9,
+      "etf": "XLB",
+      "predicted": "Lagging",
+      "confidence": 0.9,
+      "wr585_class": "supporting"
+    },
+    {
+      "rank": 10,
+      "etf": "XLP",
+      "predicted": "Lagging",
+      "confidence": 0.8,
+      "wr585_class": "neutral"
+    },
+    {
+      "rank": 11,
+      "etf": "XLI",
+      "predicted": "Lagging",
+      "confidence": 0.9,
+      "wr585_class": "leading"
+    },
+    {
+      "rank": 12,
+      "etf": "XLY",
+      "predicted": "Lagging",
+      "confidence": 0.9,
+      "wr585_class": "neutral"
+    }
+  ],
+  "eod_actual": {
+    "XLRE": {
+      "pct_move": 1.133,
+      "actual_rank": 1
+    },
+    "XLU": {
+      "pct_move": 0.7598,
+      "actual_rank": 2
+    },
+    "XLC": {
+      "pct_move": 0.7416,
+      "actual_rank": 3
+    },
+    "XLE": {
+      "pct_move": 0.5541,
+      "actual_rank": 4
+    },
+    "XLF": {
+      "pct_move": 0.4382,
+      "actual_rank": 5
+    },
+    "XLV": {
+      "pct_move": 0.4291,
+      "actual_rank": 6
+    },
+    "XLP": {
+      "pct_move": 0.0837,
+      "actual_rank": 7
+    },
+    "XLY": {
+      "pct_move": -0.1931,
+      "actual_rank": 8
+    },
+    "XLK": {
+      "pct_move": -0.287,
+      "actual_rank": 9
+    },
+    "XLB": {
+      "pct_move": -0.4112,
+      "actual_rank": 10
+    },
+    "XLI": {
+      "pct_move": -0.5749,
+      "actual_rank": 11
+    }
+  },
+  "performance": {
+    "n_correct": 3,
+    "n_total": 11,
+    "pct_correct": 27.27,
+    "top1_correct": false,
+    "top1_etf": "XLRE"
+  },
+  "cumulative": {
+    "sessions": 2,
+    "pct_correct": 13.64,
+    "top1_pct": 0.0
+  },
+  "intraday_tracking": {}
+}
