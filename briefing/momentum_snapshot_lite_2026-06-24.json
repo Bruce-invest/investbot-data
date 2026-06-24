@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-06-24",
-  "generated_at": "2026-06-24T09:17:46",
+  "generated_at": "2026-06-24T16:28:01",
   "schema_version": "1.0",
   "description": "Key momentum signals \u00e2\u20ac\u201d 5-session history. Full snapshot at momentum_snapshot_2026-06-24.json",
   "fields": [
@@ -2391,6 +2391,74 @@
           "spread_delta_low": null,
           "spread_delta_close": null,
           "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "SPY",
+      "display_name": "SPDR S&P 500 ETF Trust",
+      "type": "Index",
+      "parent_id": null,
+      "signals": [
+        {
+          "signal_date": "2026-06-16",
+          "price_close": 750.33,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": -1.8313,
+          "spread_delta_low": -2.487,
+          "spread_delta_close": -5.0626,
+          "spread_delta_composite": -3.127,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-17",
+          "price_close": 740.96,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -3.8506,
+          "spread_delta_low": -11.1162,
+          "spread_delta_close": -9.828,
+          "spread_delta_composite": -8.2649,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-18",
+          "price_close": 746.74,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -4.4414,
+          "spread_delta_low": 4.0849,
+          "spread_delta_close": 5.2503,
+          "spread_delta_composite": 1.6313,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-22",
+          "price_close": 744.2839,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 1.3654,
+          "spread_delta_low": -1.3009,
+          "spread_delta_close": -2.9953,
+          "spread_delta_composite": -0.9769,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-06-23",
+          "price_close": 733.58,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -10.9918,
+          "spread_delta_low": -11.2405,
+          "spread_delta_close": -11.1173,
+          "spread_delta_composite": -11.1165,
           "exhaustion_flag": 0,
           "compression_flag": 0
         }
