@@ -1,8 +1,13 @@
-# Ping Current -- 2026-06-26 -- Anchor: pre_market -- Updated: 08:55
+# Ping Current -- 2026-06-26 -- Anchor: market_open -- Updated: 10:16
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| ABBV | 248.69 | 58.3 | -31.5 | neutral | 249.31 | 246.36 | ACTION |
+| CAT | 1016.94 | 49.3 | -8.7 | neutral | 1019.38 | 1011.65 | -- |
+| DE | 625.12 | 56.4 | 0.1 | neutral | 626.00 | 620.16 | -- |
+| GE | 369.32 | 60.9 | -35.0 | bullish | 370.27 | 364.17 | ACTION |
 | SPY | 729.13 | 87.6 | 317.2 | overbought |  |  | -- |
+| UNH | 424.09 | 63.2 | -42.7 | bullish | 424.39 | 421.62 | -- |
 | XLB | 52.01 |  | -14.9 |  |  |  | -- |
 | XLC | 106.03 | 60.1 | 2799.2 | bullish | 106.03 | 105.14 | -- |
 | XLE | 53.74 | 71.2 | 4.2 | overbought |  |  | -- |
