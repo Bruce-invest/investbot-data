@@ -1,11 +1,11 @@
-# Ping Current -- 2026-06-30 -- Anchor: intraday -- Updated: 12:56
+# Ping Current -- 2026-06-30 -- Anchor: post_market -- Updated: 16:15
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| DE | 633.11 | 47.0 | -17.9 | neutral | 634.36 | 632.80 | -- |
-| HD | 351.44 | 31.8 | 73.5 | bearish | 352.86 | 351.21 | ACTION |
-| JNJ | 255.50 | 46.2 | 59.3 | neutral | 255.90 | 255.24 | -- |
-| LLY | 1209.66 | 48.2 | -19.5 | neutral | 1211.27 | 1208.24 | -- |
+| DE | 634.64 | 51.6 | -62.4 | neutral | 636.24 | 634.23 | -- |
+| HD | 352.26 | 52.4 | 15.5 | neutral | 352.70 | 351.83 | -- |
+| JNJ | 256.06 | 36.0 | -41.8 | bearish | 257.03 | 256.05 | -- |
+| LLY | 1211.25 | 44.9 | -32.7 | neutral | 1215.88 | 1209.32 | -- |
 | SPY | 741.25 | 34.2 | 5.0 | bearish |  |  | -- |
 | XLB | 50.86 |  | -12.1 |  |  |  | -- |
 | XLC | 108.02 | 51.8 | -55.6 | neutral | 108.27 | 107.48 | -- |
