@@ -1,4 +1,4 @@
-# Ping Intraday -- 2026-06-30 -- Anchor: intraday_1 -- Updated: 10:54
+# Ping Intraday -- 2026-06-30 -- Anchor: intraday_1 -- Updated: 10:57
 
 | Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -778,3 +778,14 @@
 | 10:53:00 | HD | 351.76 | 66.7 | -38.8 | bullish | 352.17 | 349.73 |  |  | -0.3536 | MIXED |  | 1 |  |
 | 10:53:00 | JNJ | 254.19 | 56.9 | -38.4 | neutral | 254.50 | 253.38 |  |  | -0.9560 | NEGATIVE_COMPRESSION | 2.2756 | 0 |  |
 | 10:53:00 | LLY | 1198.20 | 51.5 | 12.1 | neutral | 1201.38 | 1190.77 |  |  | 73.2556 | MIXED | 437.7598 | 0 |  |
+| 10:54:00 | DE | 627.88 | 58.7 | 20.0 | neutral | 628.61 | 625.51 |  | ACTION | 0.0000 | NEUTRAL |  | 0 |  |
+| 10:54:00 | HD | 351.93 | 68.8 | -38.8 | bullish | 352.17 | 349.90 |  | ACTION | -0.2333 | MIXED |  | 1 |  |
+| 10:54:00 | JNJ | 254.09 | 50.2 | -38.4 | neutral | 254.50 | 253.38 |  |  | 0.1037 | NEGATIVE_BAND_COMPRESSION | 3.3353 | 0 |  |
+| 10:55:00 | DE | 627.73 | 57.0 | -38.3 | neutral | 628.61 | 625.51 |  | ACTION | 0.0000 | NEUTRAL |  | 0 |  |
+| 10:55:00 | HD | 351.90 | 67.8 | -38.8 | bullish | 352.17 | 350.09 |  | ACTION | 0.7143 | POSITIVE_COMPRESSION |  | 1 |  |
+| 10:55:00 | JNJ | 254.29 | 58.0 | -38.4 | neutral | 254.50 | 253.38 |  | ACTION | 0.7166 | MIXED | 3.9482 | 0 |  |
+| 10:55:00 | LLY | 1199.10 | 58.2 | 12.1 | neutral | 1201.38 | 1190.77 |  | ACTION | 5.7630 | MIXED | 370.2673 | 0 |  |
+| 10:56:00 | DE | 627.28 | 52.0 | -38.3 | neutral | 628.61 | 625.51 |  |  | 0.0000 | NEUTRAL | 0.0000 | 0 |  |
+| 10:56:00 | HD | 351.69 | 60.7 | -38.8 | bullish | 352.17 | 350.09 |  | ACTION | 0.9304 | POSITIVE_COMPRESSION |  | 1 |  |
+| 10:56:00 | JNJ | 254.20 | 57.9 | -38.4 | neutral | 254.29 | 253.38 |  | ACTION | 2.9353 | NEGATIVE_BAND_COMPRESSION | 2.2186 | 0 |  |
+| 10:56:00 | LLY | 1199.46 | 59.0 | 12.1 | neutral | 1201.38 | 1190.77 |  | ACTION | -34.7288 | MIXED | -40.4919 | 0 |  |
