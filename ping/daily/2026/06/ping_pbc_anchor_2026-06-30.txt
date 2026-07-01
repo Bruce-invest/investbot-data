@@ -1,0 +1,19 @@
+# Ping pBC Anchor -- 2026-06-30
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 10:16 | DE | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | DE | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.8128 | 0.0 | 0.0 | 35 |
+| 11:56 | DE | Cycle1_LongOnly | 8.291357 | MIXED | 0.8072 | -0.106492 | -8.397849 | 49 |
+| 12:56 | DE | Cycle1_LongOnly | -5.775902 | MIXED | 1.0834 | -5.775902 | 0.0 | 48 |
+| 08:56 | HD | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 08:56 | JNJ | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | JNJ | Cycle1_LongOnly | -3.2316 | MIXED | 0.9037 | -6.004563 | -2.772963 | 45 |
+| 10:56 | JNJ | Cycle1_LongOnly | 0.716647 | MIXED | 0.7692 | 0.0 | -0.716647 | 57 |
+| 11:56 | JNJ | Cycle1_LongOnly | 2.161436 | NEGATIVE_BAND_COMPRESSION | 0.8449 | 0.0 | -2.161436 | 57 |
+| 12:56 | JNJ | Cycle1_LongOnly | -0.830188 | MIXED | 0.862 | -0.101722 | 0.728466 | 56 |
+| 08:56 | LLY | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | LLY | Cycle1_LongOnly | -364.504205 | MIXED | 0.7839 | -364.504205 | 0.0 | 46 |
+| 10:56 | LLY | Cycle1_LongOnly | 5.763048 | MIXED | 0.6953 | 0.0 | -5.763048 | 58 |
+| 11:56 | LLY | Cycle1_LongOnly | 125.744094 | NEGATIVE_BAND_COMPRESSION | 0.771 | 0.0 | -125.744094 | 58 |
+| 12:56 | LLY | Cycle1_LongOnly | 85.547419 | POSITIVE_COMPRESSION | 0.7667 | 85.547419 | 0.0 | 56 |
