@@ -1,7 +1,10 @@
-# Ping Current -- 2026-07-01 -- Anchor: pre_market -- Updated: 08:56
+# Ping Current -- 2026-07-01 -- Anchor: market_open -- Updated: 10:16
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| DE | 628.94 | 64.9 | -24.7 | bullish | 628.94 | 619.89 | -- |
+| GEV | 1156.29 | 59.4 | -41.0 | neutral | 1157.99 | 1141.27 | ACTION |
+| RTX | 190.34 | 56.5 | -6.9 | neutral | 190.41 | 189.69 | -- |
 | SPY | 744.62 | 75.8 | 90.0 | overbought |  |  | -- |
 | XLB | 50.79 | 51.9 | -86.6 | neutral | 51.20 | 50.32 | -- |
 | XLC | 108.56 | 72.6 | -38.4 | overbought | 108.70 | 106.90 | -- |
