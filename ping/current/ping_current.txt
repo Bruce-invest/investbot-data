@@ -1,11 +1,24 @@
-# Ping Current -- 2026-07-01 -- Anchor: intraday -- Updated: 11:56
+# Ping Current -- 2026-07-01 -- Anchor: intraday -- Updated: 12:56
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
-| DE | 632.82 | 73.2 | -28.9 | overbought | 632.82 | 627.91 | -- |
-| GEV | 1148.89 | 38.3 | -23.1 | bearish | 1159.47 | 1148.46 | ACTION |
-| RTX | 191.49 | 79.7 | -11.1 | overbought | 191.49 | 190.54 | -- |
+| ARM | 342.05 | 38.5 | -20.0 | bearish | 344.17 | 341.76 | ACTION |
+| BRK-B | 502.93 | 37.7 | 66.0 | bearish | 503.71 | 502.93 | ACTION |
+| CAT | 1005.60 | 25.9 | 2.7 | oversold | 1018.24 | 1005.00 | -- |
+| DE | 629.42 | 27.1 | 62.9 | oversold | 633.77 | 629.42 | ACTION |
+| GE | 374.21 | 46.0 | -33.2 | neutral | 375.87 | 373.50 | -- |
+| GEV | 1154.03 | 34.3 | -12.7 | bearish | 1160.71 | 1153.13 | -- |
+| GOOGL | 358.97 | 59.3 | -8.3 | neutral | 359.31 | 357.76 | ACTION |
+| JPM | 334.25 | 25.8 | 51.8 | oversold | 335.64 | 334.25 | -- |
+| LIN | 536.83 | 38.3 | 16.7 | bearish | 538.92 | 536.63 | ACTION |
+| META | 617.16 | 39.6 | -33.3 | bearish | 619.53 | 617.16 | ACTION |
+| NUE | 218.47 | 49.4 | -23.5 | neutral | 218.87 | 218.29 | -- |
+| PG | 146.81 | 42.9 | -9.7 | neutral | 147.03 | 146.76 | ACTION |
+| RTX | 190.85 | 33.3 | -22.5 | bearish | 191.42 | 190.85 | -- |
+| SHW | 348.58 | 34.8 | -43.2 | bearish | 349.51 | 348.51 | -- |
+| SO | 95.54 | 27.9 | 17.8 | oversold | 95.74 | 95.53 | ACTION |
 | SPY | 744.62 | 75.8 | 90.0 | overbought |  |  | -- |
+| V | 352.95 | 52.8 | -2.1 | neutral | 353.25 | 352.69 | -- |
 | XLB | 50.79 | 51.9 | -86.6 | neutral | 51.20 | 50.32 | -- |
 | XLC | 108.56 | 72.6 | -38.4 | overbought | 108.70 | 106.90 | -- |
 | XLE | 52.97 | 62.1 | 57.2 | bullish |  |  | -- |
