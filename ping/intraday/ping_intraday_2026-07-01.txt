@@ -1,4 +1,4 @@
-# Ping Intraday -- 2026-07-01 -- Anchor: market_open -- Updated: 10:14
+# Ping Intraday -- 2026-07-01 -- Anchor: market_open -- Updated: 10:16
 
 | Time | Ticker | Price | RSI | CV | RSI Zone | RHi | RLo | Anchor | Trigger | pBC | pBC State | pBC Delta | Cmp | Proj Exit |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -612,3 +612,9 @@
 | 10:12:00 | RTX | 190.41 | 60.7 | -31.1 | bullish | 190.41 | 189.69 |  | ACTION | 0.1001 | MIXED |  | 0 |  |
 | 10:13:00 | GEV | 1155.65 | 60.7 | -2.7 | bullish | 1157.99 | 1135.05 |  | ACTION | 296.8505 | POSITIVE_COMPRESSION |  | 1 |  |
 | 10:13:00 | RTX | 190.19 | 54.2 | -6.9 | neutral | 190.41 | 189.69 |  |  | -0.1923 | MIXED |  | 0 |  |
+| 10:14:00 | DE | 626.06 | 52.7 | -14.5 | neutral | 627.53 | 619.89 |  |  | 11.9374 | POSITIVE_COMPRESSION |  | 1 |  |
+| 10:14:00 | GEV | 1156.82 | 62.2 | -2.7 | bullish | 1157.99 | 1135.05 |  | ACTION | -269.3310 | MIXED |  | 0 |  |
+| 10:14:00 | RTX | 190.30 | 52.3 | -6.9 | neutral | 190.41 | 189.69 |  |  | -0.2883 | MIXED |  | 0 |  |
+| 10:15:00 | DE | 628.94 | 64.9 | -24.7 | bullish | 628.94 | 619.89 |  |  | -16.5075 | MIXED |  | 0 |  |
+| 10:15:00 | GEV | 1156.29 | 59.4 | -41.0 | neutral | 1157.99 | 1141.27 |  | ACTION | 110.0993 | POSITIVE_COMPRESSION |  | 1 |  |
+| 10:15:00 | RTX | 190.34 | 56.5 | -6.9 | neutral | 190.41 | 189.69 |  |  | -0.2772 | MIXED |  | 0 |  |
