@@ -1,8 +1,13 @@
-# Ping Current -- 2026-07-06 -- Anchor: pre_market -- Updated: 08:56
+# Ping Current -- 2026-07-06 -- Anchor: market_open -- Updated: 10:17
 
 | Ticker | Price | RSI | CV | RSI Zone | Rolling Hi | Rolling Lo | Trigger |
 |---|---|---|---|---|---|---|---|
+| ABBV | 256.10 | 51.4 | -33.4 | neutral | 256.78 | 253.76 | -- |
+| JNJ | 257.40 | 56.3 | -33.3 | neutral | 257.69 | 256.00 | -- |
+| JPM | 336.43 | 41.2 | -37.4 | neutral | 338.87 | 335.83 | ACTION |
+| LIN | 534.72 | 42.8 | -21.6 | neutral | 537.89 | 534.24 | ACTION |
 | SPY | 748.13 | 37.9 | 309.4 | bearish |  |  | -- |
+| V | 352.19 | 63.2 | 0.2 | bullish | 352.20 | 349.06 | -- |
 | XLB | 51.97 |  | 43.0 |  |  |  | -- |
 | XLC | 109.97 | 41.6 | -67.8 | neutral | 110.31 | 109.40 | -- |
 | XLE | 52.95 | 24.2 | 456.8 | oversold |  |  | -- |
