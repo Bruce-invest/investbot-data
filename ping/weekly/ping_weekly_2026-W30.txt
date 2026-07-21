@@ -1,0 +1,41 @@
+# Ping Weekly Archive -- 2026-W30
+
+| Session Date | Ticker | Type | Bars | Decisions |
+|---|---|---|---|---|
+| 2026-07-20 | ARM | candidate | 121 | 0 |
+| 2026-07-20 | DIA | candidate | 267 | 0 |
+| 2026-07-20 | GOOGL | candidate | 122 | 0 |
+| 2026-07-20 | IWM | candidate | 268 | 0 |
+| 2026-07-20 | META | candidate | 122 | 0 |
+| 2026-07-20 | MPC | candidate | 247 | 0 |
+| 2026-07-20 | PG | candidate | 266 | 0 |
+| 2026-07-20 | PSX | candidate | 245 | 0 |
+| 2026-07-20 | QQQ | candidate | 269 | 0 |
+| 2026-07-20 | SO | candidate | 220 | 0 |
+| 2026-07-20 | SPY | candidate | 241 | 0 |
+| 2026-07-20 | SPY | etf | 221 | 0 |
+| 2026-07-20 | V | candidate | 122 | 0 |
+| 2026-07-20 | VLO | candidate | 264 | 0 |
+| 2026-07-20 | WELL | candidate | 244 | 0 |
+| 2026-07-20 | XLB | candidate | 242 | 0 |
+| 2026-07-20 | XLB | etf | 46 | 0 |
+| 2026-07-20 | XLC | candidate | 243 | 0 |
+| 2026-07-20 | XLC | etf | 68 | 0 |
+| 2026-07-20 | XLE | candidate | 241 | 0 |
+| 2026-07-20 | XLE | etf | 151 | 0 |
+| 2026-07-20 | XLF | candidate | 241 | 0 |
+| 2026-07-20 | XLF | etf | 101 | 0 |
+| 2026-07-20 | XLI | candidate | 242 | 0 |
+| 2026-07-20 | XLI | etf | 56 | 0 |
+| 2026-07-20 | XLK | candidate | 240 | 0 |
+| 2026-07-20 | XLK | etf | 111 | 0 |
+| 2026-07-20 | XLP | candidate | 240 | 0 |
+| 2026-07-20 | XLP | etf | 64 | 0 |
+| 2026-07-20 | XLRE | candidate | 234 | 0 |
+| 2026-07-20 | XLRE | etf | 47 | 0 |
+| 2026-07-20 | XLU | candidate | 243 | 0 |
+| 2026-07-20 | XLU | etf | 62 | 0 |
+| 2026-07-20 | XLV | candidate | 242 | 0 |
+| 2026-07-20 | XLV | etf | 85 | 0 |
+| 2026-07-20 | XLY | candidate | 241 | 0 |
+| 2026-07-20 | XLY | etf | 57 | 0 |
