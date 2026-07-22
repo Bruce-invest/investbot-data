@@ -1,112 +1,122 @@
-# Morning Briefing — 2026-07-22 — PRE-MARKET — 08:56
+# Morning Briefing — 2026-07-22 — MARKET OPEN — 10:16
 **Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
 
 ## ETF Tone
 | ETF | Sector | RSI | Coil | RelStr | Base Score | L1 Score | Δ Class | Classification | Pattern |
 |---|---|---|---|---|---|---|---|---|---|
-| XLE | Energy | 0.74 | 0.91 | 1.00 | 0.76 | 0.76 | — | Leading | normalized_band_position |
-| XLRE | Real Estate | 0.63 | 0.27 | 1.00 | 0.66 | 0.66 | — | Leading | normalized_band_position |
-| XLF | Financials | 0.57 | 0.31 | 1.00 | 0.59 | 0.59 | — | Supporting | normalized_band_position |
-| XLV | Health Care | 0.57 | 0.43 | 1.00 | 0.58 | 0.58 | — | Supporting | normalized_band_position |
-| XLP | Consumer Staples | 0.52 | 0.14 | 0.00 | 0.56 | 0.56 | — | Supporting | normalized_band_position |
-| XLC | Communication Services | 0.46 | 0.06 | 0.00 | 0.49 | 0.49 | — | Supporting | normalized_band_position |
-| XLK | Technology | 0.54 | 0.95 | 1.00 | 0.49 | 0.49 | — | Supporting | normalized_band_position |
-| XLY | Consumer Discretionary | 0.48 | 0.32 | 0.00 | 0.47 | 0.47 | — | Supporting | normalized_band_position |
-| XLB | Materials | 0.47 | 0.23 | 0.00 | 0.45 | 0.45 | — | Supporting | normalized_band_position |
-| XLI | Industrials | 0.43 | 0.26 | 1.00 | 0.39 | 0.39 | — | Neutral | normalized_band_position |
-| XLU | Utilities | 0.41 | 0.33 | 0.00 | 0.39 | 0.39 | — | Neutral | normalized_band_position |
+| XLE | Energy | 0.74 | 0.93 | 1.00 | 0.88 | 0.88 | — | Leading | normalized_band_position |
+| XLB | Materials | 0.47 | 1.00 | 0.00 | 0.79 | 0.79 | — | Leading | normalized_band_position |
+| XLU | Utilities | 0.41 | 1.00 | 0.00 | 0.78 | 0.78 | — | Leading | normalized_band_position |
+| XLI | Industrials | 0.43 | 0.82 | 1.00 | 0.74 | 0.74 | — | Leading | normalized_band_position |
+| XLK | Technology | 0.54 | 0.67 | 1.00 | 0.73 | 0.73 | — | Leading | normalized_band_position |
+| XLRE | Real Estate | 0.63 | 0.67 | 1.00 | 0.70 | 0.70 | — | Leading | normalized_band_position |
+| XLY | Consumer Discretionary | 0.48 | 0.41 | 0.00 | 0.61 | 0.61 | — | Leading | normalized_band_position |
+| XLP | Consumer Staples | 0.52 | 0.74 | 0.00 | 0.59 | 0.59 | — | Supporting | normalized_band_position |
+| XLV | Health Care | 0.57 | 0.63 | 1.00 | 0.51 | 0.51 | — | Supporting | normalized_band_position |
+| XLF | Financials | 0.57 | 0.33 | 1.00 | 0.39 | 0.39 | — | Neutral | normalized_band_position |
+| XLC | Communication Services | 0.46 | 0.30 | 0.00 | 0.35 | 0.35 | — | Neutral | normalized_band_position |
 
 ## RSI Shortlist
 | Rank | Ticker | ETF | ETF Score | RSI Score | Macro | Intraday | Month | Week | Day | Hour | 30min | Gate |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | XOM | XLE | 0.76 | 0.437 | Bullish | Confirming | 63.7 | 56.8 | 66.2 | 73.6 | 75.6 | CONDITIONAL |
-| 2 | AMZN | XLY | 0.47 | 0.057 | Mixed | Neutral | 57.8 | 53.4 | 51.1 | 42.7 | 40.0 | no-go |
-| 3 | CVX | XLE | 0.76 | 0.293 | Bullish | Neutral | 60.9 | 58.3 | 68.2 | 75.0 | 51.8 | no-go |
-| 4 | TSLA | XLY | 0.47 | 0.090 | Mixed | Confirming | 53.1 | 45.5 | 43.5 | 45.6 | 54.6 | no-go |
-| 5 | LLY | XLV | 0.58 | 0.077 | Bearish | Neutral | 66.2 | 63.7 | 53.5 | 56.4 | 63.5 | no-go |
-| 6 | NVDA | XLK | 0.49 | 0.295 | Bullish | Neutral | 67.4 | 55.1 | 52.3 | 54.9 | 59.3 | no-go |
-| 7 | BRK-B | XLF | 0.59 | 0.000 | Bearish | Counter | 54.8 | 50.4 | 46.8 | 44.3 | 42.9 | no-go |
-| 8 | WMT | XLP | 0.56 | 0.000 | Bearish | Counter | 59.3 | 40.7 | 38.0 | 31.6 | 35.2 | no-go |
-| 9 | WELL | XLRE | 0.66 | 0.384 | Bullish | Neutral | 76.6 | 70.7 | 71.6 | 63.9 | 53.9 | CONDITIONAL |
-| 10 | JPM | XLF | 0.59 | 0.550 | Bullish | Confirming | 73.1 | 68.2 | 63.2 | 60.7 | 71.4 | CONDITIONAL |
-| 11 | META | XLC | 0.49 | 0.031 | Mixed | Counter | 54.6 | 52.6 | 56.1 | 42.4 | 39.1 | no-go |
-| 12 | LIN | XLB | 0.45 | 0.000 | Bearish | Neutral | 61.6 | 52.2 | 40.9 | 30.3 | 33.9 | no-go |
-| 13 | JNJ | XLV | 0.58 | 0.120 | Bearish | Confirming | 73.2 | 59.6 | 51.9 | 48.4 | 58.6 | no-go |
-| 14 | PLD | XLRE | 0.66 | 0.241 | Bullish | Neutral | 66.5 | 64.7 | 63.0 | 63.1 | 66.3 | no-go |
-| 15 | AAPL | XLK | 0.49 | 0.069 | Mixed | Counter | 69.8 | 66.1 | 64.7 | 50.6 | 43.2 | no-go |
-| 16 | COP | XLE | 0.76 | 0.225 | Bullish | Neutral | 57.8 | 55.7 | 62.4 | 72.0 | 64.0 | no-go |
-| 17 | COST | XLP | 0.56 | 0.000 | Bearish | Neutral | 53.9 | 43.1 | 43.3 | 44.1 | 50.5 | no-go |
-| 18 | GOOGL | XLC | 0.49 | 0.000 | Bearish | Neutral | 66.7 | 52.8 | 43.4 | 38.8 | 38.7 | no-go |
-| 19 | EQIX | XLRE | 0.66 | 0.147 | Bullish | Neutral | 63.1 | 54.2 | 45.7 | 55.7 | 52.1 | no-go |
-| 20 | MSFT | XLK | 0.49 | 0.156 | Bullish | Neutral | 47.4 | 46.0 | 53.3 | 49.9 | 46.5 | no-go |
-| 28 | SLB | XLE | 0.76 | 0.024 | Mixed | Neutral | 54.7 | 46.8 | 39.8 | 46.7 | 53.9 | no-go |
-| 29 | WMB | XLE | 0.76 | 0.000 | Bearish | Neutral | 67.9 | 53.8 | 47.1 | 42.7 | 42.8 | no-go |
-| 32 | VLO | XLE | 0.76 | 0.308 | Bullish | Neutral | 83.2 | 76.0 | 74.9 | 66.8 | 57.4 | no-go |
-| 34 | EOG | XLE | 0.76 | 0.296 | Bullish | Neutral | 62.8 | 60.8 | 62.7 | 71.8 | 54.0 | no-go |
-| 37 | MPC | XLE | 0.76 | 0.457 | Bullish | Neutral | 81.6 | 76.0 | 79.9 | 70.1 | 62.5 | CONDITIONAL |
-| 38 | PSX | XLE | 0.76 | 0.391 | Bullish | Neutral | 73.6 | 70.9 | 75.8 | 72.6 | 64.0 | CONDITIONAL |
-| 44 | BKR | XLE | 0.76 | 0.087 | Bullish | Counter | 57.8 | 47.3 | 43.8 | 52.4 | 54.6 | no-go |
+| 1 | XOM | XLE | 0.88 | 0.437 | Bullish | Confirming | 63.7 | 56.8 | 66.2 | 73.6 | 75.6 | CONDITIONAL |
+| 2 | AMZN | XLY | 0.61 | 0.057 | Mixed | Neutral | 57.8 | 53.4 | 51.1 | 42.7 | 40.0 | no-go |
+| 3 | CVX | XLE | 0.88 | 0.293 | Bullish | Neutral | 60.9 | 58.3 | 68.2 | 75.0 | 51.8 | no-go |
+| 4 | LIN | XLB | 0.79 | 0.000 | Bearish | Neutral | 61.6 | 52.2 | 40.9 | 30.3 | 33.9 | CONDITIONAL |
+| 5 | TSLA | XLY | 0.61 | 0.090 | Mixed | Confirming | 53.1 | 45.5 | 43.5 | 45.6 | 54.6 | no-go |
+| 6 | NEE | XLU | 0.78 | 0.000 | Mixed | Confirming | 58.6 | 49.6 | 49.5 | 41.2 | 52.9 | no-go |
+| 7 | NVDA | XLK | 0.73 | 0.295 | Bullish | Neutral | 67.4 | 55.1 | 52.3 | 54.9 | 59.3 | no-go |
+| 8 | AAPL | XLK | 0.73 | 0.069 | Mixed | Counter | 69.8 | 66.1 | 64.7 | 50.6 | 43.2 | no-go |
+| 9 | WELL | XLRE | 0.70 | 0.384 | Bullish | Neutral | 76.6 | 70.7 | 71.6 | 63.9 | 53.9 | CONDITIONAL |
+| 10 | LLY | XLV | 0.51 | 0.077 | Bearish | Neutral | 66.2 | 63.7 | 53.5 | 56.4 | 63.5 | no-go |
+| 11 | WMT | XLP | 0.59 | 0.000 | Bearish | Counter | 59.3 | 40.7 | 38.0 | 31.6 | 35.2 | no-go |
+| 12 | MSFT | XLK | 0.73 | 0.156 | Bullish | Neutral | 47.4 | 46.0 | 53.3 | 49.9 | 46.5 | no-go |
+| 13 | PLD | XLRE | 0.70 | 0.241 | Bullish | Neutral | 66.5 | 64.7 | 63.0 | 63.1 | 66.3 | no-go |
+| 14 | COP | XLE | 0.88 | 0.225 | Bullish | Neutral | 57.8 | 55.7 | 62.4 | 72.0 | 64.0 | no-go |
+| 15 | NEM | XLB | 0.79 | 0.175 | Bullish | Confirming | 57.8 | 43.1 | 43.1 | 57.0 | 62.2 | no-go |
+| 16 | SO | XLU | 0.78 | 0.000 | Bearish | Neutral | 60.3 | 50.2 | 45.2 | 37.4 | 45.7 | CONDITIONAL |
+| 17 | CAT | XLI | 0.74 | 0.157 | Bullish | Confirming | 69.5 | 59.9 | 43.5 | 52.6 | 58.1 | CONDITIONAL |
+| 18 | COST | XLP | 0.59 | 0.000 | Bearish | Neutral | 53.9 | 43.1 | 43.3 | 44.1 | 50.5 | no-go |
+| 19 | JNJ | XLV | 0.51 | 0.120 | Bearish | Confirming | 73.2 | 59.6 | 51.9 | 48.4 | 58.6 | no-go |
+| 20 | DUK | XLU | 0.78 | 0.179 | Bullish | Neutral | 61.9 | 51.2 | 50.5 | 52.6 | 58.4 | no-go |
+| 28 | SLB | XLE | 0.88 | 0.024 | Mixed | Neutral | 54.7 | 46.8 | 39.8 | 46.7 | 53.9 | no-go |
+| 33 | WMB | XLE | 0.88 | 0.000 | Bearish | Neutral | 67.9 | 53.8 | 47.1 | 42.7 | 42.8 | no-go |
+| 37 | VLO | XLE | 0.88 | 0.308 | Bullish | Neutral | 83.2 | 76.0 | 74.9 | 66.8 | 57.4 | no-go |
+| 38 | EOG | XLE | 0.88 | 0.296 | Bullish | Neutral | 62.8 | 60.8 | 62.7 | 71.8 | 54.0 | no-go |
+| 43 | MPC | XLE | 0.88 | 0.457 | Bullish | Neutral | 81.6 | 76.0 | 79.9 | 70.1 | 62.5 | CONDITIONAL |
+| 44 | PSX | XLE | 0.88 | 0.391 | Bullish | Neutral | 73.6 | 70.9 | 75.8 | 72.6 | 64.0 | CONDITIONAL |
+| 48 | BKR | XLE | 0.88 | 0.087 | Bullish | Counter | 57.8 | 47.3 | 43.8 | 52.4 | 54.6 | no-go |
 
-## Candidates — PRE-MARKET — variant: lever1_reweighted
+## Candidates — MARKET OPEN — variant: lever1_reweighted
 | Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| JPM | CONDITIONAL | $345.23 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| MPC | CONDITIONAL | $319.76 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| XOM | CONDITIONAL | $151.71 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| PSX | CONDITIONAL | $212.27 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| WELL | CONDITIONAL | $246.37 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| V | CONDITIONAL | $355.82 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| PG | CONDITIONAL | $148.10 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| MPC | CONDITIONAL | $323.99 | — | TRENDING | $315.37 | $319.71 | 1.986 | 41% | MONITOR | $313.14 | no | — | — | — | — |
+| XOM | CONDITIONAL | $153.99 | — | TRENDING | $147.91 | $152.34 | 1.372 | 41% | MONITOR | $145.65 | no | — | — | — | — |
+| PSX | CONDITIONAL | $214.89 | — | TRENDING | $209.19 | $211.59 | 2.376 | 49% | MONITOR | $207.92 | no | — | — | — | — |
+| WELL | CONDITIONAL | $247.23 | — | UNKNOWN | $245.33 | $247.57 | 0.850 | 45% | MONITOR | $240.72 | no | — | — | — | — |
+| SHW | CONDITIONAL | $321.82 | — | UNKNOWN | $323.14 | $327.53 | -0.300 | 56% | MONITOR | $314.26 | no | — | — | — | — |
+| LIN | CONDITIONAL | $508.35 | — | UNKNOWN | $509.10 | $514.37 | -0.142 | 42% | MONITOR | $498.46 | no | — | — | — | — |
+| NUE | CONDITIONAL | $237.71 | — | RANGING | $230.07 | $235.87 | 1.318 | 41% | MONITOR | $227.10 | no | — | — | — | — |
+| SO | CONDITIONAL | $95.36 | — | RANGING | $93.19 | $94.94 | 1.238 | 49% | MONITOR | $92.22 | no | — | — | — | — |
+| ETR | CONDITIONAL | $114.66 | — | RANGING | $111.56 | $112.53 | 3.202 | 47% | MONITOR | $110.98 | no | — | — | — | — |
+| AEP | CONDITIONAL | $132.84 | — | UNKNOWN | $130.62 | $131.15 | 4.201 | 36% | MONITOR | $129.42 | no | — | — | — | — |
+| GEV | CONDITIONAL | $1,000.78 | — | RANGING | $1,071.59 | $1,093.15 | -3.284 | 56% | MONITOR | $1,060.82 | no | — | — | — | — |
+| GE | CONDITIONAL | $344.34 | — | RANGING | $340.36 | $343.04 | 1.486 | 41% | MONITOR | $338.92 | no | — | — | — | — |
+| CAT | CONDITIONAL | $890.94 | — | RANGING | $856.82 | $902.62 | 0.745 | 38% | MONITOR | $834.42 | no | — | — | — | — |
+| GOOGL | CONDITIONAL | $348.10 | — | RANGING | $346.77 | $354.02 | 0.183 | 60% | MONITOR | $343.08 | no | — | — | — | — |
+| META | CONDITIONAL | $632.31 | — | UNKNOWN | $647.76 | $650.12 | -6.536 | 41% | MONITOR | $642.89 | no | — | — | — | — |
+| ARM | CONDITIONAL | $282.16 | — | RANGING | $264.86 | $299.76 | 0.496 | 50% | MONITOR | $248.39 | no | — | — | — | — |
+| PG | CONDITIONAL | $149.99 | — | RANGING | $147.11 | $149.24 | 1.349 | 58% | MONITOR | $145.96 | no | — | — | — | — |
 
 ## Ping Summary
 | Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
 |---|---|---|---|---|---|---|---|---|
-| 08:47 | SPY | $745.72 | 45.9 | Neutral | -13.3 | $748.28 | $745.05 | — |
-| 08:48 | XLK | $178.17 | 41.0 | Neutral | -65.6 | $180.86 | $177.98 | — |
-| 08:48 | SPY | $745.46 | 37.7 | Bearish | -13.3 | $748.28 | $745.05 | — |
-| 08:49 | XLI | $177.44 | 42.6 | Neutral | -77.0 | $180.00 | $177.44 | — |
-| 08:49 | XLF | $56.12 | 45.2 | Neutral | -48.7 | $56.18 | $56.05 | — |
-| 08:49 | XLE | $59.10 | 44.7 | Neutral | -67.7 | $59.29 | $59.03 | — |
-| 08:49 | SPY | $745.52 | 44.4 | Neutral | -13.3 | $748.28 | $745.05 | — |
-| 08:50 | XLE | $59.13 | 51.8 | Neutral | -67.7 | $59.29 | $59.03 | — |
-| 08:50 | SPY | $745.52 | 44.2 | Neutral | -13.3 | $748.28 | $745.05 | — |
-| 08:51 | XLV | $160.60 | 50.9 | Neutral | -86.6 | $161.30 | $159.98 | — |
-| 08:51 | XLF | $56.14 | 51.9 | Neutral | -48.7 | $56.18 | $56.05 | — |
-| 08:51 | XLE | $59.10 | 49.3 | Neutral | -50.8 | $59.29 | $59.03 | — |
-| 08:51 | SPY | $745.61 | 54.6 | Neutral | 13.0 | $748.28 | $745.05 | — |
-| 08:52 | XLK | $178.20 | 44.0 | Neutral | -65.6 | $180.86 | $177.98 | — |
-| 08:52 | SPY | $745.66 | 54.9 | Neutral | 13.0 | $748.28 | $745.05 | — |
-| 08:53 | XLV | $160.60 | 51.1 | Neutral | -86.6 | $161.30 | $159.98 | — |
-| 08:53 | SPY | $745.71 | 56.2 | Neutral | 13.0 | $748.28 | $745.05 | — |
-| 08:54 | XLF | $56.17 | 55.6 | Neutral | -29.7 | $56.18 | $56.05 | — |
-| 08:54 | SPY | $745.81 | 59.8 | Neutral | 13.0 | $748.28 | $745.05 | — |
-| 08:55 | SPY | $745.72 | 53.9 | Neutral | 13.0 | $748.28 | $745.05 | — |
+| 10:15 | DIA | $523.21 | 42.9 | Neutral | -51.8 | $524.30 | $521.25 | 16 |
+| 10:16 | XOM | $153.99 | 61.6 | Bullish | -27.7 | $154.04 | $152.95 | 10 |
+| 10:16 | XLY | $114.67 | 33.8 | Bearish | -17.7 | $116.26 | $114.59 | 12 |
+| 10:16 | XLV | $160.46 | 59.5 | Neutral | -27.6 | $161.30 | $159.64 | 18 |
+| 10:16 | XLU | $45.72 | 73.4 | Overbought | -21.7 | $45.73 | $44.81 | 19 |
+| 10:16 | XLRE | $45.26 | 57.9 | Neutral | -33.9 | $45.33 | $45.05 | 14 |
+| 10:16 | XLP | $84.77 | 64.5 | Bullish | -1.2 | $84.91 | $83.89 | 6 |
+| 10:16 | XLK | $179.73 | 43.9 | Neutral | -23.7 | $180.86 | $177.89 | 13 |
+| 10:16 | XLI | $179.44 | 50.9 | Neutral | -16.7 | $180.00 | $177.44 | 19 |
+| 10:16 | XLF | $56.10 | 38.1 | Bearish | -7.9 | $56.23 | $55.97 | 12 |
+| 10:16 | XLE | $59.47 | 68.8 | Bullish | -21.8 | $59.47 | $59.00 | 14 |
+| 10:16 | XLC | $110.21 | 40.8 | Neutral | -26.9 | $111.00 | $109.80 | 17 |
+| 10:16 | XLB | $50.92 | 54.7 | Neutral | -16.1 | $50.95 | $49.51 | 20 |
+| 10:16 | SPY | $747.97 | 42.3 | Neutral | -26.8 | $749.21 | $744.34 | 21 |
+| 10:16 | QQQ | $706.36 | 46.0 | Neutral | 4.5 | $707.97 | $704.12 | 22 |
+| 10:16 | PSX | $214.89 | 48.1 | Neutral | -39.9 | $216.00 | $214.27 | 13 |
+| 10:16 | MPC | $323.99 | 46.6 | Neutral | -24.6 | $326.22 | $323.15 | 6 |
+| 10:16 | JPM | $345.71 | 43.9 | Neutral | -18.2 | $347.02 | $344.45 | 8 |
+| 10:16 | IWM | $295.47 | 40.7 | Neutral | -1.5 | $296.43 | $295.19 | 7 |
+| 10:16 | DIA | $523.28 | 45.0 | Neutral | -27.7 | $524.30 | $521.25 | 16 |
 
 ## Trade Log
 _No trades recorded_
 
 ## IS_001 — AI Infrastructure
-**Gate:** IS_ACTIVE  |  **XLK:** Supporting  |  **Anchor:** PRE-MARKET
+**Gate:** IS_ACTIVE  |  **XLK:** Leading  |  **Anchor:** MARKET OPEN
 **Compression:** 2  |  **Momentum:** 4  |  **High-Conviction:** 2
 
 | Rank | Ticker | Signal | Comp Score | Hit Rate | Band Pos | Dist Exit | RHi Dir | RLo Dir | Sector CV | XLK Tone |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | GOOGL | HIGH_CONVICTION | 0.800 | 0.667 | -0.539 | 1.634 | Stable | Rising | 0.9% | Supporting |
-| 2 | META | HIGH_CONVICTION | 0.800 | 0.333 | 0.107 | 0.981 | Stable | Rising | 0.9% | Supporting |
-| 3 | ARM | PRECEDENT | 0.600 | 1.000 | 0.662 | 0.469 | Rising | Rising | 0.9% | Supporting |
-| 4 | NVDA | PRECEDENT | 0.600 | 1.000 | 0.818 | 0.472 | Stable | Rising | 0.9% | Supporting |
-| 5 | AVGO | PRECEDENT | 0.600 | 1.000 | 0.580 | 0.456 | Rising | Rising | 0.9% | Supporting |
-| 6 | AMZN | PRECEDENT | 0.600 | 0.667 | 0.103 | 1.023 | Stable | Stable | 0.9% | Supporting |
-| 7 | PLTR | PRECEDENT | 0.600 | 0.333 | -0.104 | 1.434 | Stable | Falling | 0.9% | Supporting |
-| 8 | MSFT | MONITOR | 0.600 | 0.000 | -0.044 | 1.178 | Stable | Falling | 0.9% | Supporting |
-| 9 | AMD | PRECEDENT | 0.400 | 1.000 | 0.787 | 0.184 | Stable | Rising | 0.9% | Supporting |
-| 10 | AAPL | PRECEDENT | 0.400 | 1.000 | 1.021 | 0.149 | Stable | Rising | 0.9% | Supporting |
-| 11 | TSLA | PRECEDENT | 0.400 | 1.000 | 0.885 | 0.190 | Stable | Rising | 0.9% | Supporting |
-| 12 | ANET | PRECEDENT | 0.400 | 1.000 | 0.766 | -0.277 | Stable | Rising | 0.9% | Supporting |
-| 13 | SMCI | PRECEDENT | 0.400 | 0.667 | 1.891 | -1.635 | Stable | Rising | 0.9% | Supporting |
-| 14 | ADBE | MONITOR | 0.400 | 0.000 | 0.126 | 1.004 | Falling | Falling | 0.9% | Supporting |
-| 15 | IBM | MONITOR | 0.400 | 0.000 | 0.104 | 0.979 | Falling | Falling | 0.9% | Supporting |
-| 16 | INTC | MOMENTUM | 0.200 | 1.000 | 1.258 | -0.351 | Rising | Rising | 0.9% | Supporting |
-| 17 | LRCX | MOMENTUM | 0.200 | 1.000 | 0.929 | 0.085 | Rising | Rising | 0.9% | Supporting |
-| 18 | MU | MOMENTUM | 0.200 | 1.000 | 1.325 | -0.367 | Rising | Rising | 0.9% | Supporting |
-| 19 | TSM | MOMENTUM | 0.200 | 1.000 | 1.180 | -0.180 | Rising | Rising | 0.9% | Supporting |
+| 1 | GOOGL | HIGH_CONVICTION | 0.800 | 0.667 | -0.539 | 1.634 | Stable | Rising | 0.7% | Leading |
+| 2 | META | HIGH_CONVICTION | 0.800 | 0.333 | 0.107 | 0.981 | Stable | Rising | 0.7% | Leading |
+| 3 | ARM | PRECEDENT | 0.600 | 1.000 | 0.662 | 0.469 | Rising | Rising | 0.7% | Leading |
+| 4 | NVDA | PRECEDENT | 0.600 | 1.000 | 0.818 | 0.472 | Stable | Rising | 0.7% | Leading |
+| 5 | AVGO | PRECEDENT | 0.600 | 1.000 | 0.580 | 0.456 | Rising | Rising | 0.7% | Leading |
+| 6 | AMZN | PRECEDENT | 0.600 | 0.667 | 0.103 | 1.023 | Stable | Stable | 0.7% | Leading |
+| 7 | PLTR | PRECEDENT | 0.600 | 0.333 | -0.104 | 1.434 | Stable | Falling | 0.7% | Leading |
+| 8 | MSFT | MONITOR | 0.600 | 0.000 | -0.044 | 1.178 | Stable | Falling | 0.7% | Leading |
+| 9 | AMD | PRECEDENT | 0.400 | 1.000 | 0.787 | 0.184 | Stable | Rising | 0.7% | Leading |
+| 10 | AAPL | PRECEDENT | 0.400 | 1.000 | 1.021 | 0.149 | Stable | Rising | 0.7% | Leading |
+| 11 | TSLA | PRECEDENT | 0.400 | 1.000 | 0.885 | 0.190 | Stable | Rising | 0.7% | Leading |
+| 12 | ANET | PRECEDENT | 0.400 | 1.000 | 0.766 | -0.277 | Stable | Rising | 0.7% | Leading |
+| 13 | SMCI | PRECEDENT | 0.400 | 0.667 | 1.891 | -1.635 | Stable | Rising | 0.7% | Leading |
+| 14 | ADBE | MONITOR | 0.400 | 0.000 | 0.126 | 1.004 | Falling | Falling | 0.7% | Leading |
+| 15 | IBM | MONITOR | 0.400 | 0.000 | 0.104 | 0.979 | Falling | Falling | 0.7% | Leading |
+| 16 | INTC | MOMENTUM | 0.200 | 1.000 | 1.258 | -0.351 | Rising | Rising | 0.7% | Leading |
+| 17 | LRCX | MOMENTUM | 0.200 | 1.000 | 0.929 | 0.085 | Rising | Rising | 0.7% | Leading |
+| 18 | MU | MOMENTUM | 0.200 | 1.000 | 1.325 | -0.367 | Rising | Rising | 0.7% | Leading |
+| 19 | TSM | MOMENTUM | 0.200 | 1.000 | 1.180 | -0.180 | Rising | Rising | 0.7% | Leading |
