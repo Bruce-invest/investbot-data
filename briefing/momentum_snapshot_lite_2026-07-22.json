@@ -1,0 +1,3964 @@
+{
+  "snapshot_date": "2026-07-22",
+  "generated_at": "2026-07-22T02:00:05",
+  "schema_version": "1.0",
+  "description": "Key momentum signals \u00e2\u20ac\u201d 5-session history. Full snapshot at momentum_snapshot_2026-07-22.json",
+  "fields": [
+    "signal_date",
+    "price_close",
+    "flag3_composite",
+    "dir100_close",
+    "spread_delta_high",
+    "spread_delta_low",
+    "spread_delta_close",
+    "spread_delta_composite",
+    "exhaustion_flag",
+    "compression_flag"
+  ],
+  "instruments": [
+    {
+      "id": "ES",
+      "display_name": "S&P 500 E-Mini",
+      "type": "futures",
+      "parent_id": null,
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 7614.75,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 6.0375,
+          "spread_delta_low": 33.3575,
+          "spread_delta_close": 16.365,
+          "spread_delta_composite": 18.5867,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 7577.75,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.945,
+          "spread_delta_low": -30.2,
+          "spread_delta_close": -43.2425,
+          "spread_delta_composite": -24.7958,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 74.62,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 74.05,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.739,
+          "spread_delta_low": -0.5509,
+          "spread_delta_close": -0.5671,
+          "spread_delta_composite": -0.619,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 73.05,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.3593,
+          "spread_delta_low": -1.0726,
+          "spread_delta_close": -0.9891,
+          "spread_delta_composite": -1.1403,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "NQ",
+      "display_name": "Nasdaq 100 E-Mini",
+      "type": "futures",
+      "parent_id": null,
+      "signals": [
+        {
+          "signal_date": "2026-07-10",
+          "price_close": 30032.25,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 36.87,
+          "spread_delta_low": 232.3725,
+          "spread_delta_close": 46.6025,
+          "spread_delta_composite": 105.2817,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-13",
+          "price_close": 29475.75,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -84.505,
+          "spread_delta_low": -332.76,
+          "spread_delta_close": -600.555,
+          "spread_delta_composite": -339.2733,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-14",
+          "price_close": 29790.25,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -164.9575,
+          "spread_delta_low": -127.135,
+          "spread_delta_close": 269.3875,
+          "spread_delta_composite": -7.5683,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 29693.25,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 92.8375,
+          "spread_delta_low": 48.325,
+          "spread_delta_close": -144.19,
+          "spread_delta_composite": -1.0092,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 29225.75,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -310.5675,
+          "spread_delta_low": -360.225,
+          "spread_delta_close": -507.355,
+          "spread_delta_composite": -392.7158,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "CL",
+      "display_name": "Crude Oil WTI",
+      "type": "futures",
+      "parent_id": null,
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 79.12,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": -0.5385,
+          "spread_delta_low": 0.2561,
+          "spread_delta_close": 0.3119,
+          "spread_delta_composite": 0.0098,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 78.28,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 0.0286,
+          "spread_delta_low": 0.1055,
+          "spread_delta_close": -0.9665,
+          "spread_delta_composite": -0.2775,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 92.98,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 91.93,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -3.6464,
+          "spread_delta_low": -1.3439,
+          "spread_delta_close": -0.9942,
+          "spread_delta_composite": -1.9948,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 90.5,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.5416,
+          "spread_delta_low": -1.3924,
+          "spread_delta_close": -1.3743,
+          "spread_delta_composite": -1.1028,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "GC",
+      "display_name": "Gold",
+      "type": "futures",
+      "parent_id": null,
+      "signals": [
+        {
+          "signal_date": "2026-07-10",
+          "price_close": 4113.7,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": 5.732,
+          "spread_delta_low": 26.827,
+          "spread_delta_close": -17.483,
+          "spread_delta_composite": 5.0253,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-13",
+          "price_close": 4005.7,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -23.029,
+          "spread_delta_low": -78.355,
+          "spread_delta_close": -97.424,
+          "spread_delta_composite": -66.2693,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-14",
+          "price_close": 4069.7,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": 11.744,
+          "spread_delta_low": 8.248,
+          "spread_delta_close": 74.771,
+          "spread_delta_composite": 31.5877,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 4051.8,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": -11.059,
+          "spread_delta_low": 44.53,
+          "spread_delta_close": -5.503,
+          "spread_delta_composite": 9.3227,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 3992.1,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -4.566,
+          "spread_delta_low": -37.88,
+          "spread_delta_close": -47.199,
+          "spread_delta_composite": -29.8817,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "SI",
+      "display_name": "Silver",
+      "type": "futures",
+      "parent_id": null,
+      "signals": [
+        {
+          "signal_date": "2026-07-10",
+          "price_close": 60.165,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": 0.3483,
+          "spread_delta_low": 1.432,
+          "spread_delta_close": -0.3967,
+          "spread_delta_composite": 0.4612,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-13",
+          "price_close": 57.972,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.1919,
+          "spread_delta_low": -1.4509,
+          "spread_delta_close": -1.9844,
+          "spread_delta_composite": -1.5424,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-14",
+          "price_close": 59.104,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": 0.503,
+          "spread_delta_low": -0.2168,
+          "spread_delta_close": 1.3764,
+          "spread_delta_composite": 0.5542,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 57.433,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.3285,
+          "spread_delta_low": 0.0436,
+          "spread_delta_close": -1.3676,
+          "spread_delta_composite": -0.5508,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 56.187,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.8579,
+          "spread_delta_low": -1.0236,
+          "spread_delta_close": -0.921,
+          "spread_delta_composite": -0.9342,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "DX",
+      "display_name": "US Dollar Index",
+      "type": "futures",
+      "parent_id": null,
+      "signals": [
+        {
+          "signal_date": "2026-07-10",
+          "price_close": 100.755,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.0504,
+          "spread_delta_low": -0.2211,
+          "spread_delta_close": 0.0376,
+          "spread_delta_composite": -0.078,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-13",
+          "price_close": 101.04,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.2914,
+          "spread_delta_low": 0.1769,
+          "spread_delta_close": 0.2495,
+          "spread_delta_composite": 0.2393,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-14",
+          "price_close": 100.711,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.026,
+          "spread_delta_low": -0.3028,
+          "spread_delta_close": -0.3621,
+          "spread_delta_composite": -0.2303,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 100.274,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.3465,
+          "spread_delta_low": -0.1971,
+          "spread_delta_close": -0.4644,
+          "spread_delta_composite": -0.336,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 100.569,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": -0.2244,
+          "spread_delta_low": 0.0707,
+          "spread_delta_close": 0.2632,
+          "spread_delta_composite": 0.0365,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "XLK",
+      "display_name": "Technology",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 181.58,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 0.4474,
+          "spread_delta_low": -3.4931,
+          "spread_delta_close": -2.4223,
+          "spread_delta_composite": -1.8227,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 177.52,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -6.1637,
+          "spread_delta_low": -2.1502,
+          "spread_delta_close": -4.4097,
+          "spread_delta_composite": -4.2412,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 175.59,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -1.9061,
+          "spread_delta_low": -5.3603,
+          "spread_delta_close": -2.2562,
+          "spread_delta_composite": -3.1742,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 176.17,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 0.399,
+          "spread_delta_low": 3.8034,
+          "spread_delta_close": 0.298,
+          "spread_delta_composite": 1.5001,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 180.78,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 1.9348,
+          "spread_delta_low": 2.277,
+          "spread_delta_close": 4.2286,
+          "spread_delta_composite": 2.8135,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "XLE",
+      "display_name": "Energy",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 56.5,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.2132,
+          "spread_delta_low": -0.5579,
+          "spread_delta_close": -0.4786,
+          "spread_delta_composite": -0.4166,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 57.02,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.2249,
+          "spread_delta_low": 0.8064,
+          "spread_delta_close": 0.4856,
+          "spread_delta_composite": 0.5056,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 57.68,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.785,
+          "spread_delta_low": 0.6497,
+          "spread_delta_close": 0.633,
+          "spread_delta_composite": 0.6892,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 57.98,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.2308,
+          "spread_delta_low": 0.0925,
+          "spread_delta_close": 0.2638,
+          "spread_delta_composite": 0.1957,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 58.5,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.1059,
+          "spread_delta_low": 0.3762,
+          "spread_delta_close": 0.4757,
+          "spread_delta_composite": 0.3193,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "XLF",
+      "display_name": "Financials",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 56.56,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": -0.0106,
+          "spread_delta_low": 0.5594,
+          "spread_delta_close": 0.3499,
+          "spread_delta_composite": 0.2996,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 56.75,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": -0.0041,
+          "spread_delta_low": 0.1681,
+          "spread_delta_close": 0.1499,
+          "spread_delta_composite": 0.1046,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 56.26,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 0.0568,
+          "spread_delta_low": -0.3119,
+          "spread_delta_close": -0.5357,
+          "spread_delta_composite": -0.2636,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 56.08,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.6114,
+          "spread_delta_low": -0.2908,
+          "spread_delta_close": -0.1956,
+          "spread_delta_composite": -0.3659,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 56.11,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.0939,
+          "spread_delta_low": -0.2199,
+          "spread_delta_close": -0.0172,
+          "spread_delta_composite": -0.1103,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "XLV",
+      "display_name": "Health Care",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 158.29,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.7519,
+          "spread_delta_low": -0.5501,
+          "spread_delta_close": -0.0296,
+          "spread_delta_composite": -0.4439,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 161.8,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 3.2274,
+          "spread_delta_low": 2.6344,
+          "spread_delta_close": 3.4545,
+          "spread_delta_composite": 3.1054,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 161.09,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 1.2942,
+          "spread_delta_low": 0.8869,
+          "spread_delta_close": -0.7609,
+          "spread_delta_composite": 0.4734,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 159.25,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -2.5582,
+          "spread_delta_low": -1.732,
+          "spread_delta_close": -1.8661,
+          "spread_delta_composite": -2.0521,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 160.25,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -1.1398,
+          "spread_delta_low": -1.9594,
+          "spread_delta_close": 0.9658,
+          "spread_delta_composite": -0.7111,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "XLI",
+      "display_name": "Industrials",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 180.06,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -1.5589,
+          "spread_delta_low": -2.1314,
+          "spread_delta_close": -0.4536,
+          "spread_delta_composite": -1.3813,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 180.15,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.5172,
+          "spread_delta_low": 0.7188,
+          "spread_delta_close": 0.0276,
+          "spread_delta_composite": 0.0764,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 179.41,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 0.8529,
+          "spread_delta_low": -0.9852,
+          "spread_delta_close": -0.7857,
+          "spread_delta_composite": -0.306,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 178.16,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.2447,
+          "spread_delta_low": -0.0513,
+          "spread_delta_close": -1.271,
+          "spread_delta_composite": -0.5224,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 178.66,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -1.3561,
+          "spread_delta_low": 0.1277,
+          "spread_delta_close": 0.46,
+          "spread_delta_composite": -0.2561,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "XLP",
+      "display_name": "Staples",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 83.47,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.475,
+          "spread_delta_low": -0.3359,
+          "spread_delta_close": 0.0896,
+          "spread_delta_composite": -0.2404,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 85.81,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 1.6151,
+          "spread_delta_low": 1.0978,
+          "spread_delta_close": 2.3534,
+          "spread_delta_composite": 1.6888,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 85.19,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 1.6278,
+          "spread_delta_low": 0.7347,
+          "spread_delta_close": -0.5879,
+          "spread_delta_composite": 0.5916,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 84.86,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -1.9983,
+          "spread_delta_low": -0.164,
+          "spread_delta_close": -0.2927,
+          "spread_delta_composite": -0.8183,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 84.06,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.7615,
+          "spread_delta_low": -0.6119,
+          "spread_delta_close": -0.7615,
+          "spread_delta_composite": -0.7116,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "XLY",
+      "display_name": "Discretionary",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 117.0,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 1.4207,
+          "spread_delta_low": 1.0033,
+          "spread_delta_close": 1.1076,
+          "spread_delta_composite": 1.1772,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 117.34,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.4148,
+          "spread_delta_low": 0.3947,
+          "spread_delta_close": 0.3279,
+          "spread_delta_composite": 0.3792,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 115.44,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.3422,
+          "spread_delta_low": -1.5379,
+          "spread_delta_close": -1.8926,
+          "spread_delta_composite": -1.5909,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 114.61,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.6463,
+          "spread_delta_low": -0.9352,
+          "spread_delta_close": -0.8133,
+          "spread_delta_composite": -0.7983,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 114.87,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.0305,
+          "spread_delta_low": -0.0823,
+          "spread_delta_close": 0.2775,
+          "spread_delta_composite": -0.2784,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        }
+      ]
+    },
+    {
+      "id": "XLC",
+      "display_name": "Communication",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 113.38,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 2.0361,
+          "spread_delta_low": 0.7885,
+          "spread_delta_close": 1.9476,
+          "spread_delta_composite": 1.5907,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 112.65,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 0.2097,
+          "spread_delta_low": 0.7053,
+          "spread_delta_close": -0.6885,
+          "spread_delta_composite": 0.0755,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 110.65,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -2.4733,
+          "spread_delta_low": -1.9114,
+          "spread_delta_close": -1.9529,
+          "spread_delta_composite": -2.1126,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 110.8,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": 0.1894,
+          "spread_delta_low": 0.2372,
+          "spread_delta_close": 0.1969,
+          "spread_delta_composite": 0.2079,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 110.03,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.9855,
+          "spread_delta_low": -0.4655,
+          "spread_delta_close": -0.712,
+          "spread_delta_composite": -0.721,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "XLB",
+      "display_name": "Materials",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 50.5,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.5953,
+          "spread_delta_low": -0.4685,
+          "spread_delta_close": -0.1232,
+          "spread_delta_composite": -0.3957,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 50.89,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": 0.1105,
+          "spread_delta_low": 0.1884,
+          "spread_delta_close": 0.4102,
+          "spread_delta_composite": 0.2364,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 50.53,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": 0.5373,
+          "spread_delta_low": 0.1322,
+          "spread_delta_close": -0.3291,
+          "spread_delta_composite": 0.1135,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 50.03,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.6916,
+          "spread_delta_low": -0.479,
+          "spread_delta_close": -0.4699,
+          "spread_delta_composite": -0.5469,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 50.1,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.1623,
+          "spread_delta_low": -0.0111,
+          "spread_delta_close": 0.0953,
+          "spread_delta_composite": -0.026,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        }
+      ]
+    },
+    {
+      "id": "XLU",
+      "display_name": "Utilities",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 45.22,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.3492,
+          "spread_delta_low": -0.4111,
+          "spread_delta_close": -0.4802,
+          "spread_delta_composite": -0.4135,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 45.47,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.335,
+          "spread_delta_low": -0.0548,
+          "spread_delta_close": 0.2412,
+          "spread_delta_composite": -0.0495,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 45.16,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": 0.516,
+          "spread_delta_low": -0.0682,
+          "spread_delta_close": -0.3091,
+          "spread_delta_composite": 0.0463,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 44.94,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.4805,
+          "spread_delta_low": -0.2363,
+          "spread_delta_close": -0.2137,
+          "spread_delta_composite": -0.3102,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 44.92,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.6023,
+          "spread_delta_low": -0.1566,
+          "spread_delta_close": -0.0018,
+          "spread_delta_composite": -0.2536,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "XLRE",
+      "display_name": "Real Estate",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 44.56,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 0.23,
+          "spread_delta_low": 0.0011,
+          "spread_delta_close": 0.0664,
+          "spread_delta_composite": 0.0992,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 45.46,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.4555,
+          "spread_delta_low": 0.2548,
+          "spread_delta_close": 0.881,
+          "spread_delta_composite": 0.5304,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 45.43,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.42,
+          "spread_delta_low": 0.5371,
+          "spread_delta_close": -0.0482,
+          "spread_delta_composite": 0.303,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 45.23,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.4688,
+          "spread_delta_low": -0.1878,
+          "spread_delta_close": -0.2117,
+          "spread_delta_composite": -0.2895,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 45.2,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.1673,
+          "spread_delta_low": -0.0487,
+          "spread_delta_close": -0.0543,
+          "spread_delta_composite": -0.0901,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "XME",
+      "display_name": "Metals & Mining",
+      "type": "etf",
+      "parent_id": "ES",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 103.2,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -0.3694,
+          "spread_delta_low": -2.2565,
+          "spread_delta_close": -1.0796,
+          "spread_delta_composite": -1.2352,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 98.99,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -3.3699,
+          "spread_delta_low": -2.3141,
+          "spread_delta_close": -4.0253,
+          "spread_delta_composite": -3.2365,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 98.37,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -2.0878,
+          "spread_delta_low": -1.9004,
+          "spread_delta_close": -0.4266,
+          "spread_delta_composite": -1.4716,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 97.74,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.0058,
+          "spread_delta_low": 0.6896,
+          "spread_delta_close": -0.3952,
+          "spread_delta_composite": 0.0962,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 101.6,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 2.7325,
+          "spread_delta_low": 2.3086,
+          "spread_delta_close": 4.0372,
+          "spread_delta_composite": 3.0261,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "AAPL",
+      "display_name": "Apple",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 327.5,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 12.0519,
+          "spread_delta_low": 5.006,
+          "spread_delta_close": 12.1462,
+          "spread_delta_composite": 9.7347,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 333.26,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 5.3952,
+          "spread_delta_low": 8.9191,
+          "spread_delta_close": 5.1736,
+          "spread_delta_composite": 6.496,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 333.74,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": -0.2961,
+          "spread_delta_low": 1.65,
+          "spread_delta_close": -0.1206,
+          "spread_delta_composite": 0.4111,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 326.9,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -1.8707,
+          "spread_delta_low": -5.8828,
+          "spread_delta_close": -7.1775,
+          "spread_delta_composite": -4.977,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 327.44,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -4.6591,
+          "spread_delta_low": -1.9738,
+          "spread_delta_close": 0.0056,
+          "spread_delta_composite": -2.2091,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        }
+      ]
+    },
+    {
+      "id": "ADBE",
+      "display_name": "Adobe",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 224.56,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": 7.7018,
+          "spread_delta_low": 5.3104,
+          "spread_delta_close": 4.2034,
+          "spread_delta_composite": 5.7385,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 235.31,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 4.3071,
+          "spread_delta_low": -0.3516,
+          "spread_delta_close": 11.0436,
+          "spread_delta_composite": 4.9997,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 237.25,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 4.9115,
+          "spread_delta_low": 10.503,
+          "spread_delta_close": 2.1391,
+          "spread_delta_composite": 5.8512,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 234.74,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -3.2741,
+          "spread_delta_low": -4.6922,
+          "spread_delta_close": -2.3057,
+          "spread_delta_composite": -3.424,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 227.16,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -4.895,
+          "spread_delta_low": -4.916,
+          "spread_delta_close": -7.2716,
+          "spread_delta_composite": -5.6942,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "AEP",
+      "display_name": "American Electric Power",
+      "type": "equity",
+      "parent_id": "XLU",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 132.5,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -1.726,
+          "spread_delta_low": -2.2966,
+          "spread_delta_close": -2.5527,
+          "spread_delta_composite": -2.1918,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 133.13,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -1.0646,
+          "spread_delta_low": -0.7526,
+          "spread_delta_close": 0.5212,
+          "spread_delta_composite": -0.432,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 132.14,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 1.5327,
+          "spread_delta_low": -0.0309,
+          "spread_delta_close": -1.0471,
+          "spread_delta_composite": 0.1516,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 131.05,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -2.088,
+          "spread_delta_low": -1.2323,
+          "spread_delta_close": -1.0861,
+          "spread_delta_composite": -1.4688,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 130.48,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -2.4149,
+          "spread_delta_low": -1.0518,
+          "spread_delta_close": -0.5597,
+          "spread_delta_composite": -1.3421,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "AMD",
+      "display_name": "AMD",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 529.14,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -18.8021,
+          "spread_delta_low": -40.2542,
+          "spread_delta_close": -22.1214,
+          "spread_delta_composite": -27.0592,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 500.94,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 495.76,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -15.7228,
+          "spread_delta_low": -34.1,
+          "spread_delta_close": -8.0018,
+          "spread_delta_composite": -19.2749,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 504.2501,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 13.5032,
+          "spread_delta_low": 39.1914,
+          "spread_delta_close": 5.4668,
+          "spread_delta_composite": 19.3871,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 544.44,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "AMZN",
+      "display_name": "Amazon",
+      "type": "equity",
+      "parent_id": "XLY",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 254.96,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 7.7438,
+          "spread_delta_low": 5.939,
+          "spread_delta_close": 7.2503,
+          "spread_delta_composite": 6.9777,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 249.89,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 1.2848,
+          "spread_delta_low": -2.1962,
+          "spread_delta_close": -5.342,
+          "spread_delta_composite": -2.0845,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 247.23,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -8.2305,
+          "spread_delta_low": -4.8428,
+          "spread_delta_close": -3.0291,
+          "spread_delta_composite": -5.3675,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 250.5,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 2.2247,
+          "spread_delta_low": 3.9625,
+          "spread_delta_close": 2.9861,
+          "spread_delta_composite": 3.0578,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 247.41,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -3.9077,
+          "spread_delta_low": -1.9549,
+          "spread_delta_close": -3.4582,
+          "spread_delta_composite": -3.1069,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "ANET",
+      "display_name": "Arista",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 171.92,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 168.56,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -16.1215,
+          "spread_delta_low": -2.7517,
+          "spread_delta_close": -3.6111,
+          "spread_delta_composite": -7.4948,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 168.61,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": 0.8871,
+          "spread_delta_low": -6.9895,
+          "spread_delta_close": -0.2295,
+          "spread_delta_composite": -2.1106,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 169.35,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.7513,
+          "spread_delta_low": 10.7506,
+          "spread_delta_close": 1.9442,
+          "spread_delta_composite": 4.482,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 174.58,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 4.839,
+          "spread_delta_low": 3.3454,
+          "spread_delta_close": 4.8052,
+          "spread_delta_composite": 4.3299,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "ARM",
+      "display_name": "Arm Holdings",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 275.62,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -23.6152,
+          "spread_delta_low": -12.4855,
+          "spread_delta_close": -7.2469,
+          "spread_delta_composite": -14.4492,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 262.01,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -21.2265,
+          "spread_delta_low": -13.8665,
+          "spread_delta_close": -14.9743,
+          "spread_delta_composite": -16.6891,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 266.53,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": 2.7583,
+          "spread_delta_low": -10.7021,
+          "spread_delta_close": 3.0925,
+          "spread_delta_composite": -1.6171,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 270.92,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 3.0599,
+          "spread_delta_low": 23.4994,
+          "spread_delta_close": 2.9622,
+          "spread_delta_composite": 9.8405,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 289.73,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "AVGO",
+      "display_name": "Broadcom",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 394.28,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 1.03,
+          "spread_delta_low": 1.3952,
+          "spread_delta_close": 4.5564,
+          "spread_delta_composite": 2.3272,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 374.45,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 370.825,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -9.7205,
+          "spread_delta_low": -14.2796,
+          "spread_delta_close": -3.9289,
+          "spread_delta_composite": -9.3097,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 378.47,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 5.6752,
+          "spread_delta_low": 17.5334,
+          "spread_delta_close": 7.6774,
+          "spread_delta_composite": 10.2953,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 386.0,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 6.4344,
+          "spread_delta_low": 2.7486,
+          "spread_delta_close": 6.9886,
+          "spread_delta_composite": 5.3905,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "BRK-B",
+      "display_name": "Berkshire Hathaway B",
+      "type": "equity",
+      "parent_id": "XLF",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 488.35,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -4.2839,
+          "spread_delta_low": -3.3327,
+          "spread_delta_close": -2.6205,
+          "spread_delta_composite": -3.4124,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 493.12,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": 0.5417,
+          "spread_delta_low": -1.2889,
+          "spread_delta_close": 4.839,
+          "spread_delta_composite": 1.3639,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 490.91,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 9.866,
+          "spread_delta_low": 4.4238,
+          "spread_delta_close": -2.119,
+          "spread_delta_composite": 4.0569,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 491.43,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -10.7103,
+          "spread_delta_low": -1.5765,
+          "spread_delta_close": 0.5518,
+          "spread_delta_composite": -3.9117,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 489.65,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.9897,
+          "spread_delta_low": -1.4948,
+          "spread_delta_close": -1.734,
+          "spread_delta_composite": -1.4062,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "CAT",
+      "display_name": "Caterpillar",
+      "type": "equity",
+      "parent_id": "XLI",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 914.3,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -27.9158,
+          "spread_delta_low": -36.6273,
+          "spread_delta_close": -20.7593,
+          "spread_delta_composite": -28.4341,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 877.17,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -38.0327,
+          "spread_delta_low": -22.6478,
+          "spread_delta_close": -38.1517,
+          "spread_delta_composite": -32.9441,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 880.28,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -9.6835,
+          "spread_delta_low": -31.3732,
+          "spread_delta_close": 1.8901,
+          "spread_delta_composite": -13.0555,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 862.02,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.0391,
+          "spread_delta_low": 21.8299,
+          "spread_delta_close": -19.2125,
+          "spread_delta_composite": 0.8594,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 889.97,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 2.4113,
+          "spread_delta_low": 13.5329,
+          "spread_delta_close": 26.7018,
+          "spread_delta_composite": 14.2154,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "COST",
+      "display_name": "Costco",
+      "type": "equity",
+      "parent_id": "XLP",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 916.54,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.106,
+          "spread_delta_low": -7.3299,
+          "spread_delta_close": -4.3638,
+          "spread_delta_composite": -4.2666,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 945.57,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 18.8225,
+          "spread_delta_low": 11.7118,
+          "spread_delta_close": 29.5502,
+          "spread_delta_composite": 20.0282,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 940.87,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 18.9012,
+          "spread_delta_low": 12.6421,
+          "spread_delta_close": -4.3964,
+          "spread_delta_composite": 9.049,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 935.8,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -16.847,
+          "spread_delta_low": -1.2339,
+          "spread_delta_close": -4.4582,
+          "spread_delta_composite": -7.513,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 928.7,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -14.2978,
+          "spread_delta_low": -6.9145,
+          "spread_delta_close": -6.4538,
+          "spread_delta_composite": -9.222,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "display_name": "Dominion Energy",
+      "type": "equity",
+      "parent_id": "XLU",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 70.97,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.1409,
+          "spread_delta_low": -0.4982,
+          "spread_delta_close": -0.4161,
+          "spread_delta_composite": -0.3517,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 71.69,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 0.2559,
+          "spread_delta_low": -0.1006,
+          "spread_delta_close": 0.641,
+          "spread_delta_composite": 0.2654,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 71.04,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 1.0596,
+          "spread_delta_low": 0.4351,
+          "spread_delta_close": -0.7139,
+          "spread_delta_composite": 0.2603,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 70.36,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -1.4658,
+          "spread_delta_low": -0.8489,
+          "spread_delta_close": -0.7791,
+          "spread_delta_composite": -1.0313,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 70.55,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -1.0777,
+          "spread_delta_low": -0.4739,
+          "spread_delta_close": 0.1072,
+          "spread_delta_composite": -0.4815,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        }
+      ]
+    },
+    {
+      "id": "ETR",
+      "display_name": "Entergy",
+      "type": "equity",
+      "parent_id": "XLU",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 114.24,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.9756,
+          "spread_delta_low": -1.1398,
+          "spread_delta_close": -1.3153,
+          "spread_delta_composite": -1.1436,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 114.87,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.4039,
+          "spread_delta_low": -0.1603,
+          "spread_delta_close": 0.4833,
+          "spread_delta_composite": -0.027,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 113.24,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 1.0414,
+          "spread_delta_low": -1.0099,
+          "spread_delta_close": -1.7428,
+          "spread_delta_composite": -0.5704,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 111.91,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -1.7902,
+          "spread_delta_low": -1.2388,
+          "spread_delta_close": -1.7027,
+          "spread_delta_composite": -1.5772,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 112.22,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -2.7929,
+          "spread_delta_low": -1.0328,
+          "spread_delta_close": 0.2447,
+          "spread_delta_composite": -1.1937,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        }
+      ]
+    },
+    {
+      "id": "FCX",
+      "display_name": "Freeport-McMoRan",
+      "type": "equity",
+      "parent_id": "XME",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 60.97,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": -0.0587,
+          "spread_delta_low": -1.8316,
+          "spread_delta_close": -0.983,
+          "spread_delta_composite": -0.9578,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 58.56,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -2.868,
+          "spread_delta_low": -1.7876,
+          "spread_delta_close": -2.3595,
+          "spread_delta_composite": -2.3384,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 58.38,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.5684,
+          "spread_delta_low": -1.4843,
+          "spread_delta_close": -0.1312,
+          "spread_delta_composite": -0.728,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 58.805,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": 0.0735,
+          "spread_delta_low": 2.5815,
+          "spread_delta_close": 0.4943,
+          "spread_delta_composite": 1.0497,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 62.54,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "GE",
+      "display_name": "GE Aerospace",
+      "type": "equity",
+      "parent_id": "XLI",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 360.35,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 1.0145,
+          "spread_delta_low": 0.4053,
+          "spread_delta_close": 6.1798,
+          "spread_delta_composite": 2.5332,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 345.73,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -8.6747,
+          "spread_delta_low": -17.0577,
+          "spread_delta_close": -14.94,
+          "spread_delta_composite": -13.5575,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 348.83,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 4.4882,
+          "spread_delta_low": 6.1906,
+          "spread_delta_close": 2.7406,
+          "spread_delta_composite": 4.4731,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 341.3,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": -0.0773,
+          "spread_delta_low": -3.2306,
+          "spread_delta_close": -7.4959,
+          "spread_delta_composite": -3.6013,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 340.7,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -10.8321,
+          "spread_delta_low": 0.0974,
+          "spread_delta_close": -0.5873,
+          "spread_delta_composite": -3.774,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "GEV",
+      "display_name": "GE Vernova",
+      "type": "equity",
+      "parent_id": "XLI",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 1055.28,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -5.8189,
+          "spread_delta_low": -59.5124,
+          "spread_delta_close": -13.2674,
+          "spread_delta_composite": -26.1996,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 1036.22,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -31.3359,
+          "spread_delta_low": 10.8168,
+          "spread_delta_close": -21.5143,
+          "spread_delta_composite": -14.0111,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 1057.84,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 16.8689,
+          "spread_delta_low": -33.1231,
+          "spread_delta_close": 19.2783,
+          "spread_delta_composite": 1.008,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 1079.18,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 32.6402,
+          "spread_delta_low": 66.6803,
+          "spread_delta_close": 19.3358,
+          "spread_delta_composite": 39.5521,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 1076.928,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 34.5194,
+          "spread_delta_low": 16.0567,
+          "spread_delta_close": -4.2668,
+          "spread_delta_composite": 15.4364,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "GOOGL",
+      "display_name": "Alphabet",
+      "type": "equity",
+      "parent_id": "XLC",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 370.92,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 13.0573,
+          "spread_delta_low": 6.2916,
+          "spread_delta_close": 10.9294,
+          "spread_delta_composite": 10.0928,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 354.46,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 1.1443,
+          "spread_delta_low": -5.7906,
+          "spread_delta_close": -16.7614,
+          "spread_delta_composite": -7.1359,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 346.77,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -27.0185,
+          "spread_delta_low": -11.2275,
+          "spread_delta_close": -7.9719,
+          "spread_delta_composite": -15.406,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 352.56,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 10.6837,
+          "spread_delta_low": 8.7119,
+          "spread_delta_close": 5.3612,
+          "spread_delta_composite": 8.2523,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 347.5008,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -8.739,
+          "spread_delta_low": -3.8978,
+          "spread_delta_close": -5.4074,
+          "spread_delta_composite": -6.0147,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "IBM",
+      "display_name": "IBM",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 211.2,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -5.369,
+          "spread_delta_low": -1.3921,
+          "spread_delta_close": -5.0644,
+          "spread_delta_composite": -3.9418,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 219.05,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -3.1473,
+          "spread_delta_low": -5.9158,
+          "spread_delta_close": 8.3876,
+          "spread_delta_composite": -0.2252,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 212.67,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -2.2188,
+          "spread_delta_low": 6.2501,
+          "spread_delta_close": -5.9115,
+          "spread_delta_composite": -0.6267,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 213.0,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -0.7078,
+          "spread_delta_low": -1.2683,
+          "spread_delta_close": 0.3064,
+          "spread_delta_composite": -0.5566,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 210.55,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.0779,
+          "spread_delta_low": 0.5635,
+          "spread_delta_close": -2.1975,
+          "spread_delta_composite": -0.904,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "INTC",
+      "display_name": "Intel",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 102.99,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.2979,
+          "spread_delta_low": -4.9125,
+          "spread_delta_close": -5.3139,
+          "spread_delta_composite": -3.5081,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 96.98,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 95.04,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -4.2975,
+          "spread_delta_low": -6.2976,
+          "spread_delta_close": -2.3845,
+          "spread_delta_composite": -4.3265,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 97.035,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 2.3862,
+          "spread_delta_low": 6.7962,
+          "spread_delta_close": 1.5958,
+          "spread_delta_composite": 3.5927,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 105.5,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "JPM",
+      "display_name": "JPMorgan Chase",
+      "type": "equity",
+      "parent_id": "XLF",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 346.91,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 6.2616,
+          "spread_delta_low": 18.0606,
+          "spread_delta_close": 3.7719,
+          "spread_delta_composite": 9.3647,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 343.15,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": -2.1489,
+          "spread_delta_low": -3.1999,
+          "spread_delta_close": -4.0087,
+          "spread_delta_composite": -3.1192,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 341.1,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -3.4066,
+          "spread_delta_low": -6.3232,
+          "spread_delta_close": -2.3528,
+          "spread_delta_composite": -4.0275,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 338.87,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -2.3387,
+          "spread_delta_low": 1.8323,
+          "spread_delta_close": -2.6741,
+          "spread_delta_composite": -1.0602,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 344.94,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 1.0253,
+          "spread_delta_low": -0.5012,
+          "spread_delta_close": 5.6247,
+          "spread_delta_composite": 2.0496,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "LIN",
+      "display_name": "Linde",
+      "type": "equity",
+      "parent_id": "XLB",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 514.15,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -11.0795,
+          "spread_delta_low": -8.1922,
+          "spread_delta_close": -8.9264,
+          "spread_delta_composite": -9.3994,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 520.74,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 0.4555,
+          "spread_delta_low": -3.2839,
+          "spread_delta_close": 6.0577,
+          "spread_delta_composite": 1.0764,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 513.22,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 4.846,
+          "spread_delta_low": 0.6028,
+          "spread_delta_close": -7.9236,
+          "spread_delta_composite": -0.8249,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 512.05,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -11.1027,
+          "spread_delta_low": -0.9539,
+          "spread_delta_close": -1.2732,
+          "spread_delta_composite": -4.4433,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 505.03,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -3.735,
+          "spread_delta_low": -8.1337,
+          "spread_delta_close": -7.0204,
+          "spread_delta_composite": -6.2964,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "LRCX",
+      "display_name": "Lam Research",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 335.43,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 0.3817,
+          "spread_delta_low": -20.0854,
+          "spread_delta_close": -11.7142,
+          "spread_delta_composite": -10.4726,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 320.96,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -20.6536,
+          "spread_delta_low": -5.5577,
+          "spread_delta_close": -15.3868,
+          "spread_delta_composite": -13.8661,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 313.3,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -15.5377,
+          "spread_delta_low": -17.294,
+          "spread_delta_close": -8.5269,
+          "spread_delta_composite": -13.7862,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 306.32,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": 1.6084,
+          "spread_delta_low": 5.9426,
+          "spread_delta_close": -7.6008,
+          "spread_delta_composite": -0.0166,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 321.74,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "META",
+      "display_name": "Meta",
+      "type": "equity",
+      "parent_id": "XLC",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 681.31,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 19.5257,
+          "spread_delta_low": 7.7414,
+          "spread_delta_close": 20.1641,
+          "spread_delta_composite": 15.8104,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 664.54,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": -4.2063,
+          "spread_delta_low": 3.4693,
+          "spread_delta_close": -16.7285,
+          "spread_delta_composite": -5.8218,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 646.01,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -29.462,
+          "spread_delta_low": -33.9672,
+          "spread_delta_close": -18.492,
+          "spread_delta_composite": -27.3071,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 645.97,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": 0.9726,
+          "spread_delta_low": 9.9348,
+          "spread_delta_close": 0.8946,
+          "spread_delta_composite": 3.934,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 643.39,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": 2.5556,
+          "spread_delta_low": 7.1734,
+          "spread_delta_close": -2.4957,
+          "spread_delta_composite": 2.4111,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "MSFT",
+      "display_name": "Microsoft",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 395.63,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 10.7983,
+          "spread_delta_low": 7.8152,
+          "spread_delta_close": 10.7551,
+          "spread_delta_composite": 9.7895,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 401.1,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 7.119,
+          "spread_delta_low": 5.7383,
+          "spread_delta_close": 5.595,
+          "spread_delta_composite": 6.1508,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 393.82,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -7.3471,
+          "spread_delta_low": -2.427,
+          "spread_delta_close": -7.0855,
+          "spread_delta_composite": -5.6199,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 402.4469,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 4.6433,
+          "spread_delta_low": 0.1723,
+          "spread_delta_close": 8.4817,
+          "spread_delta_composite": 4.4324,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 397.7,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": -1.7187,
+          "spread_delta_low": 6.5999,
+          "spread_delta_close": -4.7331,
+          "spread_delta_composite": 0.0494,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "MU",
+      "display_name": "Micron",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 904.28,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 853.2,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 848.95,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": 11.1472,
+          "spread_delta_low": -40.8213,
+          "spread_delta_close": -8.7926,
+          "spread_delta_composite": -12.8222,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 866.09,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": -7.6099,
+          "spread_delta_low": 50.4214,
+          "spread_delta_close": 11.4184,
+          "spread_delta_composite": 18.0766,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 969.938,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "NEE",
+      "display_name": "NextEra Energy",
+      "type": "equity",
+      "parent_id": "XLU",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 89.1,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 0.1081,
+          "spread_delta_low": -0.362,
+          "spread_delta_close": -0.4362,
+          "spread_delta_composite": -0.23,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 89.35,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 0.0397,
+          "spread_delta_low": 0.2904,
+          "spread_delta_close": 0.2648,
+          "spread_delta_composite": 0.1983,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 88.8,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": 0.7338,
+          "spread_delta_low": -0.2896,
+          "spread_delta_close": -0.5244,
+          "spread_delta_composite": -0.0267,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 88.0,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.2424,
+          "spread_delta_low": -0.6642,
+          "spread_delta_close": -0.7297,
+          "spread_delta_composite": -0.8787,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 87.93,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.2583,
+          "spread_delta_low": -0.1977,
+          "spread_delta_close": -0.0047,
+          "spread_delta_composite": -0.4869,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "NEM",
+      "display_name": "Newmont",
+      "type": "equity",
+      "parent_id": "XME",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 95.21,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": -1.9228,
+          "spread_delta_low": -0.4888,
+          "spread_delta_close": 0.7232,
+          "spread_delta_composite": -0.5628,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 90.83,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.8366,
+          "spread_delta_low": -2.592,
+          "spread_delta_close": -4.0423,
+          "spread_delta_composite": -2.8236,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 89.7,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -2.584,
+          "spread_delta_low": -1.5571,
+          "spread_delta_close": -0.8458,
+          "spread_delta_composite": -1.6623,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 89.2,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": 0.3327,
+          "spread_delta_low": 0.6747,
+          "spread_delta_close": -0.1563,
+          "spread_delta_composite": 0.2837,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 92.49,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 2.107,
+          "spread_delta_low": 1.7308,
+          "spread_delta_close": 3.6082,
+          "spread_delta_composite": 2.482,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "NUE",
+      "display_name": "Nucor",
+      "type": "equity",
+      "parent_id": "XME",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 236.87,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.6124,
+          "spread_delta_low": -0.0953,
+          "spread_delta_close": 2.2612,
+          "spread_delta_composite": 0.9261,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 235.67,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": -0.2135,
+          "spread_delta_low": 0.4304,
+          "spread_delta_close": -1.6125,
+          "spread_delta_composite": -0.4652,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 236.61,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.8683,
+          "spread_delta_low": -3.6758,
+          "spread_delta_close": 0.462,
+          "spread_delta_composite": -1.3607,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 230.74,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.3831,
+          "spread_delta_low": -1.6959,
+          "spread_delta_close": -6.4362,
+          "spread_delta_composite": -2.8384,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 233.2,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": -0.4653,
+          "spread_delta_low": 2.0571,
+          "spread_delta_close": 1.8725,
+          "spread_delta_composite": 1.1548,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "NVDA",
+      "display_name": "NVIDIA",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 212.5,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.9001,
+          "spread_delta_low": 1.8899,
+          "spread_delta_close": 0.2938,
+          "spread_delta_composite": 1.0279,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 207.4,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -2.9708,
+          "spread_delta_low": -0.5025,
+          "spread_delta_close": -5.3199,
+          "spread_delta_composite": -2.9311,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 202.81,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -4.5142,
+          "spread_delta_low": -8.0202,
+          "spread_delta_close": -4.7177,
+          "spread_delta_composite": -5.7507,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 203.29,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 0.9529,
+          "spread_delta_low": 4.1589,
+          "spread_delta_close": 0.4417,
+          "spread_delta_composite": 1.8512,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 207.21,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.7974,
+          "spread_delta_low": 1.6254,
+          "spread_delta_close": 3.8047,
+          "spread_delta_composite": 2.0758,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "PG",
+      "display_name": "Procter & Gamble",
+      "type": "equity",
+      "parent_id": "XLP",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 148.05,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -0.0476,
+          "spread_delta_low": -0.7401,
+          "spread_delta_close": 2.0803,
+          "spread_delta_composite": 0.4309,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 151.5,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 3.0163,
+          "spread_delta_low": 3.5452,
+          "spread_delta_close": 3.535,
+          "spread_delta_composite": 3.3655,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 149.98,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 2.8981,
+          "spread_delta_low": 1.2384,
+          "spread_delta_close": -1.4077,
+          "spread_delta_composite": 0.9096,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 149.14,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -4.0648,
+          "spread_delta_low": -0.7372,
+          "spread_delta_close": -0.671,
+          "spread_delta_composite": -1.8243,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 148.12,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.5365,
+          "spread_delta_low": -1.4099,
+          "spread_delta_close": -0.8795,
+          "spread_delta_composite": -1.2753,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "PLTR",
+      "display_name": "Palantir",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 133.76,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 1.0982,
+          "spread_delta_low": 10.2347,
+          "spread_delta_close": 0.0614,
+          "spread_delta_composite": 3.7981,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 134.44,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": -1.8802,
+          "spread_delta_low": -4.139,
+          "spread_delta_close": 0.7647,
+          "spread_delta_composite": -1.7515,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 132.38,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.0123,
+          "spread_delta_low": 0.4572,
+          "spread_delta_close": -1.9887,
+          "spread_delta_composite": -0.5146,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 135.11,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 1.7864,
+          "spread_delta_low": 2.7155,
+          "spread_delta_close": 2.8257,
+          "spread_delta_composite": 2.4425,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 132.58,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -1.9259,
+          "spread_delta_low": -0.6154,
+          "spread_delta_close": -2.5137,
+          "spread_delta_composite": -1.685,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "SHW",
+      "display_name": "Sherwin-Williams",
+      "type": "equity",
+      "parent_id": "XLB",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 332.29,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 0.8873,
+          "spread_delta_low": 1.5058,
+          "spread_delta_close": 4.0731,
+          "spread_delta_composite": 2.1554,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 338.14,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 3.9873,
+          "spread_delta_low": 2.7625,
+          "spread_delta_close": 6.1151,
+          "spread_delta_composite": 4.2883,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 331.32,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "spread_delta_high": 4.6955,
+          "spread_delta_low": -0.3754,
+          "spread_delta_close": -6.4635,
+          "spread_delta_composite": -0.7145,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 323.6,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -10.0128,
+          "spread_delta_low": -6.7673,
+          "spread_delta_close": -7.3261,
+          "spread_delta_composite": -8.0354,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 318.46,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -8.5658,
+          "spread_delta_low": -5.3675,
+          "spread_delta_close": -4.7691,
+          "spread_delta_composite": -6.2341,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "SMCI",
+      "display_name": "Super Micro",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 26.89,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": 0.2755,
+          "spread_delta_low": -1.0802,
+          "spread_delta_close": -0.6936,
+          "spread_delta_composite": -0.4994,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 24.68,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 24.18,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.4626,
+          "spread_delta_low": -1.1925,
+          "spread_delta_close": -0.4214,
+          "spread_delta_composite": -1.0255,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 23.89,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.5618,
+          "spread_delta_low": 0.4572,
+          "spread_delta_close": -0.2482,
+          "spread_delta_composite": -0.1176,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 25.5,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "SO",
+      "display_name": "Southern Company",
+      "type": "equity",
+      "parent_id": "XLU",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 94.6,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.9001,
+          "spread_delta_low": -1.3349,
+          "spread_delta_close": -1.3988,
+          "spread_delta_composite": -1.2113,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 96.07,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -0.321,
+          "spread_delta_low": 0.2787,
+          "spread_delta_close": 1.4179,
+          "spread_delta_composite": 0.4585,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 95.31,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 2.1692,
+          "spread_delta_low": 0.3186,
+          "spread_delta_close": -0.7875,
+          "spread_delta_composite": 0.5668,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 94.46,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.9659,
+          "spread_delta_low": -0.6931,
+          "spread_delta_close": -0.8265,
+          "spread_delta_composite": -1.1618,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 93.85,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -1.9193,
+          "spread_delta_low": -1.2311,
+          "spread_delta_close": -0.5893,
+          "spread_delta_composite": -1.2466,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "SPY",
+      "display_name": "SPDR S&P 500 ETF Trust",
+      "type": "Index",
+      "parent_id": null,
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 754.81,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 1.6473,
+          "spread_delta_low": 0.8465,
+          "spread_delta_close": 2.3381,
+          "spread_delta_composite": 1.6106,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 750.72,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -1.597,
+          "spread_delta_low": -2.9055,
+          "spread_delta_close": -4.6577,
+          "spread_delta_composite": -3.0534,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 743.29,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -7.7875,
+          "spread_delta_low": -7.5814,
+          "spread_delta_close": -7.9417,
+          "spread_delta_composite": -7.7702,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 742.7,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": 0.8,
+          "spread_delta_low": 0.0594,
+          "spread_delta_close": -0.5589,
+          "spread_delta_composite": 0.1002,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 748.15,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": -0.2801,
+          "spread_delta_low": 2.0926,
+          "spread_delta_close": 4.8624,
+          "spread_delta_composite": 2.225,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "STLD",
+      "display_name": "Steel Dynamics",
+      "type": "equity",
+      "parent_id": "XME",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 235.56,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": -2.0397,
+          "spread_delta_low": -0.7272,
+          "spread_delta_close": 1.8656,
+          "spread_delta_composite": -0.3004,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 234.98,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 0.433,
+          "spread_delta_low": 2.4983,
+          "spread_delta_close": -0.872,
+          "spread_delta_composite": 0.6864,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 235.51,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": -1.6235,
+          "spread_delta_low": -4.1953,
+          "spread_delta_close": 0.17,
+          "spread_delta_composite": -1.8829,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 230.49,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 0.6173,
+          "spread_delta_low": -1.2508,
+          "spread_delta_close": -5.4263,
+          "spread_delta_composite": -2.0199,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 233.52,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 2.1491,
+          "spread_delta_low": 2.7588,
+          "spread_delta_close": 2.5999,
+          "spread_delta_composite": 2.5026,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "TSLA",
+      "display_name": "Tesla",
+      "type": "equity",
+      "parent_id": "XLY",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 394.46,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": 4.5426,
+          "spread_delta_low": -4.0148,
+          "spread_delta_close": -1.6045,
+          "spread_delta_composite": -0.3589,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 391.06,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -11.2116,
+          "spread_delta_low": -5.3179,
+          "spread_delta_close": -3.3385,
+          "spread_delta_composite": -6.6227,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 380.84,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -9.3315,
+          "spread_delta_low": -7.8947,
+          "spread_delta_close": -9.9173,
+          "spread_delta_composite": -9.0478,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 369.5,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": 1.1622,
+          "spread_delta_low": -7.5128,
+          "spread_delta_close": -10.1919,
+          "spread_delta_composite": -5.5142,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 379.09,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "spread_delta_high": -2.1773,
+          "spread_delta_low": 0.9767,
+          "spread_delta_close": 9.9742,
+          "spread_delta_composite": 2.9245,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "TSM",
+      "display_name": "TSMC",
+      "type": "equity",
+      "parent_id": "XLK",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 420.368,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -2.8423,
+          "spread_delta_low": -8.6593,
+          "spread_delta_close": -1.246,
+          "spread_delta_composite": -4.2492,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 410.4,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -13.3943,
+          "spread_delta_low": -7.7102,
+          "spread_delta_close": -10.3867,
+          "spread_delta_composite": -10.4971,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 398.4,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -11.5796,
+          "spread_delta_low": -17.6922,
+          "spread_delta_close": -12.3027,
+          "spread_delta_composite": -13.8582,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 402.47,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 4.9653,
+          "spread_delta_low": 13.8027,
+          "spread_delta_close": 3.8888,
+          "spread_delta_composite": 7.5523,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 424.6,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": null,
+          "spread_delta_low": null,
+          "spread_delta_close": null,
+          "spread_delta_composite": null,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "V",
+      "display_name": "Visa",
+      "type": "equity",
+      "parent_id": "XLF",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 355.14,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "spread_delta_high": 0.2489,
+          "spread_delta_low": -4.7754,
+          "spread_delta_close": -1.1756,
+          "spread_delta_composite": -1.9007,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 365.14,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 4.3574,
+          "spread_delta_low": 7.6245,
+          "spread_delta_close": 9.6303,
+          "spread_delta_composite": 7.2041,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 358.56,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": -0.8463,
+          "spread_delta_low": -0.4159,
+          "spread_delta_close": -6.8732,
+          "spread_delta_composite": -2.7118,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 360.57,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -2.1733,
+          "spread_delta_low": -1.1098,
+          "spread_delta_close": 1.4701,
+          "spread_delta_composite": -0.6043,
+          "exhaustion_flag": 0,
+          "compression_flag": 1
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 355.82,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -4.3383,
+          "spread_delta_low": -2.2108,
+          "spread_delta_close": -5.1848,
+          "spread_delta_composite": -3.9113,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    },
+    {
+      "id": "WMT",
+      "display_name": "Walmart",
+      "type": "equity",
+      "parent_id": "XLP",
+      "signals": [
+        {
+          "signal_date": "2026-07-15",
+          "price_close": 112.53,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -0.9794,
+          "spread_delta_low": -1.2703,
+          "spread_delta_close": -1.0051,
+          "spread_delta_composite": -1.0849,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-16",
+          "price_close": 114.95,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 0.9925,
+          "spread_delta_low": 1.6138,
+          "spread_delta_close": 2.5375,
+          "spread_delta_composite": 1.7146,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-17",
+          "price_close": 114.24,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "spread_delta_high": 2.6215,
+          "spread_delta_low": 0.1753,
+          "spread_delta_close": -0.5647,
+          "spread_delta_composite": 0.744,
+          "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-20",
+          "price_close": 112.37,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -3.5586,
+          "spread_delta_low": -1.3372,
+          "spread_delta_close": -1.6661,
+          "spread_delta_composite": -2.1873,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-21",
+          "price_close": 110.39,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "spread_delta_high": -2.449,
+          "spread_delta_low": -2.0996,
+          "spread_delta_close": -1.8309,
+          "spread_delta_composite": -2.1265,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        }
+      ]
+    }
+  ]
+}
