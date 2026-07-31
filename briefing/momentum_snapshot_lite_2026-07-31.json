@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-07-31",
-  "generated_at": "2026-07-31T02:00:08",
+  "generated_at": "2026-07-31T15:28:25",
   "schema_version": "1.0",
   "description": "Key momentum signals \u00e2\u20ac\u201d 5-session history. Full snapshot at momentum_snapshot_2026-07-31.json",
   "fields": [
@@ -363,54 +363,6 @@
       "parent_id": null,
       "signals": [
         {
-          "signal_date": "2026-07-20",
-          "price_close": 100.781,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "spread_delta_high": 0.1272,
-          "spread_delta_low": -0.022,
-          "spread_delta_close": 0.1604,
-          "spread_delta_composite": 0.0886,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-07-21",
-          "price_close": 101.001,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "spread_delta_high": 0.1595,
-          "spread_delta_low": 0.183,
-          "spread_delta_close": 0.191,
-          "spread_delta_composite": 0.1778,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-07-22",
-          "price_close": 100.954,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "spread_delta_high": -0.0212,
-          "spread_delta_low": 0.1282,
-          "spread_delta_close": -0.0689,
-          "spread_delta_composite": 0.0127,
-          "exhaustion_flag": 1,
-          "compression_flag": 0
-        },
-        {
-          "signal_date": "2026-07-23",
-          "price_close": 101.286,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "spread_delta_high": 0.3268,
-          "spread_delta_low": -0.0982,
-          "spread_delta_close": 0.304,
-          "spread_delta_composite": 0.1775,
-          "exhaustion_flag": 0,
-          "compression_flag": 0
-        },
-        {
           "signal_date": "2026-07-24",
           "price_close": 101.302,
           "flag3_composite": 0,
@@ -420,6 +372,54 @@
           "spread_delta_close": -0.0063,
           "spread_delta_composite": 0.0833,
           "exhaustion_flag": 1,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-27",
+          "price_close": 101.384,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "spread_delta_high": 0.0095,
+          "spread_delta_low": -0.1594,
+          "spread_delta_close": 0.0555,
+          "spread_delta_composite": -0.0315,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-28",
+          "price_close": 101.266,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "spread_delta_high": 0.0794,
+          "spread_delta_low": 0.109,
+          "spread_delta_close": -0.1414,
+          "spread_delta_composite": 0.0157,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-29",
+          "price_close": 100.729,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.1762,
+          "spread_delta_low": -0.5088,
+          "spread_delta_close": -0.5587,
+          "spread_delta_composite": -0.4146,
+          "exhaustion_flag": 0,
+          "compression_flag": 0
+        },
+        {
+          "signal_date": "2026-07-30",
+          "price_close": 99.721,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "spread_delta_high": -0.4338,
+          "spread_delta_low": -0.9077,
+          "spread_delta_close": -1.0154,
+          "spread_delta_composite": -0.7856,
+          "exhaustion_flag": 0,
           "compression_flag": 0
         }
       ]
