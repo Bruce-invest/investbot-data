@@ -1,0 +1,54 @@
+# Ping Weekly Archive -- 2026-W33
+
+| Session Date | Ticker | Type | Bars | Decisions |
+|---|---|---|---|---|
+| 2026-08-10 | ARM | candidate | 186 | 0 |
+| 2026-08-10 | AVGO | candidate | 213 | 0 |
+| 2026-08-10 | BRK-B | candidate | 157 | 0 |
+| 2026-08-10 | CAT | candidate | 160 | 0 |
+| 2026-08-10 | COST | candidate | 155 | 0 |
+| 2026-08-10 | CSCO | candidate | 210 | 0 |
+| 2026-08-10 | DIA | candidate | 247 | 0 |
+| 2026-08-10 | GE | candidate | 154 | 0 |
+| 2026-08-10 | GEV | candidate | 194 | 0 |
+| 2026-08-10 | GOOGL | candidate | 212 | 0 |
+| 2026-08-10 | INTC | candidate | 216 | 0 |
+| 2026-08-10 | IWM | candidate | 260 | 0 |
+| 2026-08-10 | JNJ | candidate | 238 | 0 |
+| 2026-08-10 | JPM | candidate | 251 | 0 |
+| 2026-08-10 | LIN | candidate | 198 | 0 |
+| 2026-08-10 | META | candidate | 209 | 0 |
+| 2026-08-10 | NUE | candidate | 120 | 0 |
+| 2026-08-10 | NVDA | candidate | 267 | 0 |
+| 2026-08-10 | PG | candidate | 155 | 0 |
+| 2026-08-10 | PLTR | candidate | 216 | 0 |
+| 2026-08-10 | QQQ | candidate | 261 | 0 |
+| 2026-08-10 | SHW | candidate | 195 | 0 |
+| 2026-08-10 | SLB | candidate | 184 | 0 |
+| 2026-08-10 | SO | candidate | 47 | 0 |
+| 2026-08-10 | SPY | candidate | 237 | 0 |
+| 2026-08-10 | SPY | etf | 223 | 0 |
+| 2026-08-10 | V | candidate | 162 | 0 |
+| 2026-08-10 | WMT | candidate | 162 | 0 |
+| 2026-08-10 | XLB | candidate | 219 | 0 |
+| 2026-08-10 | XLB | etf | 44 | 0 |
+| 2026-08-10 | XLC | candidate | 213 | 0 |
+| 2026-08-10 | XLC | etf | 50 | 0 |
+| 2026-08-10 | XLE | candidate | 226 | 0 |
+| 2026-08-10 | XLE | etf | 138 | 0 |
+| 2026-08-10 | XLF | candidate | 217 | 0 |
+| 2026-08-10 | XLF | etf | 84 | 0 |
+| 2026-08-10 | XLI | candidate | 218 | 0 |
+| 2026-08-10 | XLI | etf | 67 | 0 |
+| 2026-08-10 | XLK | candidate | 216 | 0 |
+| 2026-08-10 | XLK | etf | 113 | 0 |
+| 2026-08-10 | XLP | candidate | 223 | 0 |
+| 2026-08-10 | XLP | etf | 63 | 0 |
+| 2026-08-10 | XLRE | candidate | 214 | 0 |
+| 2026-08-10 | XLRE | etf | 50 | 0 |
+| 2026-08-10 | XLU | candidate | 217 | 0 |
+| 2026-08-10 | XLU | etf | 92 | 0 |
+| 2026-08-10 | XLV | candidate | 218 | 0 |
+| 2026-08-10 | XLV | etf | 83 | 0 |
+| 2026-08-10 | XLY | candidate | 213 | 0 |
+| 2026-08-10 | XLY | etf | 48 | 0 |
