@@ -1,0 +1,82 @@
+# Ping pBC Anchor -- 2026-08-10
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 10:16 | ARM | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | ARM | Cycle1_LongOnly | -5.251253 | MIXED | -0.9236 | -5.373989 | -0.122736 | 57 |
+| 11:56 | ARM | Cycle1_LongOnly | -3.646053 | MIXED | -0.9986 | 0.0 | 3.646053 | 56 |
+| 12:56 | ARM | Cycle1_LongOnly | 0.09747 | NEGATIVE_BAND_COMPRESSION | -0.9013 | 0.0 | -0.09747 | 49 |
+| 10:16 | AVGO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | AVGO | Cycle1_LongOnly | -3.304253 | MIXED | 2.459 | -2.858225 | 0.446028 | 39 |
+| 11:56 | AVGO | Cycle1_LongOnly | -1.710147 | MIXED | 0.824 | 0.0 | 1.710147 | 59 |
+| 12:56 | AVGO | Cycle1_LongOnly | 0.053675 | NEGATIVE_BAND_COMPRESSION | 0.4715 | 0.0 | -0.053675 | 53 |
+| 10:56 | BRK-B | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | BRK-B | Cycle1_LongOnly | -0.114562 | MIXED | 2.3561 | 0.0 | 0.114562 | 57 |
+| 12:56 | BRK-B | Cycle1_LongOnly | 0.669284 | POSITIVE_COMPRESSION | 2.1698 | 0.38178 | -0.287504 | 50 |
+| 10:56 | CAT | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | CAT | Cycle1_LongOnly | -35.40373 | MIXED | 0.2375 | 0.0 | 35.40373 | 57 |
+| 12:56 | CAT | Cycle1_LongOnly | 2.127621 | MIXED | 0.2489 | 0.0 | -2.127621 | 51 |
+| 10:56 | COST | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | COST | Cycle1_LongOnly | -0.397034 | MIXED | -0.1572 | 0.0 | 0.397034 | 56 |
+| 12:56 | COST | Cycle1_LongOnly | 0.129916 | MIXED | 0.4933 | 0.231535 | 0.101619 | 48 |
+| 10:16 | CSCO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | CSCO | Cycle1_LongOnly | -0.050584 | MIXED | 5.907 | -0.045282 | 0.005302 | 39 |
+| 11:56 | CSCO | Cycle1_LongOnly | -0.10126 | MIXED | 4.2683 | 0.0 | 0.10126 | 59 |
+| 12:56 | CSCO | Cycle1_LongOnly | -0.042739 | MIXED | 4.9842 | 0.003409 | 0.046148 | 54 |
+| 10:56 | GE | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | GE | Cycle1_LongOnly | 1.645817 | NEGATIVE_BAND_COMPRESSION | -0.0197 | -0.345766 | -1.991583 | 58 |
+| 12:56 | GE | Cycle1_LongOnly | 0.626307 | MIXED | -0.0522 | 0.626307 | 0.0 | 49 |
+| 10:16 | GEV | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | GEV | Cycle1_LongOnly | 40.121735 | POSITIVE_COMPRESSION | 0.5037 | 40.121735 | 0.0 | 58 |
+| 11:56 | GEV | Cycle1_LongOnly | 38.034194 | NEGATIVE_BAND_COMPRESSION | 0.4515 | -3.058305 | -41.092499 | 56 |
+| 12:56 | GEV | Cycle1_LongOnly | 2.52735 | MIXED | 0.4014 | 0.0 | -2.52735 | 51 |
+| 10:16 | GOOGL | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | GOOGL | Cycle1_LongOnly | -1.921523 | MIXED | 0.3642 | -1.921523 | 0.0 | 59 |
+| 11:56 | GOOGL | Cycle1_LongOnly | 0.414889 | MIXED | 0.0959 | 0.352527 | -0.062362 | 55 |
+| 12:56 | GOOGL | Cycle1_LongOnly | -0.055921 | MIXED | 0.1453 | -0.055921 | 0.0 | 58 |
+| 10:16 | INTC | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | INTC | Cycle1_LongOnly | 0.238092 | POSITIVE_COMPRESSION | -1.3091 | 0.238092 | 0.0 | 59 |
+| 11:56 | INTC | Cycle1_LongOnly | -0.212853 | MIXED | -0.8361 | 0.0 | 0.212853 | 56 |
+| 12:56 | INTC | Cycle1_LongOnly | 0.022557 | MIXED | -0.5021 | 0.022557 | 0.0 | 59 |
+| 08:56 | JNJ | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | JNJ | Cycle1_LongOnly | 0.616727 | NEGATIVE_BAND_COMPRESSION | 2.01 | -0.164661 | -0.781388 | 41 |
+| 10:56 | JNJ | Cycle1_LongOnly | -0.065679 | MIXED | 1.9483 | -0.204821 | -0.139142 | 57 |
+| 11:56 | JNJ | Cycle1_LongOnly | 0.087935 | POSITIVE_COMPRESSION | 2.1093 | 0.087935 | 0.0 | 57 |
+| 12:56 | JNJ | Cycle1_LongOnly | -0.241491 | MIXED | 2.3479 | 0.040766 | 0.282257 | 51 |
+| 08:56 | JPM | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | JPM | Cycle1_LongOnly | -0.236992 | MIXED | 1.0634 | -0.236992 | 0.0 | 45 |
+| 10:56 | JPM | Cycle1_LongOnly | 0.060901 | MIXED | 1.0496 | 0.0 | -0.060901 | 59 |
+| 11:56 | JPM | Cycle1_LongOnly | 0.41384 | NEGATIVE_BAND_COMPRESSION | 1.2595 | -0.017566 | -0.431406 | 58 |
+| 12:56 | JPM | Cycle1_LongOnly | 0.315002 | POSITIVE_COMPRESSION | 0.8689 | 0.272492 | -0.04251 | 53 |
+| 10:56 | LIN | Cycle1_LongOnly | -0.275135 | MIXED | -0.3773 | -0.275135 | 0.0 | 18 |
+| 11:56 | LIN | Cycle1_LongOnly | -0.08788 | MIXED | -0.3016 | 0.0 | 0.08788 | 58 |
+| 12:56 | LIN | Cycle1_LongOnly | 0.495736 | MIXED | -0.518 | 0.537675 | 0.041939 | 48 |
+| 10:16 | META | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | META | Cycle1_LongOnly | -6.184239 | MIXED | 1.8045 | -6.184239 | 0.0 | 59 |
+| 11:56 | META | Cycle1_LongOnly | 0.235741 | MIXED | 1.5258 | 0.0 | -0.235741 | 57 |
+| 12:56 | META | Cycle1_LongOnly | 2.995705 | NEGATIVE_BAND_COMPRESSION | 1.0647 | 0.0 | -2.995705 | 54 |
+| 10:56 | NUE | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | NUE | Cycle1_LongOnly | 0.651976 | MIXED | 1.114 | 0.966543 | 0.314567 | 45 |
+| 12:56 | NUE | Cycle1_LongOnly | 0.052248 | NEGATIVE_BAND_COMPRESSION | 1.4166 | 0.0 | -0.052248 | 38 |
+| 08:56 | NVDA | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | NVDA | Cycle1_LongOnly | 0.064076 | MIXED | 0.6583 | 0.0 | -0.064076 | 46 |
+| 10:56 | NVDA | Cycle1_LongOnly | -1.290856 | MIXED | 0.4214 | -0.496795 | 0.794061 | 59 |
+| 11:56 | NVDA | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.1523 | 0.0 | 0.0 | 58 |
+| 12:56 | NVDA | Cycle1_LongOnly | 0.329055 | NEGATIVE_BAND_COMPRESSION | 0.0192 | 0.0 | -0.329055 | 58 |
+| 10:56 | PG | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | PG | Cycle1_LongOnly | -0.016292 | MIXED | 0.4602 | -0.016292 | 0.0 | 56 |
+| 12:56 | PG | Cycle1_LongOnly | 0.098002 | MIXED | 0.5639 | 0.097116 | -0.000886 | 49 |
+| 10:16 | PLTR | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | PLTR | Cycle1_LongOnly | -0.395574 | MIXED | 1.0396 | -0.395574 | 0.0 | 39 |
+| 11:56 | PLTR | Cycle1_LongOnly | -0.533991 | NEGATIVE_COMPRESSION | 1.0103 | 0.0 | 0.533991 | 58 |
+| 12:56 | PLTR | Cycle1_LongOnly | 2.400614 | NEGATIVE_BAND_COMPRESSION | 0.9852 | 0.015552 | -2.385062 | 55 |
+| 10:56 | SHW | Cycle1_LongOnly | -0.374126 | MIXED | -0.1097 | 0.134655 | 0.508781 | 17 |
+| 11:56 | SHW | Cycle1_LongOnly | -0.312777 | MIXED | -0.0026 | -0.312777 | 0.0 | 58 |
+| 12:56 | SHW | Cycle1_LongOnly | -0.40789 | MIXED | 0.0519 | -0.05216 | 0.35573 | 46 |
+| 12:56 | SO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | V | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | V | Cycle1_LongOnly | 0.373486 | MIXED | 0.1014 | -0.092143 | -0.465629 | 58 |
+| 12:56 | V | Cycle1_LongOnly | 0.0 | NEUTRAL | -0.0097 | 0.0 | 0.0 | 51 |
+| 10:56 | WMT | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | WMT | Cycle1_LongOnly | 0.008255 | NEGATIVE_BAND_COMPRESSION | 0.147 | 0.0 | -0.008255 | 58 |
+| 12:56 | WMT | Cycle1_LongOnly | 0.004925 | MIXED | 0.6936 | 0.023771 | 0.018846 | 52 |
