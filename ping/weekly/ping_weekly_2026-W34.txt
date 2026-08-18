@@ -1,0 +1,51 @@
+# Ping Weekly Archive -- 2026-W34
+
+| Session Date | Ticker | Type | Bars | Decisions |
+|---|---|---|---|---|
+| 2026-08-17 | AMD | candidate | 176 | 0 |
+| 2026-08-17 | ARM | candidate | 156 | 0 |
+| 2026-08-17 | CAT | candidate | 161 | 0 |
+| 2026-08-17 | COP | candidate | 249 | 0 |
+| 2026-08-17 | DIA | candidate | 253 | 0 |
+| 2026-08-17 | ETR | candidate | 44 | 0 |
+| 2026-08-17 | GE | candidate | 153 | 0 |
+| 2026-08-17 | GEV | candidate | 206 | 0 |
+| 2026-08-17 | GOOGL | candidate | 218 | 0 |
+| 2026-08-17 | IWM | candidate | 257 | 0 |
+| 2026-08-17 | JPM | candidate | 250 | 0 |
+| 2026-08-17 | LIN | candidate | 52 | 0 |
+| 2026-08-17 | META | candidate | 180 | 0 |
+| 2026-08-17 | MPC | candidate | 243 | 0 |
+| 2026-08-17 | MRK | candidate | 207 | 0 |
+| 2026-08-17 | MU | candidate | 207 | 0 |
+| 2026-08-17 | NEM | candidate | 57 | 0 |
+| 2026-08-17 | NUE | candidate | 32 | 0 |
+| 2026-08-17 | PG | candidate | 106 | 0 |
+| 2026-08-17 | PSX | candidate | 243 | 0 |
+| 2026-08-17 | QQQ | candidate | 264 | 0 |
+| 2026-08-17 | SHW | candidate | 48 | 0 |
+| 2026-08-17 | SO | candidate | 97 | 0 |
+| 2026-08-17 | SPY | candidate | 237 | 0 |
+| 2026-08-17 | SPY | etf | 221 | 0 |
+| 2026-08-17 | XLB | candidate | 216 | 0 |
+| 2026-08-17 | XLB | etf | 55 | 0 |
+| 2026-08-17 | XLC | candidate | 225 | 0 |
+| 2026-08-17 | XLC | etf | 40 | 0 |
+| 2026-08-17 | XLE | candidate | 228 | 0 |
+| 2026-08-17 | XLE | etf | 138 | 0 |
+| 2026-08-17 | XLF | candidate | 221 | 0 |
+| 2026-08-17 | XLF | etf | 87 | 0 |
+| 2026-08-17 | XLI | candidate | 223 | 0 |
+| 2026-08-17 | XLI | etf | 60 | 0 |
+| 2026-08-17 | XLK | candidate | 220 | 0 |
+| 2026-08-17 | XLK | etf | 119 | 0 |
+| 2026-08-17 | XLP | candidate | 225 | 0 |
+| 2026-08-17 | XLP | etf | 68 | 0 |
+| 2026-08-17 | XLRE | candidate | 216 | 0 |
+| 2026-08-17 | XLRE | etf | 63 | 0 |
+| 2026-08-17 | XLU | candidate | 227 | 0 |
+| 2026-08-17 | XLU | etf | 74 | 0 |
+| 2026-08-17 | XLV | candidate | 224 | 0 |
+| 2026-08-17 | XLV | etf | 75 | 0 |
+| 2026-08-17 | XLY | candidate | 222 | 0 |
+| 2026-08-17 | XLY | etf | 47 | 0 |
