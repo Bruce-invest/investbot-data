@@ -1,0 +1,52 @@
+# Ping pBC Anchor -- 2026-08-21
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 11:56 | ARM | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 12:57 | ARM | Cycle1_LongOnly | -0.421865 | MIXED | -0.2303 | -0.910669 | -0.488804 | 56 |
+| 10:56 | COST | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | COST | Cycle1_LongOnly | -1.151923 | MIXED | 0.503 | 3.251199 | 4.403122 | 56 |
+| 12:57 | COST | Cycle1_LongOnly | 0.976045 | MIXED | 0.5245 | 3.429401 | 2.453356 | 54 |
+| 10:16 | FCX | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | FCX | Cycle1_LongOnly | -0.370984 | MIXED | 1.9562 | -0.406963 | -0.035979 | 40 |
+| 11:56 | FCX | Cycle1_LongOnly | -0.055792 | MIXED | 2.0026 | -0.055792 | 0.0 | 59 |
+| 12:57 | FCX | Cycle1_LongOnly | -0.120006 | MIXED | 2.0568 | -0.120006 | 0.0 | 59 |
+| 11:56 | GEV | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 12:57 | GEV | Cycle1_LongOnly | 9.442021 | MIXED | 0.3964 | 9.442021 | 0.0 | 52 |
+| 11:56 | GOOGL | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 12:57 | GOOGL | Cycle1_LongOnly | 0.495068 | POSITIVE_COMPRESSION | 0.8849 | 0.495068 | 0.0 | 59 |
+| 08:56 | JNJ | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | JNJ | Cycle1_LongOnly | 4.879687 | MIXED | 0.2329 | 6.98256 | 2.102873 | 44 |
+| 10:56 | JNJ | Cycle1_LongOnly | 2.428373 | NEGATIVE_BAND_COMPRESSION | 0.4734 | 0.824869 | -1.603504 | 58 |
+| 11:56 | JNJ | Cycle1_LongOnly | -0.328748 | MIXED | 0.5189 | 0.0 | 0.328748 | 58 |
+| 12:57 | JNJ | Cycle1_LongOnly | -0.367843 | MIXED | 0.5113 | 0.0 | 0.367843 | 56 |
+| 10:16 | LIN | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | LIN | Cycle1_LongOnly | 0.0 | NEUTRAL | 1.3632 | 0.0 | 0.0 | 40 |
+| 11:56 | LIN | Cycle1_LongOnly | 0.107666 | MIXED | 1.2853 | 0.0 | -0.107666 | 56 |
+| 12:57 | LIN | Cycle1_LongOnly | 0.966043 | NEGATIVE_BAND_COMPRESSION | 1.2271 | -0.062884 | -1.028927 | 51 |
+| 11:56 | META | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 12:57 | META | Cycle1_LongOnly | 1.961499 | POSITIVE_COMPRESSION | 0.8307 | 2.013245 | 0.051746 | 59 |
+| 10:16 | NUE | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | NUE | Cycle1_LongOnly | 1.50608 | NEGATIVE_BAND_COMPRESSION | 0.7313 | 0.0 | -1.50608 | 51 |
+| 11:56 | NUE | Cycle1_LongOnly | -8.68282 | MIXED | 0.6424 | -8.68282 | 0.0 | 49 |
+| 12:57 | NUE | Cycle1_LongOnly | 0.768259 | MIXED | 0.4168 | 0.130634 | -0.637625 | 48 |
+| 10:16 | PG | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | PG | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.5414 | 0.0 | 0.0 | 59 |
+| 11:56 | PG | Cycle1_LongOnly | -0.040419 | MIXED | 0.698 | 0.003335 | 0.043754 | 60 |
+| 12:57 | PG | Cycle1_LongOnly | -0.245147 | MIXED | 0.915 | 0.0 | 0.245147 | 60 |
+| 10:16 | SHW | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | SHW | Cycle1_LongOnly | -0.862698 | MIXED | 0.4326 | -0.537492 | 0.325206 | 35 |
+| 11:56 | SHW | Cycle1_LongOnly | 1.115012 | NEGATIVE_BAND_COMPRESSION | 0.3293 | 0.0 | -1.115012 | 52 |
+| 12:57 | SHW | Cycle1_LongOnly | -0.067072 | MIXED | 0.2115 | 0.0 | 0.067072 | 54 |
+| 10:16 | V | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:56 | V | Cycle1_LongOnly | -0.942514 | MIXED | 1.2762 | -0.0375 | 0.905014 | 59 |
+| 11:56 | V | Cycle1_LongOnly | -0.561429 | MIXED | 1.3607 | 0.033657 | 0.595086 | 59 |
+| 12:57 | V | Cycle1_LongOnly | 0.0 | NEUTRAL | 1.4935 | 0.0 | 0.0 | 59 |
+| 10:56 | WMT | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | WMT | Cycle1_LongOnly | 0.108162 | POSITIVE_COMPRESSION | 0.2132 | 0.108162 | 0.0 | 59 |
+| 12:57 | WMT | Cycle1_LongOnly | 0.069983 | NEGATIVE_BAND_COMPRESSION | 0.2545 | 0.066219 | -0.003764 | 59 |
+| 08:56 | XOM | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 10:16 | XOM | Cycle1_LongOnly | -0.039956 | NEGATIVE_COMPRESSION | 0.5016 | 0.0 | 0.039956 | 47 |
+| 10:56 | XOM | Cycle1_LongOnly | 0.038909 | MIXED | 0.4378 | 0.038909 | 0.0 | 59 |
+| 11:56 | XOM | Cycle1_LongOnly | -0.00734 | MIXED | 0.2725 | 0.0 | 0.00734 | 60 |
+| 12:57 | XOM | Cycle1_LongOnly | 0.294599 | POSITIVE_COMPRESSION | 0.2811 | 0.294599 | 0.0 | 59 |
