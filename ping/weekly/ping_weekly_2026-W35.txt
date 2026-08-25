@@ -1,0 +1,50 @@
+# Ping Weekly Archive -- 2026-W35
+
+| Session Date | Ticker | Type | Bars | Decisions |
+|---|---|---|---|---|
+| 2026-08-24 | ABBV | candidate | 246 | 0 |
+| 2026-08-24 | AEP | candidate | 46 | 0 |
+| 2026-08-24 | BRK-B | candidate | 196 | 0 |
+| 2026-08-24 | CAT | candidate | 222 | 0 |
+| 2026-08-24 | CAT | etf | 112 | 0 |
+| 2026-08-24 | COST | candidate | 197 | 0 |
+| 2026-08-24 | DIA | candidate | 240 | 0 |
+| 2026-08-24 | DIS | candidate | 191 | 0 |
+| 2026-08-24 | ETR | candidate | 49 | 0 |
+| 2026-08-24 | GOOGL | candidate | 106 | 0 |
+| 2026-08-24 | IWM | candidate | 247 | 0 |
+| 2026-08-24 | JNJ | candidate | 246 | 0 |
+| 2026-08-24 | JPM | candidate | 204 | 0 |
+| 2026-08-24 | KO | candidate | 207 | 0 |
+| 2026-08-24 | NEM | candidate | 240 | 0 |
+| 2026-08-24 | PG | candidate | 194 | 0 |
+| 2026-08-24 | QQQ | candidate | 242 | 0 |
+| 2026-08-24 | SHW | candidate | 238 | 0 |
+| 2026-08-24 | SO | candidate | 52 | 0 |
+| 2026-08-24 | SPY | candidate | 218 | 0 |
+| 2026-08-24 | SPY | etf | 203 | 0 |
+| 2026-08-24 | V | candidate | 192 | 0 |
+| 2026-08-24 | WMT | candidate | 207 | 0 |
+| 2026-08-24 | XLB | candidate | 211 | 0 |
+| 2026-08-24 | XLB | etf | 69 | 0 |
+| 2026-08-24 | XLC | candidate | 219 | 0 |
+| 2026-08-24 | XLC | etf | 41 | 0 |
+| 2026-08-24 | XLE | candidate | 230 | 0 |
+| 2026-08-24 | XLE | etf | 126 | 0 |
+| 2026-08-24 | XLF | candidate | 224 | 0 |
+| 2026-08-24 | XLF | etf | 101 | 0 |
+| 2026-08-24 | XLI | candidate | 222 | 0 |
+| 2026-08-24 | XLI | etf | 75 | 0 |
+| 2026-08-24 | XLK | candidate | 220 | 0 |
+| 2026-08-24 | XLK | etf | 103 | 0 |
+| 2026-08-24 | XLP | candidate | 221 | 0 |
+| 2026-08-24 | XLP | etf | 72 | 0 |
+| 2026-08-24 | XLRE | candidate | 221 | 0 |
+| 2026-08-24 | XLRE | etf | 50 | 0 |
+| 2026-08-24 | XLU | candidate | 227 | 0 |
+| 2026-08-24 | XLU | etf | 94 | 0 |
+| 2026-08-24 | XLV | candidate | 225 | 0 |
+| 2026-08-24 | XLV | etf | 88 | 0 |
+| 2026-08-24 | XLY | candidate | 227 | 0 |
+| 2026-08-24 | XLY | etf | 48 | 0 |
+| 2026-08-24 | XOM | candidate | 236 | 0 |
