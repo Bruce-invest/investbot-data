@@ -1,0 +1,85 @@
+# Morning Briefing — 2026-09-17 — PRE-MARKET — 08:56
+**Strategy:** Cycle1_LongOnly  |  **Variant:** lever1_reweighted
+
+## ETF Tone
+| ETF | Sector | RSI | Coil | RelStr | Base Score | L1 Score | Δ Class | Classification | Pattern |
+|---|---|---|---|---|---|---|---|---|---|
+| XLC | Communication Services | 0.49 | 0.18 | 0.00 | 0.54 | 0.54 | — | Supporting | normalized_band_position |
+| XLI | Industrials | 0.40 | 1.00 | 0.00 | 0.36 | 0.36 | — | Neutral | normalized_band_position |
+| XLV | Health Care | 0.39 | 0.29 | 1.00 | 0.36 | 0.36 | — | Neutral | normalized_band_position |
+| XLU | Utilities | 0.36 | 0.44 | 0.00 | 0.31 | 0.31 | — | Neutral | normalized_band_position |
+| XLK | Technology | 0.35 | 0.82 | 1.00 | 0.31 | 0.31 | — | Neutral | normalized_band_position |
+| XLP | Consumer Staples | 0.31 | 0.09 | 0.67 | 0.29 | 0.29 | — | Neutral | normalized_band_position |
+| XLY | Consumer Discretionary | 0.29 | 0.12 | 0.00 | 0.26 | 0.26 | — | Neutral | normalized_band_position |
+| XLRE | Real Estate | 0.28 | 0.07 | 0.00 | 0.26 | 0.26 | — | Neutral | normalized_band_position |
+| XLB | Materials | 0.26 | 0.24 | 0.00 | 0.24 | 0.24 | — | Neutral | normalized_band_position |
+| XLE | Energy | 0.19 | 0.22 | 1.00 | 0.21 | 0.21 | — | Neutral | normalized_band_position |
+| XLF | Financials | 0.13 | 0.13 | 1.00 | 0.12 | 0.12 | — | Lagging | normalized_band_position |
+
+## RSI Shortlist
+| Rank | Ticker | ETF | ETF Score | RSI Score | Macro | Intraday | Month | Week | Day | Hour | 30min | Gate |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | META | XLC | 0.54 | 0.348 | Bullish | Confirming | 57.4 | 57.3 | 72.2 | 61.7 | 62.2 | no-go |
+| 2 | GOOGL | XLC | 0.54 | 0.128 | Mixed | Confirming | 65.1 | 50.8 | 50.0 | 54.2 | 54.7 | no-go |
+| 3 | GOOG | XLC | 0.54 | 0.297 | Bullish | Confirming | 64.2 | 50.2 | 49.3 | 54.4 | 55.3 | no-go |
+| 4 | TTWO | XLC | 0.54 | 0.000 | Bearish | Confirming | 50.0 | 42.0 | 36.9 | 48.0 | 53.9 | no-go |
+| 5 | DIS | XLC | 0.54 | 0.144 | Bullish | Neutral | 50.9 | 55.3 | 53.8 | 46.8 | 47.1 | no-go |
+| — | LYV | — | — | 0.117 | Bullish | Neutral | 60.5 | 50.4 | 38.9 | 49.7 | 47.7 | no-go |
+| — | SATS | — | — | 0.000 | Insufficient_data | Neutral | 0.0 | 0.0 | 0.0 | 43.4 | 47.1 | no-go |
+| — | OMC | — | — | 0.000 | Bearish | Neutral | 49.3 | 49.3 | 40.7 | 40.6 | 40.9 | no-go |
+| — | NFLX | — | — | 0.000 | Bearish | Confirming | 44.6 | 42.3 | 45.7 | 35.3 | 41.6 | no-go |
+| — | EA | — | — | 0.000 | Bearish | Confirming | 70.2 | 73.2 | 75.5 | 53.0 | 49.6 | no-go |
+
+## Candidates — PRE-MARKET — variant: lever1_reweighted
+| Ticker | Class | Price | Score | Regime | Entry Floor | Exit Ceiling | Band Pos | Confidence | Rec Action | Est Stop | Conservative | Trend | Pressure | BW Vel | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| MSFT | CONDITIONAL | $490.30 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| ADBE | CONDITIONAL | $250.50 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| IBM | CONDITIONAL | $238.65 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| NVDA | CONDITIONAL | $218.57 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| AMZN | CONDITIONAL | $245.96 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| NEM | CONDITIONAL | $124.75 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| JPM | CONDITIONAL | $352.55 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| BRK-B | CONDITIONAL | $519.80 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| V | CONDITIONAL | $370.93 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| UNH | CONDITIONAL | $378.16 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| LLY | CONDITIONAL | $1,137.82 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| JNJ | CONDITIONAL | $267.28 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| ABBV | CONDITIONAL | $263.36 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| CVX | CONDITIONAL | $211.54 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| MPC | CONDITIONAL | $406.80 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| PSX | CONDITIONAL | $261.11 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| XOM | CONDITIONAL | $163.32 | — | — | — | — | — | — | — | — | — | — | — | — | — |
+
+## Ping Summary
+| Time | Ticker | Price | RSI | Zone | CV | SHi | SLo | Trigs |
+|---|---|---|---|---|---|---|---|---|
+| 08:54 | NVDA | $218.48 | 57.7 | Neutral | -36.4 | $218.92 | $216.45 | 97 |
+| 08:54 | MU | $951.77 | 60.5 | Bullish | -13.8 | $953.28 | $940.00 | 107 |
+| 08:54 | JPM | $352.55 | 71.7 | Overbought | 0.0 | $352.55 | $348.92 | 21 |
+| 08:54 | MPC | $406.80 | 43.7 | Neutral | -75.8 | $417.83 | $405.38 | 18 |
+| 08:54 | LRCX | $280.10 | 51.2 | Neutral | 13.8 | $281.59 | $273.59 | 78 |
+| 08:54 | ARM | $257.66 | 60.5 | Bullish | -4.7 | $257.99 | $250.51 | 81 |
+| 08:54 | UNH | $378.16 | 58.3 | Neutral | -86.6 | $378.30 | $375.26 | 23 |
+| 08:55 | TSM | $424.80 | 51.4 | Neutral | 4.2 | $425.24 | $421.98 | 53 |
+| 08:55 | PLTR | $175.15 | 45.8 | Neutral | -60.7 | $176.00 | $174.84 | 94 |
+| 08:55 | NVDA | $218.51 | 57.9 | Neutral | 0.0 | $218.92 | $216.45 | 97 |
+| 08:55 | MU | $951.75 | 56.6 | Neutral | 0.0 | $953.28 | $940.00 | 107 |
+| 08:55 | SMCI | $37.84 | 54.8 | Neutral | 357.3 | $37.98 | $37.52 | 91 |
+| 08:56 | TSM | $424.80 | 50.4 | Neutral | 0.9 | $425.24 | $421.98 | 53 |
+| 08:56 | NEM | $124.75 | 45.1 | Neutral | -86.6 | $125.81 | $121.68 | 33 |
+| 08:56 | LRCX | $280.20 | 51.6 | Neutral | -6.2 | $281.59 | $273.59 | 78 |
+| 08:56 | ARM | $257.50 | 56.9 | Neutral | 338.6 | $257.99 | $250.51 | 81 |
+| 08:56 | SMCI | $37.86 | 56.6 | Neutral | — | $37.98 | $37.52 | 91 |
+| 08:56 | PLTR | $175.14 | 44.9 | Neutral | -57.9 | $176.00 | $174.84 | 94 |
+| 08:56 | NVDA | $218.57 | 62.4 | Bullish | 0.0 | $218.92 | $216.45 | 97 |
+| 08:56 | MU | $951.98 | 58.3 | Neutral | 0.0 | $953.28 | $940.00 | 107 |
+
+## Trade Log
+_No trades recorded_
+
+## IS_001 — AI Infrastructure
+**Gate:** IS_INACTIVE  |  **XLK:** Neutral  |  **Anchor:** PRE-MARKET
+**Compression:** 0  |  **Momentum:** 0  |  **High-Conviction:** 0
+
+_IS gate inactive — XLK neutral. No IS candidates._
