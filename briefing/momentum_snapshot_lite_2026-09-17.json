@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-09-17",
-  "generated_at": "2026-09-17T02:03:19",
+  "generated_at": "2026-09-17T11:01:08",
   "schema_version": "1.0",
   "description": "Key momentum signals \u00e2\u20ac\u201d 5-session history. Full snapshot at momentum_snapshot_2026-09-17.json",
   "fields": [
@@ -3635,25 +3635,6 @@
       "parent_id": "XLE",
       "signals": [
         {
-          "signal_date": "2026-09-09",
-          "price_close": 136.53,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.1496,
-          "accel100_close": -0.0116,
-          "spread_delta_high": 0.1807,
-          "spread_delta_low": 1.8472,
-          "spread_delta_close": 1.3404,
-          "spread_delta_composite": 1.1228,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 1.2533,
-          "dir3_close": 0,
-          "slope3_close": 0.27,
-          "spread_delta3_close": 1.22,
-          "spread_delta3_composite": 1.0611
-        },
-        {
           "signal_date": "2026-09-10",
           "price_close": 137.04,
           "flag3_composite": 1,
@@ -3728,6 +3709,25 @@
           "slope3_close": 1.3933,
           "spread_delta3_close": 3.1567,
           "spread_delta3_composite": 1.2614
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 132.54,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.0817,
+          "accel100_close": -0.1043,
+          "spread_delta_high": -2.5661,
+          "spread_delta_low": -4.034,
+          "spread_delta_close": -8.7617,
+          "spread_delta_composite": -5.1206,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -4.27,
+          "dir3_close": -1,
+          "slope3_close": -1.6033,
+          "spread_delta3_close": -7.0767,
+          "spread_delta3_composite": -4.3046
         }
       ]
     },
@@ -3737,25 +3737,6 @@
       "type": "equity",
       "parent_id": "XLP",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 902.6,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "slope100_close": -0.8461,
-          "accel100_close": -0.1004,
-          "spread_delta_high": -5.0349,
-          "spread_delta_low": -6.8382,
-          "spread_delta_close": -6.7339,
-          "spread_delta_composite": -6.2023,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -6.9067,
-          "dir3_close": -1,
-          "slope3_close": -7.6033,
-          "spread_delta3_close": 0.0233,
-          "spread_delta3_composite": -0.2478
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 902.38,
@@ -3831,6 +3812,25 @@
           "slope3_close": -0.3433,
           "spread_delta3_close": -17.2167,
           "spread_delta3_composite": -11.6167
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 893.74,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "slope100_close": -1.2064,
+          "accel100_close": -0.1829,
+          "spread_delta_high": -13.774,
+          "spread_delta_low": -6.4364,
+          "spread_delta_close": -6.4036,
+          "spread_delta_composite": -8.8713,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -10.9267,
+          "dir3_close": -1,
+          "slope3_close": -3.6767,
+          "spread_delta3_close": -3.9333,
+          "spread_delta3_composite": -7.3179
         }
       ]
     },
@@ -3840,25 +3840,6 @@
       "type": "equity",
       "parent_id": "XLE",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 213.81,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.2566,
-          "accel100_close": 0.0077,
-          "spread_delta_high": 1.6995,
-          "spread_delta_low": 2.7822,
-          "spread_delta_close": 3.7534,
-          "spread_delta_composite": 2.745,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 3.0733,
-          "dir3_close": 1,
-          "slope3_close": 0.83,
-          "spread_delta3_close": 3.18,
-          "spread_delta3_composite": 2.3844
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 212.76,
@@ -3934,6 +3915,25 @@
           "slope3_close": 1.67,
           "spread_delta3_close": 3.93,
           "spread_delta3_composite": 1.6456
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 211.54,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.2398,
+          "accel100_close": -0.0747,
+          "spread_delta_high": -2.7735,
+          "spread_delta_low": -2.6237,
+          "spread_delta_close": -6.4698,
+          "spread_delta_composite": -3.9557,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -2.2867,
+          "dir3_close": -1,
+          "slope3_close": -0.84,
+          "spread_delta3_close": -5.39,
+          "spread_delta3_composite": -3.2089
         }
       ]
     },
@@ -3943,25 +3943,6 @@
       "type": "equity",
       "parent_id": "XLU",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 65.1,
-          "flag3_composite": 2,
-          "dir100_close": 1,
-          "slope100_close": 0.0262,
-          "accel100_close": -0.0121,
-          "spread_delta_high": -0.0656,
-          "spread_delta_low": -0.794,
-          "spread_delta_close": -1.1462,
-          "spread_delta_composite": -0.6686,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -0.62,
-          "dir3_close": -1,
-          "slope3_close": -0.5633,
-          "spread_delta3_close": -0.5567,
-          "spread_delta3_composite": -0.2878
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 65.05,
@@ -4037,6 +4018,25 @@
           "slope3_close": -0.3933,
           "spread_delta3_close": -0.1967,
           "spread_delta3_composite": -0.1289
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 63.51,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.0099,
+          "accel100_close": -0.0194,
+          "spread_delta_high": -0.229,
+          "spread_delta_low": -0.381,
+          "spread_delta_close": -0.3699,
+          "spread_delta_composite": -0.3266,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -0.4367,
+          "dir3_close": -1,
+          "slope3_close": -0.2833,
+          "spread_delta3_close": -0.0767,
+          "spread_delta3_composite": 0.0278
         }
       ]
     },
@@ -4046,25 +4046,6 @@
       "type": "equity",
       "parent_id": "XLV",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 204.85,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 0.1107,
-          "accel100_close": 0.0396,
-          "spread_delta_high": -1.8866,
-          "spread_delta_low": -0.2588,
-          "spread_delta_close": -0.4907,
-          "spread_delta_composite": -0.8787,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -1.0633,
-          "dir3_close": -1,
-          "slope3_close": -2.06,
-          "spread_delta3_close": 1.68,
-          "spread_delta3_composite": 1.1489
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 200.53,
@@ -4140,6 +4121,25 @@
           "slope3_close": 2.9433,
           "spread_delta3_close": 3.1667,
           "spread_delta3_composite": 3.1756
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 208.36,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 0.2983,
+          "accel100_close": 0.0451,
+          "spread_delta_high": 2.1158,
+          "spread_delta_low": 3.7382,
+          "spread_delta_close": -1.2983,
+          "spread_delta_composite": 1.5185,
+          "exhaustion_flag": 1,
+          "compression_flag": 0,
+          "spread3_close": 1.37,
+          "dir3_close": 1,
+          "slope3_close": 2.74,
+          "spread_delta3_close": -3.74,
+          "spread_delta3_composite": -0.9534
         }
       ]
     },
@@ -4149,25 +4149,6 @@
       "type": "equity",
       "parent_id": "XLE",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 147.01,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.1294,
-          "accel100_close": -0.0003,
-          "spread_delta_high": -0.9442,
-          "spread_delta_low": 1.3617,
-          "spread_delta_close": 1.5206,
-          "spread_delta_composite": 0.646,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 1.1567,
-          "dir3_close": 0,
-          "slope3_close": 0.35,
-          "spread_delta3_close": 1.3,
-          "spread_delta3_composite": 0.6939
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 147.46,
@@ -4243,6 +4224,25 @@
           "slope3_close": 2.0933,
           "spread_delta3_close": 3.1067,
           "spread_delta3_composite": 1.3478
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 144.93,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.1106,
+          "accel100_close": -0.0966,
+          "spread_delta_high": -3.3637,
+          "spread_delta_low": -5.0351,
+          "spread_delta_close": -8.9206,
+          "spread_delta_composite": -5.7731,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -4.14,
+          "dir3_close": -1,
+          "slope3_close": -0.81,
+          "spread_delta3_close": -8.0,
+          "spread_delta3_composite": -5.5761
         }
       ]
     },
@@ -4252,25 +4252,6 @@
       "type": "equity",
       "parent_id": "XLU",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 107.17,
-          "flag3_composite": 2,
-          "dir100_close": 0,
-          "slope100_close": -0.0834,
-          "accel100_close": -0.0192,
-          "spread_delta_high": -0.1616,
-          "spread_delta_low": -0.2296,
-          "spread_delta_close": -1.2766,
-          "spread_delta_composite": -0.5559,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -0.4867,
-          "dir3_close": -1,
-          "slope3_close": -0.2033,
-          "spread_delta3_close": -1.1567,
-          "spread_delta3_composite": -0.6083
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 105.73,
@@ -4346,6 +4327,25 @@
           "slope3_close": -0.9367,
           "spread_delta3_close": 0.2167,
           "spread_delta3_composite": 0.2789
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 102.32,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "slope100_close": -0.116,
+          "accel100_close": -0.0406,
+          "spread_delta_high": -0.0926,
+          "spread_delta_low": -0.7038,
+          "spread_delta_close": -0.484,
+          "spread_delta_composite": -0.4268,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -0.64,
+          "dir3_close": -1,
+          "slope3_close": -1.0033,
+          "spread_delta3_close": 0.4033,
+          "spread_delta3_composite": 0.5506
         }
       ]
     },
@@ -4355,25 +4355,6 @@
       "type": "equity",
       "parent_id": "XME",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 76.23,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.0795,
-          "accel100_close": 0.0003,
-          "spread_delta_high": -0.5963,
-          "spread_delta_low": 0.239,
-          "spread_delta_close": -0.4695,
-          "spread_delta_composite": -0.2756,
-          "exhaustion_flag": 1,
-          "compression_flag": 0,
-          "spread3_close": 1.0367,
-          "dir3_close": 1,
-          "slope3_close": 1.2233,
-          "spread_delta3_close": -1.6133,
-          "spread_delta3_composite": -1.3744
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 71.21,
@@ -4449,6 +4430,25 @@
           "slope3_close": -0.61,
           "spread_delta3_close": 0.65,
           "spread_delta3_composite": 0.8278
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 69.24,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "slope100_close": 0.0776,
+          "accel100_close": 0.0868,
+          "spread_delta_high": 0.4641,
+          "spread_delta_low": -0.6179,
+          "spread_delta_close": -0.2176,
+          "spread_delta_composite": -0.1238,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -0.08,
+          "dir3_close": 0,
+          "slope3_close": -0.61,
+          "spread_delta3_close": 0.47,
+          "spread_delta3_composite": 0.7594
         }
       ]
     },
@@ -4458,25 +4458,6 @@
       "type": "equity",
       "parent_id": "XLI",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 325.42,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 0.2713,
-          "accel100_close": 0.0609,
-          "spread_delta_high": -10.8511,
-          "spread_delta_low": -11.113,
-          "spread_delta_close": -9.7613,
-          "spread_delta_composite": -10.5751,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -7.0633,
-          "dir3_close": -1,
-          "slope3_close": -2.6867,
-          "spread_delta3_close": -6.8033,
-          "spread_delta3_composite": -8.28
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 324.15,
@@ -4552,6 +4533,25 @@
           "slope3_close": -5.7,
           "spread_delta3_close": -4.81,
           "spread_delta3_composite": -0.27
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 312.9,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "slope100_close": 0.3058,
+          "accel100_close": -0.0025,
+          "spread_delta_high": -2.2156,
+          "spread_delta_low": 1.5268,
+          "spread_delta_close": 5.5442,
+          "spread_delta_composite": 1.6185,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 0.3967,
+          "dir3_close": -1,
+          "slope3_close": -3.5867,
+          "spread_delta3_close": 9.4367,
+          "spread_delta3_composite": 5.9822
         }
       ]
     },
@@ -4561,25 +4561,6 @@
       "type": "equity",
       "parent_id": "XLI",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 951.04,
-          "flag3_composite": 1,
-          "dir100_close": 0,
-          "slope100_close": -0.2728,
-          "accel100_close": -0.1267,
-          "spread_delta_high": 9.1941,
-          "spread_delta_low": 4.2446,
-          "spread_delta_close": -19.9972,
-          "spread_delta_composite": -2.1862,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -3.7267,
-          "dir3_close": 0,
-          "slope3_close": 3.0667,
-          "spread_delta3_close": -23.3367,
-          "spread_delta3_composite": -11.8289
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 923.91,
@@ -4655,6 +4636,25 @@
           "slope3_close": -13.7,
           "spread_delta3_close": 21.75,
           "spread_delta3_composite": 21.3707
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 925.09,
+          "flag3_composite": 0,
+          "dir100_close": 0,
+          "slope100_close": -2.2444,
+          "accel100_close": 0.2031,
+          "spread_delta_high": 45.1891,
+          "spread_delta_low": 18.175,
+          "spread_delta_close": 44.5244,
+          "spread_delta_composite": 35.9628,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 30.87,
+          "dir3_close": -1,
+          "slope3_close": -10.7267,
+          "spread_delta3_close": 53.0067,
+          "spread_delta3_composite": 45.1322
         }
       ]
     },
@@ -4664,25 +4664,6 @@
       "type": "equity",
       "parent_id": "XLC",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 330.65,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "slope100_close": -0.0537,
-          "accel100_close": -0.0661,
-          "spread_delta_high": -7.7497,
-          "spread_delta_low": -5.2538,
-          "spread_delta_close": -7.6563,
-          "spread_delta_composite": -6.8866,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -5.1733,
-          "dir3_close": -1,
-          "slope3_close": -3.9433,
-          "spread_delta3_close": -3.7667,
-          "spread_delta3_composite": -2.8622
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 332.6,
@@ -4758,6 +4739,25 @@
           "slope3_close": 4.1267,
           "spread_delta3_close": -8.5367,
           "spread_delta3_composite": -6.582
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 342.87,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.0398,
+          "accel100_close": -0.0168,
+          "spread_delta_high": 0.2656,
+          "spread_delta_low": -2.1046,
+          "spread_delta_close": -2.1498,
+          "spread_delta_composite": -1.3296,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -2.8767,
+          "dir3_close": 1,
+          "slope3_close": 1.4567,
+          "spread_delta3_close": -3.5667,
+          "spread_delta3_composite": -2.9911
         }
       ]
     },
@@ -4767,25 +4767,6 @@
       "type": "equity",
       "parent_id": "XLK",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 239.94,
-          "flag3_composite": 1,
-          "dir100_close": 0,
-          "slope100_close": -0.1106,
-          "accel100_close": 0.0165,
-          "spread_delta_high": 8.1972,
-          "spread_delta_low": 0.3177,
-          "spread_delta_close": 7.9606,
-          "spread_delta_composite": 5.4918,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 4.3,
-          "dir3_close": 1,
-          "slope3_close": 1.7433,
-          "spread_delta3_close": 6.1067,
-          "spread_delta3_composite": 4.705
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 234.02,
@@ -4861,6 +4842,25 @@
           "slope3_close": 4.7833,
           "spread_delta3_close": -5.5033,
           "spread_delta3_composite": -3.6567
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 237.49,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.0641,
+          "accel100_close": 0.1023,
+          "spread_delta_high": -8.5795,
+          "spread_delta_low": -10.8766,
+          "spread_delta_close": -10.9441,
+          "spread_delta_composite": -10.1334,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -7.4933,
+          "dir3_close": -1,
+          "slope3_close": -1.9333,
+          "spread_delta3_close": -8.9467,
+          "spread_delta3_composite": -9.4006
         }
       ]
     },
@@ -4870,25 +4870,6 @@
       "type": "equity",
       "parent_id": "XLK",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 106.24,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.3774,
-          "accel100_close": -0.0179,
-          "spread_delta_high": 0.2193,
-          "spread_delta_low": 1.9657,
-          "spread_delta_close": 1.3926,
-          "spread_delta_composite": 1.1925,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 4.07,
-          "dir3_close": 1,
-          "slope3_close": 4.8567,
-          "spread_delta3_close": -3.0867,
-          "spread_delta3_composite": -3.3005
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 100.32,
@@ -4964,6 +4945,25 @@
           "slope3_close": -1.06,
           "spread_delta3_close": 1.01,
           "spread_delta3_composite": 2.1612
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 101.05,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 0.3427,
+          "accel100_close": 0.024,
+          "spread_delta_high": 3.5786,
+          "spread_delta_low": 2.4336,
+          "spread_delta_close": 3.5673,
+          "spread_delta_composite": 3.1932,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 2.59,
+          "dir3_close": 0,
+          "slope3_close": -0.63,
+          "spread_delta3_close": 4.54,
+          "spread_delta3_composite": 4.0009
         }
       ]
     },
@@ -4973,25 +4973,6 @@
       "type": "equity",
       "parent_id": "XLV",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 267.08,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 0.3254,
-          "accel100_close": 0.0202,
-          "spread_delta_high": -2.2096,
-          "spread_delta_low": -0.4989,
-          "spread_delta_close": -2.3654,
-          "spread_delta_composite": -1.6913,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -3.3967,
-          "dir3_close": -1,
-          "slope3_close": -3.7833,
-          "spread_delta3_close": 1.7433,
-          "spread_delta3_composite": 1.5907
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 266.35,
@@ -5067,6 +5048,25 @@
           "slope3_close": 0.2833,
           "spread_delta3_close": 0.5967,
           "spread_delta3_composite": -2.0756
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 267.28,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "slope100_close": 0.3663,
+          "accel100_close": -0.0453,
+          "spread_delta_high": 1.0774,
+          "spread_delta_low": 5.2224,
+          "spread_delta_close": -0.2863,
+          "spread_delta_composite": 2.0045,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 0.3467,
+          "dir3_close": 0,
+          "slope3_close": 0.5667,
+          "spread_delta3_close": -0.4867,
+          "spread_delta3_composite": 2.2711
         }
       ]
     },
@@ -5076,25 +5076,6 @@
       "type": "equity",
       "parent_id": "XLF",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 354.71,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 0.4476,
-          "accel100_close": -0.0286,
-          "spread_delta_high": -2.6838,
-          "spread_delta_low": -4.9749,
-          "spread_delta_close": 0.7524,
-          "spread_delta_composite": -2.3021,
-          "exhaustion_flag": 0,
-          "compression_flag": 1,
-          "spread3_close": -0.91,
-          "dir3_close": -1,
-          "slope3_close": -2.45,
-          "spread_delta3_close": 3.65,
-          "spread_delta3_composite": 0.5433
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 353.56,
@@ -5170,6 +5151,25 @@
           "slope3_close": -0.3567,
           "spread_delta3_close": 2.7167,
           "spread_delta3_composite": 0.062
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 348.92,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "slope100_close": 0.3717,
+          "accel100_close": -0.0215,
+          "spread_delta_high": 0.4939,
+          "spread_delta_low": 1.2554,
+          "spread_delta_close": -3.9417,
+          "spread_delta_composite": -0.7308,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -1.5933,
+          "dir3_close": -1,
+          "slope3_close": -2.4367,
+          "spread_delta3_close": -1.1333,
+          "spread_delta3_composite": 2.0772
         }
       ]
     },
@@ -5179,25 +5179,6 @@
       "type": "equity",
       "parent_id": "XLB",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 466.65,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "slope100_close": -0.3257,
-          "accel100_close": -0.0301,
-          "spread_delta_high": -5.3067,
-          "spread_delta_low": -2.3132,
-          "spread_delta_close": -1.4043,
-          "spread_delta_composite": -3.0081,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -4.2167,
-          "dir3_close": -1,
-          "slope3_close": -5.18,
-          "spread_delta3_close": 3.45,
-          "spread_delta3_composite": 2.8722
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 461.62,
@@ -5273,6 +5254,25 @@
           "slope3_close": 0.4467,
           "spread_delta3_close": -1.8967,
           "spread_delta3_composite": -2.0906
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 462.09,
+          "flag3_composite": 2,
+          "dir100_close": 0,
+          "slope100_close": -0.4597,
+          "accel100_close": -0.1431,
+          "spread_delta_high": 2.6202,
+          "spread_delta_low": 0.5733,
+          "spread_delta_close": -0.4103,
+          "spread_delta_composite": 0.9277,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -1.0633,
+          "dir3_close": -1,
+          "slope3_close": -1.3767,
+          "spread_delta3_close": 0.5067,
+          "spread_delta3_composite": 1.2256
         }
       ]
     },
@@ -5282,25 +5282,6 @@
       "type": "equity",
       "parent_id": "XLV",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 1124.21,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 2.2078,
-          "accel100_close": 0.019,
-          "spread_delta_high": 2.0721,
-          "spread_delta_low": 3.2415,
-          "spread_delta_close": -1.9078,
-          "spread_delta_composite": 1.1353,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -8.2833,
-          "dir3_close": -1,
-          "slope3_close": -11.7967,
-          "spread_delta3_close": 12.0967,
-          "spread_delta3_composite": 12.9767
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 1123.0,
@@ -5376,6 +5357,25 @@
           "slope3_close": 4.37,
           "spread_delta3_close": -6.54,
           "spread_delta3_composite": -3.72
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 1137.82,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "slope100_close": 2.2017,
+          "accel100_close": 0.0554,
+          "spread_delta_high": -11.9923,
+          "spread_delta_low": -1.1674,
+          "spread_delta_close": -0.4917,
+          "spread_delta_composite": -4.5505,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 0.4167,
+          "dir3_close": 1,
+          "slope3_close": 7.3733,
+          "spread_delta3_close": -5.6633,
+          "spread_delta3_composite": -9.1453
         }
       ]
     },
@@ -5385,25 +5385,6 @@
       "type": "equity",
       "parent_id": "XLK",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 315.84,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.5488,
-          "accel100_close": -0.0038,
-          "spread_delta_high": -0.1196,
-          "spread_delta_low": 0.1945,
-          "spread_delta_close": -5.1288,
-          "spread_delta_composite": -1.6846,
-          "exhaustion_flag": 1,
-          "compression_flag": 0,
-          "spread3_close": 1.2033,
-          "dir3_close": 1,
-          "slope3_close": 7.7267,
-          "spread_delta3_close": -12.3067,
-          "spread_delta3_composite": -10.84
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 298.01,
@@ -5479,6 +5460,25 @@
           "slope3_close": -9.0467,
           "spread_delta3_close": 6.4267,
           "spread_delta3_composite": 5.6611
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 269.23,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.1067,
+          "accel100_close": 0.0535,
+          "spread_delta_high": -0.8746,
+          "spread_delta_low": 0.2554,
+          "spread_delta_close": -1.7467,
+          "spread_delta_composite": -0.7886,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -1.9667,
+          "dir3_close": -1,
+          "slope3_close": -9.6633,
+          "spread_delta3_close": 8.0233,
+          "spread_delta3_composite": 8.6039
         }
       ]
     },
@@ -5488,25 +5488,6 @@
       "type": "equity",
       "parent_id": "XLC",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 653.69,
-          "flag3_composite": 0,
-          "dir100_close": 0,
-          "slope100_close": -0.2318,
-          "accel100_close": 0.3492,
-          "spread_delta_high": 33.2565,
-          "spread_delta_low": 29.1119,
-          "spread_delta_close": 40.4418,
-          "spread_delta_composite": 34.2701,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 25.71,
-          "dir3_close": 1,
-          "slope3_close": 14.3367,
-          "spread_delta3_close": 25.8733,
-          "spread_delta3_composite": 21.1833
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 644.38,
@@ -5582,6 +5563,25 @@
           "slope3_close": 8.62,
           "spread_delta3_close": -3.98,
           "spread_delta3_composite": 1.1533
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 673.31,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 0.1416,
+          "accel100_close": 0.1864,
+          "spread_delta_high": 6.2825,
+          "spread_delta_low": 15.5256,
+          "spread_delta_close": 2.9284,
+          "spread_delta_composite": 8.2455,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 3.5933,
+          "dir3_close": 1,
+          "slope3_close": 8.4267,
+          "spread_delta3_close": -5.3567,
+          "spread_delta3_composite": 0.4009
         }
       ]
     },
@@ -5591,25 +5591,6 @@
       "type": "equity",
       "parent_id": "XLE",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 399.44,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 1.732,
-          "accel100_close": -0.0152,
-          "spread_delta_high": 0.6615,
-          "spread_delta_low": -3.2127,
-          "spread_delta_close": -0.062,
-          "spread_delta_composite": -0.8711,
-          "exhaustion_flag": 1,
-          "compression_flag": 0,
-          "spread3_close": 4.07,
-          "dir3_close": 1,
-          "slope3_close": 3.91,
-          "spread_delta3_close": -2.24,
-          "spread_delta3_composite": -2.0245
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 392.42,
@@ -5685,6 +5666,25 @@
           "slope3_close": 6.14,
           "spread_delta3_close": 8.25,
           "spread_delta3_composite": 5.4673
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 413.92,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 1.9282,
+          "accel100_close": 0.0405,
+          "spread_delta_high": 4.1577,
+          "spread_delta_low": 4.0769,
+          "spread_delta_close": 1.1518,
+          "spread_delta_composite": 3.1288,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 6.85,
+          "dir3_close": 1,
+          "slope3_close": 5.9967,
+          "spread_delta3_close": -2.9167,
+          "spread_delta3_composite": 0.9533
         }
       ]
     },
@@ -5694,25 +5694,6 @@
       "type": "equity",
       "parent_id": "XLV",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 147.53,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 0.3207,
-          "accel100_close": 0.0153,
-          "spread_delta_high": -0.5056,
-          "spread_delta_low": 0.5743,
-          "spread_delta_close": -1.2507,
-          "spread_delta_composite": -0.394,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -1.2433,
-          "dir3_close": -1,
-          "slope3_close": -1.6033,
-          "spread_delta3_close": 0.6733,
-          "spread_delta3_composite": 1.0286
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 144.71,
@@ -5788,6 +5769,25 @@
           "slope3_close": -0.3067,
           "spread_delta3_close": -0.7533,
           "spread_delta3_composite": -1.1989
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 144.91,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "slope100_close": 0.3029,
+          "accel100_close": -0.0062,
+          "spread_delta_high": 0.5205,
+          "spread_delta_low": 0.876,
+          "spread_delta_close": 0.8171,
+          "spread_delta_composite": 0.7379,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 0.3933,
+          "dir3_close": 0,
+          "slope3_close": 0.3267,
+          "spread_delta3_close": 0.7933,
+          "spread_delta3_composite": 1.0544
         }
       ]
     },
@@ -5797,25 +5797,6 @@
       "type": "equity",
       "parent_id": "XLK",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 491.65,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 0.7139,
-          "accel100_close": -0.1134,
-          "spread_delta_high": -1.5357,
-          "spread_delta_low": -1.1266,
-          "spread_delta_close": -3.0139,
-          "spread_delta_composite": -1.8921,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -3.45,
-          "dir3_close": -1,
-          "slope3_close": -6.1567,
-          "spread_delta3_close": 3.8567,
-          "spread_delta3_composite": 4.4867
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 492.44,
@@ -5891,6 +5872,25 @@
           "slope3_close": 1.56,
           "spread_delta3_close": -9.85,
           "spread_delta3_composite": -6.8916
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 490.3,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.7455,
+          "accel100_close": 0.1035,
+          "spread_delta_high": -10.6561,
+          "spread_delta_low": -9.0682,
+          "spread_delta_close": -7.5655,
+          "spread_delta_composite": -9.0966,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -7.31,
+          "dir3_close": -1,
+          "slope3_close": -1.7767,
+          "spread_delta3_close": -5.0433,
+          "spread_delta3_composite": -6.8333
         }
       ]
     },
@@ -5900,25 +5900,6 @@
       "type": "equity",
       "parent_id": "XLK",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 1027.77,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 5.7054,
-          "accel100_close": 0.2651,
-          "spread_delta_high": -4.471,
-          "spread_delta_low": -10.8091,
-          "spread_delta_close": 21.8046,
-          "spread_delta_composite": 2.1748,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 12.8967,
-          "dir3_close": 1,
-          "slope3_close": 23.2033,
-          "spread_delta3_close": 4.3067,
-          "spread_delta3_composite": -17.2367
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 977.41,
@@ -5994,6 +5975,25 @@
           "slope3_close": -16.6033,
           "spread_delta3_close": 20.1733,
           "spread_delta3_composite": 28.7478
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 926.55,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 4.4483,
+          "accel100_close": 0.0471,
+          "spread_delta_high": -8.2158,
+          "spread_delta_low": -6.9484,
+          "spread_delta_close": -5.4983,
+          "spread_delta_composite": -6.8875,
+          "exhaustion_flag": 1,
+          "compression_flag": 0,
+          "spread3_close": 0.49,
+          "dir3_close": -1,
+          "slope3_close": -16.2367,
+          "spread_delta3_close": 15.1867,
+          "spread_delta3_composite": 14.3778
         }
       ]
     },
@@ -6003,25 +6003,6 @@
       "type": "equity",
       "parent_id": "XLU",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 82.65,
-          "flag3_composite": 2,
-          "dir100_close": 0,
-          "slope100_close": -0.0917,
-          "accel100_close": -0.0177,
-          "spread_delta_high": -0.049,
-          "spread_delta_low": -0.6155,
-          "spread_delta_close": -1.0883,
-          "spread_delta_composite": -0.5843,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -0.6533,
-          "dir3_close": -1,
-          "slope3_close": -0.47,
-          "spread_delta3_close": -0.71,
-          "spread_delta3_composite": -0.4358
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 82.44,
@@ -6097,6 +6078,25 @@
           "slope3_close": -0.4567,
           "spread_delta3_close": -0.1033,
           "spread_delta3_composite": -0.1411
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 80.37,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "slope100_close": -0.1589,
+          "accel100_close": -0.0693,
+          "spread_delta_high": -0.0166,
+          "spread_delta_low": -0.8664,
+          "spread_delta_close": -0.5411,
+          "spread_delta_composite": -0.4747,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -0.6533,
+          "dir3_close": -1,
+          "slope3_close": -0.6467,
+          "spread_delta3_close": -0.0533,
+          "spread_delta3_composite": -0.006
         }
       ]
     },
@@ -6106,25 +6106,6 @@
       "type": "equity",
       "parent_id": "XME",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 128.71,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.1529,
-          "accel100_close": 0.0124,
-          "spread_delta_high": 0.2875,
-          "spread_delta_low": 1.1056,
-          "spread_delta_close": 1.4671,
-          "spread_delta_composite": 0.9534,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 0.7467,
-          "dir3_close": 0,
-          "slope3_close": -0.5733,
-          "spread_delta3_close": 2.1933,
-          "spread_delta3_composite": 1.2416
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 126.14,
@@ -6200,6 +6181,25 @@
           "slope3_close": -0.65,
           "spread_delta3_close": 1.77,
           "spread_delta3_composite": 1.3039
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 121.76,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "slope100_close": 0.107,
+          "accel100_close": -0.0164,
+          "spread_delta_high": 1.6319,
+          "spread_delta_low": -1.5311,
+          "spread_delta_close": -2.537,
+          "spread_delta_composite": -0.8121,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -1.2467,
+          "dir3_close": -1,
+          "slope3_close": -1.6833,
+          "spread_delta3_close": -0.7467,
+          "spread_delta3_composite": 0.8934
         }
       ]
     },
@@ -6209,25 +6209,6 @@
       "type": "equity",
       "parent_id": "XME",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 257.91,
-          "flag3_composite": 2,
-          "dir100_close": 1,
-          "slope100_close": 0.6612,
-          "accel100_close": -0.0065,
-          "spread_delta_high": -2.3927,
-          "spread_delta_low": 2.0143,
-          "spread_delta_close": 0.8488,
-          "spread_delta_composite": 0.1568,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -0.55,
-          "dir3_close": -1,
-          "slope3_close": -1.52,
-          "spread_delta3_close": 3.03,
-          "spread_delta3_composite": 2.4086
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 255.46,
@@ -6303,6 +6284,25 @@
           "slope3_close": 1.12,
           "spread_delta3_close": 3.07,
           "spread_delta3_composite": 0.755
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 260.68,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 0.4767,
+          "accel100_close": 0.0311,
+          "spread_delta_high": 4.676,
+          "spread_delta_low": 1.2252,
+          "spread_delta_close": 1.3833,
+          "spread_delta_composite": 2.4282,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 2.6367,
+          "dir3_close": 0,
+          "slope3_close": 0.4167,
+          "spread_delta3_close": 1.4433,
+          "spread_delta3_composite": 1.5944
         }
       ]
     },
@@ -6312,25 +6312,6 @@
       "type": "equity",
       "parent_id": "XLK",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 223.67,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 0.2532,
-          "accel100_close": -0.0154,
-          "spread_delta_high": -7.7933,
-          "spread_delta_low": -1.6665,
-          "spread_delta_close": -2.3132,
-          "spread_delta_composite": -3.9243,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -2.9167,
-          "dir3_close": -1,
-          "slope3_close": -1.5933,
-          "spread_delta3_close": -0.4667,
-          "spread_delta3_composite": -2.5167
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 218.36,
@@ -6406,6 +6387,25 @@
           "slope3_close": -2.0633,
           "spread_delta3_close": 3.2733,
           "spread_delta3_composite": 3.6789
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 213.9,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 0.1426,
+          "accel100_close": 0.0459,
+          "spread_delta_high": 2.6907,
+          "spread_delta_low": 1.1872,
+          "spread_delta_close": 1.5874,
+          "spread_delta_composite": 1.8218,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 1.5567,
+          "dir3_close": -1,
+          "slope3_close": -1.4633,
+          "spread_delta3_close": 3.1933,
+          "spread_delta3_composite": 3.6611
         }
       ]
     },
@@ -6415,25 +6415,6 @@
       "type": "equity",
       "parent_id": "XLP",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 142.64,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "slope100_close": -0.0047,
-          "accel100_close": -0.027,
-          "spread_delta_high": -1.6918,
-          "spread_delta_low": -1.9568,
-          "spread_delta_close": -2.9353,
-          "spread_delta_composite": -2.1946,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -2.2467,
-          "dir3_close": -1,
-          "slope3_close": -1.4267,
-          "spread_delta3_close": -1.5133,
-          "spread_delta3_composite": -0.8422
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 142.97,
@@ -6509,6 +6490,25 @@
           "slope3_close": 1.2333,
           "spread_delta3_close": -0.6933,
           "spread_delta3_composite": -1.6489
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 147.02,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 0.0131,
+          "accel100_close": -0.0255,
+          "spread_delta_high": 0.99,
+          "spread_delta_low": 2.549,
+          "spread_delta_close": 0.3369,
+          "spread_delta_composite": 1.292,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 0.4133,
+          "dir3_close": 1,
+          "slope3_close": 0.5833,
+          "spread_delta3_close": -0.2333,
+          "spread_delta3_composite": 0.4867
         }
       ]
     },
@@ -6518,25 +6518,6 @@
       "type": "equity",
       "parent_id": "XLK",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 169.53,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 0.2677,
-          "accel100_close": -0.0138,
-          "spread_delta_high": -4.2309,
-          "spread_delta_low": -1.6808,
-          "spread_delta_close": -1.0377,
-          "spread_delta_composite": -2.3165,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -1.8567,
-          "dir3_close": -1,
-          "slope3_close": -4.3333,
-          "spread_delta3_close": 3.5633,
-          "spread_delta3_composite": 1.3233
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 165.86,
@@ -6612,6 +6593,25 @@
           "slope3_close": 2.2333,
           "spread_delta3_close": -2.9833,
           "spread_delta3_composite": -0.6289
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 174.34,
+          "flag3_composite": 1,
+          "dir100_close": 1,
+          "slope100_close": 0.3277,
+          "accel100_close": 0.1283,
+          "spread_delta_high": -2.0697,
+          "spread_delta_low": -0.7804,
+          "spread_delta_close": 1.4523,
+          "spread_delta_composite": -0.4659,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 0.9367,
+          "dir3_close": 1,
+          "slope3_close": 2.37,
+          "spread_delta3_close": -0.59,
+          "spread_delta3_composite": -2.0478
         }
       ]
     },
@@ -6621,25 +6621,6 @@
       "type": "equity",
       "parent_id": "XLE",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 260.78,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.975,
-          "accel100_close": -0.0016,
-          "spread_delta_high": 1.6724,
-          "spread_delta_low": -1.3296,
-          "spread_delta_close": 0.665,
-          "spread_delta_composite": 0.336,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 2.4433,
-          "dir3_close": 1,
-          "slope3_close": 2.04,
-          "spread_delta3_close": -0.4,
-          "spread_delta3_composite": -0.139
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 258.51,
@@ -6715,6 +6696,25 @@
           "slope3_close": 2.14,
           "spread_delta3_close": 5.73,
           "spread_delta3_composite": 3.7037
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 264.63,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 1.051,
+          "accel100_close": 0.0079,
+          "spread_delta_high": -0.4563,
+          "spread_delta_low": 0.3714,
+          "spread_delta_close": -1.351,
+          "spread_delta_composite": -0.4786,
+          "exhaustion_flag": 1,
+          "compression_flag": 0,
+          "spread3_close": 2.4233,
+          "dir3_close": 1,
+          "slope3_close": 1.72,
+          "spread_delta3_close": -2.02,
+          "spread_delta3_composite": -0.3164
         }
       ]
     },
@@ -6724,25 +6724,6 @@
       "type": "equity",
       "parent_id": "XLB",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 320.64,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "slope100_close": -0.1264,
-          "accel100_close": -0.0989,
-          "spread_delta_high": -5.7358,
-          "spread_delta_low": -5.8458,
-          "spread_delta_close": -5.3236,
-          "spread_delta_composite": -5.6351,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -6.1733,
-          "dir3_close": -1,
-          "slope3_close": -3.8733,
-          "spread_delta3_close": -1.5767,
-          "spread_delta3_composite": -2.4924
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 317.44,
@@ -6818,6 +6799,25 @@
           "slope3_close": 1.9267,
           "spread_delta3_close": -3.2067,
           "spread_delta3_composite": -2.33
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 321.46,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "slope100_close": -0.162,
+          "accel100_close": -0.0427,
+          "spread_delta_high": 1.986,
+          "spread_delta_low": -0.0322,
+          "spread_delta_close": -1.598,
+          "spread_delta_composite": 0.1186,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -1.6,
+          "dir3_close": 0,
+          "slope3_close": -0.6167,
+          "spread_delta3_close": -1.1433,
+          "spread_delta3_composite": -0.2222
         }
       ]
     },
@@ -6827,25 +6827,6 @@
       "type": "equity",
       "parent_id": "XLE",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 57.05,
-          "flag3_composite": 1,
-          "dir100_close": 1,
-          "slope100_close": 0.0532,
-          "accel100_close": 0.0065,
-          "spread_delta_high": 0.7168,
-          "spread_delta_low": 0.0004,
-          "spread_delta_close": -0.1032,
-          "spread_delta_composite": 0.2047,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -0.17,
-          "dir3_close": 0,
-          "slope3_close": -0.12,
-          "spread_delta3_close": 0.07,
-          "spread_delta3_composite": 0.3401
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 56.01,
@@ -6921,6 +6902,25 @@
           "slope3_close": -0.6033,
           "spread_delta3_close": 1.4833,
           "spread_delta3_composite": 0.5656
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 52.3,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "slope100_close": -0.0244,
+          "accel100_close": -0.0229,
+          "spread_delta_high": -0.1776,
+          "spread_delta_low": -1.5012,
+          "spread_delta_close": -1.8756,
+          "spread_delta_composite": -1.1848,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -0.9733,
+          "dir3_close": -1,
+          "slope3_close": -1.2533,
+          "spread_delta3_close": -0.6467,
+          "spread_delta3_composite": -0.0528
         }
       ]
     },
@@ -6930,25 +6930,6 @@
       "type": "equity",
       "parent_id": "XLK",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 38.93,
-          "flag3_composite": 2,
-          "dir100_close": 1,
-          "slope100_close": 0.1053,
-          "accel100_close": -0.0244,
-          "spread_delta_high": -1.4646,
-          "spread_delta_low": -0.9516,
-          "spread_delta_close": -1.4353,
-          "spread_delta_composite": -1.2838,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -0.6633,
-          "dir3_close": 0,
-          "slope3_close": 0.3533,
-          "spread_delta3_close": -1.6833,
-          "spread_delta3_composite": -1.8483
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 37.38,
@@ -7024,6 +7005,25 @@
           "slope3_close": -0.58,
           "spread_delta3_close": -0.52,
           "spread_delta3_composite": -0.2351
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 36.85,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "slope100_close": 0.101,
+          "accel100_close": 0.0364,
+          "spread_delta_high": -0.5248,
+          "spread_delta_low": -0.303,
+          "spread_delta_close": 1.109,
+          "spread_delta_composite": 0.0937,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 0.44,
+          "dir3_close": -1,
+          "slope3_close": -1.0833,
+          "spread_delta3_close": 2.2933,
+          "spread_delta3_composite": 1.1657
         }
       ]
     },
@@ -7033,25 +7033,6 @@
       "type": "equity",
       "parent_id": "XLU",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 88.34,
-          "flag3_composite": 1,
-          "dir100_close": 0,
-          "slope100_close": -0.0656,
-          "accel100_close": -0.0092,
-          "spread_delta_high": -0.0842,
-          "spread_delta_low": -0.0311,
-          "spread_delta_close": -0.5844,
-          "spread_delta_composite": -0.2332,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -0.14,
-          "dir3_close": 0,
-          "slope3_close": -0.1433,
-          "spread_delta3_close": -0.5067,
-          "spread_delta3_composite": -0.2145
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 87.75,
@@ -7127,6 +7108,25 @@
           "slope3_close": -0.6,
           "spread_delta3_close": -0.45,
           "spread_delta3_composite": -0.2517
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 86.23,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "slope100_close": -0.0768,
+          "accel100_close": -0.0176,
+          "spread_delta_high": -0.3188,
+          "spread_delta_low": 0.0242,
+          "spread_delta_close": 0.3568,
+          "spread_delta_composite": 0.0207,
+          "exhaustion_flag": 0,
+          "compression_flag": 1,
+          "spread3_close": -0.1633,
+          "dir3_close": -1,
+          "slope3_close": -0.3133,
+          "spread_delta3_close": 0.5933,
+          "spread_delta3_composite": 0.3812
         }
       ]
     },
@@ -7240,25 +7240,6 @@
       "parent_id": "XME",
       "signals": [
         {
-          "signal_date": "2026-09-09",
-          "price_close": 240.69,
-          "flag3_composite": 2,
-          "dir100_close": 1,
-          "slope100_close": 0.4494,
-          "accel100_close": -0.0126,
-          "spread_delta_high": -0.4998,
-          "spread_delta_low": 1.4922,
-          "spread_delta_close": -0.0694,
-          "spread_delta_composite": 0.3077,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -0.33,
-          "dir3_close": -1,
-          "slope3_close": -1.78,
-          "spread_delta3_close": 2.16,
-          "spread_delta3_composite": 2.5277
-        },
-        {
           "signal_date": "2026-09-10",
           "price_close": 237.08,
           "flag3_composite": 3,
@@ -7333,6 +7314,25 @@
           "slope3_close": 0.7133,
           "spread_delta3_close": 3.9767,
           "spread_delta3_composite": -0.0144
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 238.23,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 0.1318,
+          "accel100_close": 0.0142,
+          "spread_delta_high": 2.0837,
+          "spread_delta_low": 0.9092,
+          "spread_delta_close": -1.1218,
+          "spread_delta_composite": 0.6237,
+          "exhaustion_flag": 1,
+          "compression_flag": 0,
+          "spread3_close": 0.9033,
+          "dir3_close": 0,
+          "slope3_close": -0.52,
+          "spread_delta3_close": -0.47,
+          "spread_delta3_composite": 0.5622
         }
       ]
     },
@@ -7342,25 +7342,6 @@
       "type": "equity",
       "parent_id": "XLV",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 605.69,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 0.8969,
-          "accel100_close": 0.1824,
-          "spread_delta_high": 0.6198,
-          "spread_delta_low": 0.6598,
-          "spread_delta_close": 1.7731,
-          "spread_delta_composite": 1.0176,
-          "exhaustion_flag": 0,
-          "compression_flag": 1,
-          "spread3_close": -1.8067,
-          "dir3_close": -1,
-          "slope3_close": -4.2467,
-          "spread_delta3_close": 6.9167,
-          "spread_delta3_composite": 5.4511
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 603.18,
@@ -7436,6 +7417,25 @@
           "slope3_close": 12.7367,
           "spread_delta3_close": 15.0333,
           "spread_delta3_composite": 10.3822
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 648.43,
+          "flag3_composite": 0,
+          "dir100_close": 1,
+          "slope100_close": 1.8207,
+          "accel100_close": 0.5494,
+          "spread_delta_high": 9.6599,
+          "spread_delta_low": 22.2261,
+          "spread_delta_close": 5.2193,
+          "spread_delta_composite": 12.3684,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 13.95,
+          "dir3_close": 1,
+          "slope3_close": 12.87,
+          "spread_delta3_close": -5.83,
+          "spread_delta3_composite": 2.1044
         }
       ]
     },
@@ -7445,25 +7445,6 @@
       "type": "equity",
       "parent_id": "XLY",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 367.81,
-          "flag3_composite": 0,
-          "dir100_close": 0,
-          "slope100_close": -0.2109,
-          "accel100_close": 0.027,
-          "spread_delta_high": 5.6262,
-          "spread_delta_low": 10.408,
-          "spread_delta_close": -0.1391,
-          "spread_delta_composite": 5.2984,
-          "exhaustion_flag": 1,
-          "compression_flag": 0,
-          "spread3_close": 4.46,
-          "dir3_close": -1,
-          "slope3_close": -2.8517,
-          "spread_delta3_close": 2.5017,
-          "spread_delta3_composite": 6.9994
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 363.56,
@@ -7539,6 +7520,25 @@
           "slope3_close": -2.3267,
           "spread_delta3_close": -0.0633,
           "spread_delta3_composite": -1.6367
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 358.08,
+          "flag3_composite": 1,
+          "dir100_close": 0,
+          "slope100_close": -0.1564,
+          "accel100_close": 0.1529,
+          "spread_delta_high": 2.9124,
+          "spread_delta_low": 0.9763,
+          "spread_delta_close": 1.6564,
+          "spread_delta_composite": 1.8484,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 0.2033,
+          "dir3_close": -1,
+          "slope3_close": -2.4533,
+          "spread_delta3_close": 3.9533,
+          "spread_delta3_composite": 3.6425
         }
       ]
     },
@@ -7548,25 +7548,6 @@
       "type": "equity",
       "parent_id": "XLK",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 435.36,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.7286,
-          "accel100_close": 0.0808,
-          "spread_delta_high": -5.5906,
-          "spread_delta_low": -2.5716,
-          "spread_delta_close": -4.3686,
-          "spread_delta_composite": -4.177,
-          "exhaustion_flag": 1,
-          "compression_flag": 0,
-          "spread3_close": 0.9367,
-          "dir3_close": 1,
-          "slope3_close": 6.1167,
-          "spread_delta3_close": -9.7567,
-          "spread_delta3_composite": -10.6272
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 428.03,
@@ -7642,6 +7623,25 @@
           "slope3_close": -4.76,
           "spread_delta3_close": 0.5,
           "spread_delta3_composite": 0.6311
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 417.72,
+          "flag3_composite": 2,
+          "dir100_close": 1,
+          "slope100_close": 0.3595,
+          "accel100_close": 0.0874,
+          "spread_delta_high": -2.41,
+          "spread_delta_low": 0.9405,
+          "spread_delta_close": 3.6105,
+          "spread_delta_composite": 0.7137,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": 1.2267,
+          "dir3_close": -1,
+          "slope3_close": -5.1733,
+          "spread_delta3_close": 9.1433,
+          "spread_delta3_composite": 6.1878
         }
       ]
     },
@@ -7651,25 +7651,6 @@
       "type": "equity",
       "parent_id": "XLV",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 393.06,
-          "flag3_composite": 2,
-          "dir100_close": 1,
-          "slope100_close": 0.7666,
-          "accel100_close": -0.1009,
-          "spread_delta_high": 1.7658,
-          "spread_delta_low": -13.0096,
-          "spread_delta_close": -8.5466,
-          "spread_delta_composite": -6.5968,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -3.9533,
-          "dir3_close": -1,
-          "slope3_close": -2.6267,
-          "spread_delta3_close": -5.1533,
-          "spread_delta3_composite": -3.1949
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 388.28,
@@ -7745,6 +7726,25 @@
           "slope3_close": -4.1167,
           "spread_delta3_close": -3.5033,
           "spread_delta3_composite": -0.2521
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 375.26,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.2075,
+          "accel100_close": -0.0176,
+          "spread_delta_high": -3.8137,
+          "spread_delta_low": -2.1013,
+          "spread_delta_close": -0.8775,
+          "spread_delta_composite": -2.2642,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -2.9867,
+          "dir3_close": 0,
+          "slope3_close": -1.2767,
+          "spread_delta3_close": 0.6067,
+          "spread_delta3_composite": -0.0833
         }
       ]
     },
@@ -7754,25 +7754,6 @@
       "type": "equity",
       "parent_id": "XLF",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 367.39,
-          "flag3_composite": 3,
-          "dir100_close": 1,
-          "slope100_close": 0.5228,
-          "accel100_close": -0.0043,
-          "spread_delta_high": -4.5348,
-          "spread_delta_low": -2.0731,
-          "spread_delta_close": -1.7728,
-          "spread_delta_composite": -2.7936,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -2.9767,
-          "dir3_close": -1,
-          "slope3_close": -3.7867,
-          "spread_delta3_close": 2.5367,
-          "spread_delta3_composite": 1.6201
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 367.21,
@@ -7848,6 +7829,25 @@
           "slope3_close": 2.8033,
           "spread_delta3_close": -2.4633,
           "spread_delta3_composite": -2.4456
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 370.93,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.6205,
+          "accel100_close": -0.0228,
+          "spread_delta_high": -0.5381,
+          "spread_delta_low": -5.3311,
+          "spread_delta_close": -5.3105,
+          "spread_delta_composite": -3.7266,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -3.0133,
+          "dir3_close": 0,
+          "slope3_close": 0.16,
+          "spread_delta3_close": -4.85,
+          "spread_delta3_composite": -3.682
         }
       ]
     },
@@ -7857,25 +7857,6 @@
       "type": "equity",
       "parent_id": "XLE",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 75.15,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.0429,
-          "accel100_close": -0.0077,
-          "spread_delta_high": 0.838,
-          "spread_delta_low": 1.2831,
-          "spread_delta_close": -0.7229,
-          "spread_delta_composite": 0.4661,
-          "exhaustion_flag": 1,
-          "compression_flag": 0,
-          "spread3_close": 0.1067,
-          "dir3_close": 1,
-          "slope3_close": 0.3667,
-          "spread_delta3_close": -1.0467,
-          "spread_delta3_composite": 0.1906
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 72.82,
@@ -7951,6 +7932,25 @@
           "slope3_close": -0.3967,
           "spread_delta3_close": 0.0767,
           "spread_delta3_composite": 0.3156
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 70.9,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "slope100_close": -0.0075,
+          "accel100_close": -0.013,
+          "spread_delta_high": -0.6496,
+          "spread_delta_low": -1.2209,
+          "spread_delta_close": -0.7224,
+          "spread_delta_composite": -0.8643,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -0.5933,
+          "dir3_close": -1,
+          "slope3_close": -0.65,
+          "spread_delta3_close": -0.08,
+          "spread_delta3_composite": -0.1828
         }
       ]
     },
@@ -7960,25 +7960,6 @@
       "type": "equity",
       "parent_id": "XLP",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 105.83,
-          "flag3_composite": 3,
-          "dir100_close": 0,
-          "slope100_close": -0.1899,
-          "accel100_close": -0.0028,
-          "spread_delta_high": -0.5571,
-          "spread_delta_low": -0.3119,
-          "spread_delta_close": -0.0301,
-          "spread_delta_composite": -0.2997,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -0.51,
-          "dir3_close": -1,
-          "slope3_close": -0.8633,
-          "spread_delta3_close": 0.6433,
-          "spread_delta3_composite": 0.2478
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 105.73,
@@ -8054,6 +8035,25 @@
           "slope3_close": 0.7867,
           "spread_delta3_close": -1.7767,
           "spread_delta3_composite": -1.2878
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 107.5,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "slope100_close": -0.2453,
+          "accel100_close": -0.0264,
+          "spread_delta_high": -0.3271,
+          "spread_delta_low": -0.1796,
+          "spread_delta_close": -0.3447,
+          "spread_delta_composite": -0.2838,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -0.7233,
+          "dir3_close": 0,
+          "slope3_close": 0.1167,
+          "spread_delta3_close": -0.7067,
+          "spread_delta3_composite": -0.9161
         }
       ]
     },
@@ -8063,25 +8063,6 @@
       "type": "equity",
       "parent_id": "XLE",
       "signals": [
-        {
-          "signal_date": "2026-09-09",
-          "price_close": 164.23,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.1239,
-          "accel100_close": 0.0074,
-          "spread_delta_high": 1.946,
-          "spread_delta_low": 3.668,
-          "spread_delta_close": 3.4461,
-          "spread_delta_composite": 3.02,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 2.7767,
-          "dir3_close": 0,
-          "slope3_close": 0.6733,
-          "spread_delta3_close": 2.8967,
-          "spread_delta3_composite": 2.9233
-        },
         {
           "signal_date": "2026-09-10",
           "price_close": 165.23,
@@ -8157,6 +8138,25 @@
           "slope3_close": 1.3633,
           "spread_delta3_close": 2.8767,
           "spread_delta3_composite": 0.9211
+        },
+        {
+          "signal_date": "2026-09-16",
+          "price_close": 163.32,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.1279,
+          "accel100_close": -0.0707,
+          "spread_delta_high": -2.3076,
+          "spread_delta_low": -2.7306,
+          "spread_delta_close": -6.1279,
+          "spread_delta_composite": -3.7221,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -2.5867,
+          "dir3_close": -1,
+          "slope3_close": -0.89,
+          "spread_delta3_close": -5.11,
+          "spread_delta3_composite": -3.1578
         }
       ]
     }
