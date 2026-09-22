@@ -1,0 +1,28 @@
+# Ping Weekly Archive -- 2026-W39
+
+| Session Date | Ticker | Type | Bars | Decisions |
+|---|---|---|---|---|
+| 2026-09-21 | AMD | candidate | 589 | 0 |
+| 2026-09-21 | ANET | candidate | 340 | 0 |
+| 2026-09-21 | ARM | candidate | 541 | 0 |
+| 2026-09-21 | FCX | candidate | 368 | 0 |
+| 2026-09-21 | META | candidate | 586 | 0 |
+| 2026-09-21 | MPC | candidate | 327 | 0 |
+| 2026-09-21 | MU | candidate | 596 | 0 |
+| 2026-09-21 | NEM | candidate | 332 | 0 |
+| 2026-09-21 | PSX | candidate | 314 | 0 |
+| 2026-09-21 | SPY | etf_context | 531 | 0 |
+| 2026-09-21 | TSM | candidate | 486 | 0 |
+| 2026-09-21 | VLO | candidate | 335 | 0 |
+| 2026-09-21 | XLB | etf_context | 322 | 0 |
+| 2026-09-21 | XLC | etf_context | 357 | 0 |
+| 2026-09-21 | XLE | etf_context | 453 | 0 |
+| 2026-09-21 | XLF | etf_context | 397 | 0 |
+| 2026-09-21 | XLI | etf_context | 338 | 0 |
+| 2026-09-21 | XLK | etf_context | 394 | 0 |
+| 2026-09-21 | XLP | etf_context | 349 | 0 |
+| 2026-09-21 | XLRE | etf_context | 305 | 0 |
+| 2026-09-21 | XLU | etf_context | 380 | 0 |
+| 2026-09-21 | XLV | etf_context | 347 | 0 |
+| 2026-09-21 | XLY | etf_context | 348 | 0 |
+| 2026-09-21 | XME | etf_context | 278 | 0 |
