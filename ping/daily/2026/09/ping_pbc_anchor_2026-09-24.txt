@@ -1,0 +1,26 @@
+# Ping pBC Anchor -- 2026-09-24
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 11:56 | ABBV | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | AEP | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | ARM | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | BRK-B | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | COP | Cycle1_LongOnly | 0.500941 | MIXED | 1.323 | 0.414847 | -0.086094 | 43 |
+| 11:56 | CVX | Cycle1_LongOnly | 0.540011 | POSITIVE_COMPRESSION | 1.18 | 0.540011 | 0.0 | 54 |
+| 11:56 | ETR | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | JNJ | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | LLY | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | META | Cycle1_LongOnly | 0.0 | NEUTRAL | 1.6037 | 0.0 | 0.0 | 59 |
+| 11:56 | MRK | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | MSFT | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | NEE | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | NVDA | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 08:56 | PLTR | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 09:30 | PLTR | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | PLTR | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | PSX | Cycle1_LongOnly | 0.596369 | MIXED | 0.836 | 1.163885 | 0.567516 | 40 |
+| 11:56 | SMCI | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | SO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | V | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | XOM | Cycle1_LongOnly | 0.195681 | POSITIVE_COMPRESSION | 1.7025 | 0.18986 | -0.005821 | 54 |
