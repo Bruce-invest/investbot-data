@@ -1,0 +1,25 @@
+# Ping pBC Anchor -- 2026-09-28
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 11:56 | AAPL | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | ABT | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | AEP | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | AMD | Cycle1_LongOnly | 5.126943 | MIXED | -0.7226 | 17.017004 | 11.890061 | 59 |
+| 11:56 | ARM | Cycle1_LongOnly | -7.370242 | MIXED | 2.1286 | -7.370242 | 0.0 | 58 |
+| 11:56 | COP | Cycle1_LongOnly | 0.017716 | MIXED | 0.2931 | 0.0 | -0.017716 | 47 |
+| 11:56 | CVX | Cycle1_LongOnly | 0.109004 | MIXED | 1.02 | 0.0 | -0.109004 | 52 |
+| 11:56 | EOG | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | ETR | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | FCX | Cycle1_LongOnly | 0.019172 | NEGATIVE_BAND_COMPRESSION | -1.496 | 0.001924 | -0.017248 | 51 |
+| 11:56 | GILD | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | INTC | Cycle1_LongOnly | -0.001466 | MIXED | -2.8127 | 0.0 | 0.001466 | 59 |
+| 11:56 | JNJ | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | LLY | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | MU | Cycle1_LongOnly | -34.376489 | MIXED | -0.6232 | 0.193849 | 34.570338 | 59 |
+| 11:56 | NEE | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | NEM | Cycle1_LongOnly | 0.117123 | NEGATIVE_BAND_COMPRESSION | -5.2277 | 0.012952 | -0.104171 | 45 |
+| 11:56 | SO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | TMO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | UNH | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | XOM | Cycle1_LongOnly | 0.047931 | MIXED | 0.8119 | 0.0 | -0.047931 | 55 |
