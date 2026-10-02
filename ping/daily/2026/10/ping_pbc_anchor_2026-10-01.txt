@@ -1,0 +1,28 @@
+# Ping pBC Anchor -- 2026-10-01
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 11:56 | AAPL | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | ABBV | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | AEP | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | AMD | Cycle1_LongOnly | -2.849196 | MIXED | 0.5652 | 0.0 | 2.849196 | 58 |
+| 11:56 | BRK-B | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | COP | Cycle1_LongOnly | -0.004037 | NEGATIVE_COMPRESSION | 1.5535 | 0.0 | 0.004037 | 50 |
+| 11:56 | CVX | Cycle1_LongOnly | 0.092807 | MIXED | 0.8038 | 0.0 | -0.092807 | 51 |
+| 11:56 | D | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | FCX | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | JNJ | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | META | Cycle1_LongOnly | 2.174431 | NEGATIVE_BAND_COMPRESSION | 0.3257 | 0.0 | -2.174431 | 59 |
+| 11:56 | MRK | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | MSFT | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | NEE | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | NUE | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | NVDA | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | PM | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | SHW | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | SMCI | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | SO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | SRE | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | TMO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | V | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | XOM | Cycle1_LongOnly | 0.026013 | NEGATIVE_BAND_COMPRESSION | 0.7232 | 0.0 | -0.026013 | 50 |
