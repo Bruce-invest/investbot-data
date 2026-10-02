@@ -1,0 +1,35 @@
+# Ping Monthly Archive -- 2026-10
+
+| Session Date | Ticker | Type | Bars | Decisions |
+|---|---|---|---|---|
+| 2026-10-01 | AMD | candidate | 591 | 0 |
+| 2026-10-01 | ARM | candidate | 480 | 0 |
+| 2026-10-01 | CAT | candidate | 338 | 0 |
+| 2026-10-01 | COP | candidate | 346 | 0 |
+| 2026-10-01 | CVX | candidate | 358 | 0 |
+| 2026-10-01 | FCX | candidate | 26 | 0 |
+| 2026-10-01 | GE | candidate | 357 | 0 |
+| 2026-10-01 | GEV | candidate | 378 | 0 |
+| 2026-10-01 | INTC | candidate | 599 | 0 |
+| 2026-10-01 | LRCX | candidate | 509 | 0 |
+| 2026-10-01 | META | candidate | 570 | 0 |
+| 2026-10-01 | MPC | candidate | 297 | 0 |
+| 2026-10-01 | MU | candidate | 602 | 0 |
+| 2026-10-01 | NEM | candidate | 347 | 0 |
+| 2026-10-01 | PSX | candidate | 291 | 0 |
+| 2026-10-01 | SCCO | candidate | 266 | 0 |
+| 2026-10-01 | SPY | etf_context | 534 | 0 |
+| 2026-10-01 | VLO | candidate | 311 | 0 |
+| 2026-10-01 | XLB | etf_context | 368 | 0 |
+| 2026-10-01 | XLC | etf_context | 368 | 0 |
+| 2026-10-01 | XLE | etf_context | 437 | 0 |
+| 2026-10-01 | XLF | etf_context | 424 | 0 |
+| 2026-10-01 | XLI | etf_context | 370 | 0 |
+| 2026-10-01 | XLK | etf_context | 409 | 0 |
+| 2026-10-01 | XLP | etf_context | 384 | 0 |
+| 2026-10-01 | XLRE | etf_context | 318 | 0 |
+| 2026-10-01 | XLU | etf_context | 425 | 0 |
+| 2026-10-01 | XLV | etf_context | 384 | 0 |
+| 2026-10-01 | XLY | etf_context | 377 | 0 |
+| 2026-10-01 | XME | etf_context | 271 | 0 |
+| 2026-10-01 | XOM | candidate | 391 | 0 |
