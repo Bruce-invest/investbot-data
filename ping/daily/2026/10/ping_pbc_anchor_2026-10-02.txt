@@ -1,0 +1,30 @@
+# Ping pBC Anchor -- 2026-10-02
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 11:56 | ABBV | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | AMD | Cycle1_LongOnly | -5.061051 | MIXED | 2.009 | -6.48151 | -1.420459 | 59 |
+| 11:56 | ANET | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | BRK-B | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | COP | Cycle1_LongOnly | -0.046322 | MIXED | 0.5554 | 0.0 | 0.046322 | 53 |
+| 11:56 | CVX | Cycle1_LongOnly | 0.060068 | MIXED | 0.6659 | 0.0 | -0.060068 | 51 |
+| 11:56 | D | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | EOG | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | FCX | Cycle1_LongOnly | 0.0 | NEUTRAL | 0.9154 | 0.0 | 0.0 | 58 |
+| 11:56 | GE | Cycle1_LongOnly | 0.407243 | POSITIVE_COMPRESSION | -0.1196 | 0.407243 | 0.0 | 54 |
+| 11:56 | JNJ | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | JPM | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | LLY | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | META | Cycle1_LongOnly | -3.414348 | MIXED | 0.5493 | -1.716358 | 1.69799 | 59 |
+| 11:56 | MRK | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | MSFT | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | MU | Cycle1_LongOnly | -4.09121 | MIXED | 0.748 | 7.763244 | 11.854454 | 59 |
+| 11:56 | NEE | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | NVDA | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | PG | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | PM | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | SHW | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | SO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | V | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | VLO | Cycle1_LongOnly | 7.621042 | POSITIVE_COMPRESSION | 0.542 | -2.184895 | -9.805937 | 43 |
+| 11:56 | XOM | Cycle1_LongOnly | 0.019612 | MIXED | 0.6306 | 0.0 | -0.019612 | 52 |
