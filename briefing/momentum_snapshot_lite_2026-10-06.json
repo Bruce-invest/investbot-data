@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-10-06",
-  "generated_at": "2026-10-06T14:42:45",
+  "generated_at": "2026-10-06T15:20:39",
   "schema_version": "1.0",
   "description": "Key momentum signals \u00e2\u20ac\u201d 5-session history. Full snapshot at momentum_snapshot_2026-10-06.json",
   "fields": [
@@ -2399,6 +2399,25 @@
       "parent_id": "XLE",
       "signals": [
         {
+          "signal_date": "2026-09-29",
+          "price_close": 52.26,
+          "flag3_composite": 3,
+          "dir100_close": 0,
+          "slope100_close": -0.0053,
+          "accel100_close": 0.0044,
+          "spread_delta_high": -0.684,
+          "spread_delta_low": -0.5552,
+          "spread_delta_close": -0.6647,
+          "spread_delta_composite": -0.6346,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -0.4867,
+          "dir3_close": -1,
+          "slope3_close": -0.38,
+          "spread_delta3_close": -0.29,
+          "spread_delta3_composite": -0.2267
+        },
+        {
           "signal_date": "2026-09-30",
           "price_close": 51.87,
           "flag3_composite": 3,
@@ -2473,25 +2492,6 @@
           "slope3_close": 0.3667,
           "spread_delta3_close": -0.0367,
           "spread_delta3_composite": 0.2144
-        },
-        {
-          "signal_date": "2026-10-06",
-          "price_close": 53.32,
-          "flag3_composite": 0,
-          "dir100_close": 1,
-          "slope100_close": 0.0015,
-          "accel100_close": 0.0125,
-          "spread_delta_high": 0.0832,
-          "spread_delta_low": 0.3455,
-          "spread_delta_close": 0.3485,
-          "spread_delta_composite": 0.2591,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": 0.3433,
-          "dir3_close": 1,
-          "slope3_close": 0.3533,
-          "spread_delta3_close": -0.0033,
-          "spread_delta3_composite": -0.1144
         }
       ]
     },
@@ -6725,6 +6725,25 @@
       "parent_id": "XLF",
       "signals": [
         {
+          "signal_date": "2026-09-29",
+          "price_close": 61.57,
+          "flag3_composite": 3,
+          "dir100_close": 1,
+          "slope100_close": 0.0709,
+          "accel100_close": -0.0104,
+          "spread_delta_high": -0.4711,
+          "spread_delta_low": -0.2617,
+          "spread_delta_close": -0.1609,
+          "spread_delta_composite": -0.2979,
+          "exhaustion_flag": 0,
+          "compression_flag": 0,
+          "spread3_close": -0.2067,
+          "dir3_close": 0,
+          "slope3_close": 0.0233,
+          "spread_delta3_close": -0.1133,
+          "spread_delta3_composite": -0.2
+        },
+        {
           "signal_date": "2026-09-30",
           "price_close": 60.64,
           "flag3_composite": 3,
@@ -6799,25 +6818,6 @@
           "slope3_close": 0.2167,
           "spread_delta3_close": -0.2367,
           "spread_delta3_composite": 0.1833
-        },
-        {
-          "signal_date": "2026-10-06",
-          "price_close": 61.26,
-          "flag3_composite": 1,
-          "dir100_close": 1,
-          "slope100_close": 0.0664,
-          "accel100_close": 0.0017,
-          "spread_delta_high": 0.0153,
-          "spread_delta_low": -0.0679,
-          "spread_delta_close": -0.0964,
-          "spread_delta_composite": -0.0497,
-          "exhaustion_flag": 0,
-          "compression_flag": 0,
-          "spread3_close": -0.0267,
-          "dir3_close": 1,
-          "slope3_close": 0.2133,
-          "spread_delta3_close": -0.2433,
-          "spread_delta3_composite": -0.3611
         }
       ]
     },
