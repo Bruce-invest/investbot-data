@@ -1,0 +1,20 @@
+# Ping pBC Anchor -- 2026-10-05
+
+| anchor_time | ticker | strategy_id | anchor_pbc | anchor_pbc_state | anchor_price_position | anchor_lb_slope | anchor_ub_slope | bars_used |
+|---|---|---|---|---|---|---|---|---|
+| 11:56 | AAPL | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | AMD | Cycle1_LongOnly | -6.548447 | MIXED | 0.625 | 4.560908 | 11.109355 | 59 |
+| 11:56 | COP | Cycle1_LongOnly | -0.012577 | MIXED | 3.1818 | -0.010387 | 0.00219 | 46 |
+| 11:56 | CVX | Cycle1_LongOnly | -0.084155 | MIXED | 0.2403 | -0.096567 | -0.012412 | 57 |
+| 11:56 | D | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | DHR | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | EOG | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | JNJ | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | LRCX | Cycle1_LongOnly | 0.074034 | NEGATIVE_BAND_COMPRESSION | 0.5498 | 0.0 | -0.074034 | 51 |
+| 11:56 | META | Cycle1_LongOnly | 0.085402 | MIXED | 3.2006 | -0.77579 | -0.861192 | 59 |
+| 11:56 | MRK | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | MSFT | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | NVDA | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | SHW | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | TMO | Cycle1_LongOnly |  |  |  |  |  | 0 |
+| 11:56 | XOM | Cycle1_LongOnly | -0.000663 | MIXED | 0.7453 | 0.014557 | 0.01522 | 58 |
